@@ -11,10 +11,6 @@ events
 }
 http
 {
-  add_header Access-Control-Allow-Origin *;
-  add_header Access-Control-Allow-Methods GET,POST,OPTIONS;
-  add_header Access-Control-Allow-Headers X-Requested-With;
-
   include mime.types;
   default_type application/octet-stream;
   log_format main  '$remote_addr - $remote_user [$time_local] "$request" '
@@ -48,12 +44,31 @@ http
   gzip_vary on;
  
   #limit_zone crawler $binary_remote_addr 10m;
-  #下面是server虚拟主机的配置
-  server {
-    listen 9104;
-    location / {
-      root /data/admin-web;
-      index  index.html index.htm;
+ #下面是server虚拟主机的配置
+ server
+  {
+    listen 80;#监听端口
+    server_name localhost;#域名
+    index index.html index.htm index.php;
+    root /usr/local/webserver/nginx/html;#站点目录
+      location ~ .*\.(php|php5)?$
+    {
+      #fastcgi_pass unix:/tmp/php-cgi.sock;
+      fastcgi_pass 127.0.0.1:9000;
+      fastcgi_index index.php;
+      include fastcgi.conf;
     }
+    location ~ .*\.(gif|jpg|jpeg|png|bmp|swf|ico)$
+    {
+      expires 30d;
+  # access_log off;
+    }
+    location ~ .*\.(js|css)?$
+    {
+      expires 15d;
+   # access_log off;
+    }
+    access_log off;
   }
+
 }
