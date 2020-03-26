@@ -1,8 +1,9 @@
-挂载服务器远端工作文件夹到本地：\\192.168.3.64\lxingwen
+挂载服务器远端工作文件夹到本地：\\192.168.5.99\lxingwen
 账号：luxingwen
 密码：lxw23
 服务器SVN地址：https://192.168.1.83/svn/Miciteam1-Server
 
+启动Nginx服务器：/usr/local/webserver/nginx/sbin/nginx
 服务器启动方式
 server-main  是正式服
 server-test 是开发服
@@ -58,6 +59,8 @@ cat appconf/app.conf
 ===创建后台管理服务器文件夹路径：mkdir /data/admin-server/appconf
 ===拷贝配置文件：cp /home/luxingwen/work/server/trunk/cmt1-admin/appconf/app.conf /data/admin-server/appconf/app.conf
 
+
+
 数据库对应
 cmt1    正式服
 cmt1Log 正式服日志
@@ -84,3 +87,6 @@ testLog 测试服日志
 
 Windows，关闭go.exe进程
 taskkill /f /im go.exe
+
+telnet 120.25.80.75 5080
+安卓包下载路径：120.25.80.75:5080/Cmt.apk
