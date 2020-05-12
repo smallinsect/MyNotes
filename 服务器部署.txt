@@ -10,10 +10,11 @@ server-test 是开发服
 server-test-xw 是测试服
 server-static 是资源服
 开启数据库服务器： #mongod -f /etc/mongod.conf 
-/data/mongodb/mdb1/bin/mongod -f /data/mongodb/mdb1/mongod.conf
+/data/mongodb/mdb1/bin/mongod -f /data/mongodb/mdb1/mongod.conf 
 /data/mongodb/mdb2/bin/mongod -f /data/mongodb/mdb2/mongod.conf
 /data/mongodb/mdb3/bin/mongod -f /data/mongodb/mdb3/mongod.conf
 /data/mongodb/mdb4/bin/mongod -f /data/mongodb/mdb4/mongod.conf
+
 数据库信息
 mdb1 端口27017 主
 mdb2 端口27018 仲裁
