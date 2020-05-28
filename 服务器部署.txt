@@ -58,13 +58,24 @@ cat appconf/app.conf
 5、从开发服复制可执行文件到正式服目录: cp /data/server-test/bin/server-test /data/server/bin/server-main
 6、启动正式服：supervisorctl start server-main
 
+
 更新后台管理服务器部署
-1、先停止后台管理服务器：supervisorctl stop admin-server
+1、先停止后台管理服务器：supervisorctl stop admin-server-test
 2、切换到后台管理服务器项目路径：cd /home/luxingwen/work/server/trunk/cmt1-admin
 3、编译项目：命令 make
-4、删除旧后台管理服务器：rm -rf /data/admin-server/bin/admin-server
-5、将新后台管理服务器复制过去：cp /home/luxingwen/work/server/trunk/cmt1-admin/bin/admin /data/admin-server/bin/admin-server
-6、启动后台管理服务器：supervisorctl start admin-server
+4、删除旧后台管理服务器：rm -rf /data/admin-server-test/bin/admin-server-test
+5、将新后台管理服务器复制过去：cp /home/luxingwen/work/server/trunk/cmt1-admin/bin/admin /data/admin-server-test/bin/admin-server-test
+6、启动后台管理服务器：supervisorctl start admin-server-test
+
+更新后台管理服务器部署
+1、先停止后台管理服务器：supervisorctl stop admin-server-main
+2、切换到后台管理服务器项目路径：cd /home/luxingwen/work/server/trunk/cmt1-admin
+3、编译项目：命令 make
+4、删除旧后台管理服务器：rm -rf /data/admin-server-main/bin/admin-server-main
+5、将新后台管理服务器复制过去：cp /home/luxingwen/work/server/trunk/cmt1-admin/bin/admin /data/admin-server-main/bin/admin-server-main
+6、启动后台管理服务器：supervisorctl start admin-server-main
+
+
 
 ===创建后台管理服务器文件夹路径：mkdir /data/admin-server/bin
 ===创建后台管理服务器文件夹路径：mkdir /data/admin-server/appconf
@@ -83,11 +94,20 @@ testLog 测试服日志
 测试服端口:server-test-xw:8879 5573 2014 数据库:test testLog
 开发服端口:server-test:   8878 5556 2013 数据库:cmt1-test cmt1-testLog
 正式服端口:server-main:   8877 5555 2012 数据库:cmt1 cmt1Log
+正式服端口:外网120.25.80.75 8877 5555
 后台管理服务器端口admin-server-test:9520
 后台管理服务器端口admin-server:9519
 后台管理服务器端口admin-server-main:9518
 
-后台管理前端http://192.168.3.64:9104
+后台管理前端http://192.168.5.99:9104
+
+游戏服务器
+ProductIp:120.25.80.75
+ProductPort:5555
+
+后台管理
+120.25.80.75
+8877
 
 
 数据库清除数据操作
@@ -104,3 +124,12 @@ taskkill /f /im go.exe
 
 telnet 120.25.80.75 5080
 安卓包下载路径：120.25.80.75:5080/Cmt.apk
+
+
+这个是临时，
+cdn域名：u9godg0.hongmudu.com
+对象存储名： panzerwy4a，区域深圳
+账号：panzergirl@1818922253745762.onaliyun.com  
+密码：BX(|kGMdD$h02ltQkejIQ9qw}LCAm1Bf  
+accesskeyId: LTAI4FhVu9miaTN5yeFXpztk
+accesskeySecret: CQQ6CCgFh7Iz76PiG0XXihmqPfQVMa

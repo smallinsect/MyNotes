@@ -32,6 +32,15 @@ MCRecheck      // 世界Boss活动，加载活动
 MCDivGroup     //世界Boss活动，重新分组
 MCRemoveGroup  //世界Boss活动，清除分组数据
 MCSendReward   //世界Boss活动，发放排行奖励
+openRename 修改名字
+
+addAvatarFrame:280002
 
 getSpBoxByMail 测试5选1宝箱
 
+CreateMonster:19:240506 // 指定格子生成怪物
+CreateBomb:2 //指定格子生成炸弹
+CloseGrids // 关闭没有物品的格子，需要来回切层两次。
+
+slotUser:5ebb98f2a91ab237b8912439
+slotUser:5eaa27cee1382333619804de
