@@ -1,0 +1,39 @@
+{
+  "ShopTypes":[
+    {
+      "typ" : 1,
+      "table" : "ShopDiscounts",
+      "desc" : "特惠"
+    },
+    {
+      "typ" : 2,
+      "table" : "ShopSpins",
+      "desc" : "体力"
+    },
+    {
+      "typ" : 3,
+      "table" : "ShopGolds",
+      "desc" : "金币"
+    },
+    {
+      "typ" : 4,
+      "table" : "ShopPets",
+      "desc" : "宠物"
+    },
+    {
+      "typ" : 5,
+      "table" : "ShopChests",
+      "desc" : "宝箱"
+    },
+    {
+      "typ" : 6,
+      "table" : "ShopDiamonds",
+      "desc" : "充值"
+    },
+    {
+      "typ" : 7,
+      "table" : "ShopGuilds",
+      "desc" : "公会商店"
+    }
+  ]  
+}

@@ -1,0 +1,68 @@
+{
+  "AdTurnTableReward2":[
+    {
+      "id" : 1,
+      "rewards" : {
+        "weight" : 20,
+        "key" : 220002,
+        "value" : 10
+      }
+    },
+    {
+      "id" : 2,
+      "rewards" : {
+        "weight" : 20,
+        "key" : 220004,
+        "value" : 1
+      }
+    },
+    {
+      "id" : 3,
+      "rewards" : {
+        "weight" : 10,
+        "key" : 220002,
+        "value" : 20
+      }
+    },
+    {
+      "id" : 4,
+      "rewards" : {
+        "weight" : 5,
+        "key" : 150201,
+        "value" : 1
+      }
+    },
+    {
+      "id" : 5,
+      "rewards" : {
+        "weight" : 20,
+        "key" : 220002,
+        "value" : 10
+      }
+    },
+    {
+      "id" : 6,
+      "rewards" : {
+        "weight" : 10,
+        "key" : 220004,
+        "value" : 2
+      }
+    },
+    {
+      "id" : 7,
+      "rewards" : {
+        "weight" : 10,
+        "key" : 220002,
+        "value" : 20
+      }
+    },
+    {
+      "id" : 8,
+      "rewards" : {
+        "weight" : 5,
+        "key" : 150201,
+        "value" : 1
+      }
+    }
+  ]  
+}

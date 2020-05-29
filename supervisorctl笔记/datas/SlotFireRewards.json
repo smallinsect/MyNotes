@@ -1,0 +1,1324 @@
+{
+  "SlotFireRewards":[
+    {
+      "lv" : 1,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 57600
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 288000
+      }
+    },
+    {
+      "lv" : 2,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 60080
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 300400
+      }
+    },
+    {
+      "lv" : 3,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 62500
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 312500
+      }
+    },
+    {
+      "lv" : 4,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 64900
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 324500
+      }
+    },
+    {
+      "lv" : 5,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 67260
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 336300
+      }
+    },
+    {
+      "lv" : 6,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 69580
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 347900
+      }
+    },
+    {
+      "lv" : 7,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 71860
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 359300
+      }
+    },
+    {
+      "lv" : 8,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 74100
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 370500
+      }
+    },
+    {
+      "lv" : 9,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 76300
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 381500
+      }
+    },
+    {
+      "lv" : 10,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 78460
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 392300
+      }
+    },
+    {
+      "lv" : 11,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 80600
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 403000
+      }
+    },
+    {
+      "lv" : 12,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 83220
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 416100
+      }
+    },
+    {
+      "lv" : 13,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 85780
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 428900
+      }
+    },
+    {
+      "lv" : 14,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 88320
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 441600
+      }
+    },
+    {
+      "lv" : 15,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 90800
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 454000
+      }
+    },
+    {
+      "lv" : 16,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 93220
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 466100
+      }
+    },
+    {
+      "lv" : 17,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 95620
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 478100
+      }
+    },
+    {
+      "lv" : 18,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 97960
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 489800
+      }
+    },
+    {
+      "lv" : 19,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 100240
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 501200
+      }
+    },
+    {
+      "lv" : 20,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 102500
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 512500
+      }
+    },
+    {
+      "lv" : 21,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 104700
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 523500
+      }
+    },
+    {
+      "lv" : 22,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 107340
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 536700
+      }
+    },
+    {
+      "lv" : 23,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 109940
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 549700
+      }
+    },
+    {
+      "lv" : 24,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 112480
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 562400
+      }
+    },
+    {
+      "lv" : 25,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 114960
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 574800
+      }
+    },
+    {
+      "lv" : 26,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 117400
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 587000
+      }
+    },
+    {
+      "lv" : 27,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 119780
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 598900
+      }
+    },
+    {
+      "lv" : 28,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 122100
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 610500
+      }
+    },
+    {
+      "lv" : 29,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 124380
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 621900
+      }
+    },
+    {
+      "lv" : 30,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 126600
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 633000
+      }
+    },
+    {
+      "lv" : 31,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 128760
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 643800
+      }
+    },
+    {
+      "lv" : 32,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 131780
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 658900
+      }
+    },
+    {
+      "lv" : 33,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 134720
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 673600
+      }
+    },
+    {
+      "lv" : 34,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 137600
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 688000
+      }
+    },
+    {
+      "lv" : 35,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 140420
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 702100
+      }
+    },
+    {
+      "lv" : 36,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 143160
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 715800
+      }
+    },
+    {
+      "lv" : 37,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 145820
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 729100
+      }
+    },
+    {
+      "lv" : 38,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 148420
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 742100
+      }
+    },
+    {
+      "lv" : 39,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 150960
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 754800
+      }
+    },
+    {
+      "lv" : 40,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 153420
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 767100
+      }
+    },
+    {
+      "lv" : 41,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 155820
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 779100
+      }
+    },
+    {
+      "lv" : 42,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 160640
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 803200
+      }
+    },
+    {
+      "lv" : 43,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 165340
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 826700
+      }
+    },
+    {
+      "lv" : 44,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 169940
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 849700
+      }
+    },
+    {
+      "lv" : 45,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 174420
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 872100
+      }
+    },
+    {
+      "lv" : 46,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 178780
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 893900
+      }
+    },
+    {
+      "lv" : 47,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 183020
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 915100
+      }
+    },
+    {
+      "lv" : 48,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 187160
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 935800
+      }
+    },
+    {
+      "lv" : 49,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 191160
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 955800
+      }
+    },
+    {
+      "lv" : 50,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 195060
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 975300
+      }
+    },
+    {
+      "lv" : 51,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 198840
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 994200
+      }
+    },
+    {
+      "lv" : 52,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 204400
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1022000
+      }
+    },
+    {
+      "lv" : 53,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 209800
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1049000
+      }
+    },
+    {
+      "lv" : 54,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 215040
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1075200
+      }
+    },
+    {
+      "lv" : 55,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 220140
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1100700
+      }
+    },
+    {
+      "lv" : 56,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 225080
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1125400
+      }
+    },
+    {
+      "lv" : 57,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 229860
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1149300
+      }
+    },
+    {
+      "lv" : 58,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 234480
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1172400
+      }
+    },
+    {
+      "lv" : 59,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 238960
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1194800
+      }
+    },
+    {
+      "lv" : 60,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 243280
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1216400
+      }
+    },
+    {
+      "lv" : 61,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 247440
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1237200
+      }
+    },
+    {
+      "lv" : 62,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 253140
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1265700
+      }
+    },
+    {
+      "lv" : 63,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 258660
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1293300
+      }
+    },
+    {
+      "lv" : 64,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 263980
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1319900
+      }
+    },
+    {
+      "lv" : 65,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 269100
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1345500
+      }
+    },
+    {
+      "lv" : 66,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 274040
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1370200
+      }
+    },
+    {
+      "lv" : 67,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 278780
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1393900
+      }
+    },
+    {
+      "lv" : 68,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 283320
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1416600
+      }
+    },
+    {
+      "lv" : 69,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 287680
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1438400
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 291820
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1459100
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 295800
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1479000
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 301820
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1509100
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 307600
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1538000
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 313120
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1565600
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 318400
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1592000
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 323420
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1617100
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 328180
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1640900
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 332700
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1663500
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 336980
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1684900
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 340980
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1704900
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 344760
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1723800
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 350240
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1751200
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 355400
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1777000
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 360260
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1801300
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 364820
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1824100
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 369060
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1845300
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 372980
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1864900
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 376600
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1883000
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 379920
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1899600
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 382920
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1914600
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 385600
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1928000
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 386860
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1934300
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 387860
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1939300
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 388580
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1942900
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 389040
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1945200
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 389220
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1946100
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 389120
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1945600
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 388760
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1943800
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 388120
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1940600
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 387220
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1936100
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 386040
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1930200
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 387360
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1936800
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 388300
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1941500
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 388860
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1944300
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 389020
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1945100
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 388800
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1944000
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 388200
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1941000
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 387200
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1936000
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 385800
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1929000
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 384040
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1920200
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 381880
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1909400
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 382260
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1911300
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 382100
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1910500
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 381380
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1906900
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 380140
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1900700
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 378340
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1891700
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 376020
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1880100
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 373140
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1865700
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 369720
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1848600
+      }
+    },
+    {
+      "lv" : 0,
+      "shieldRes" : {
+        "key" : 220001,
+        "value" : 365760
+      },
+      "noShieldRes" : {
+        "key" : 220001,
+        "value" : 1828800
+      }
+    }
+  ]  
+}

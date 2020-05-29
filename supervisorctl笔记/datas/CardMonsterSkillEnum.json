@@ -1,0 +1,25 @@
+{
+  "CardMonsterSkillEnum":{
+      "attack_normal" : 1,
+      "attack_time_dmgAccumulation" : 2,
+      "attack_recover_dmgUp" : 3,
+      "attack_time" : 4,
+      "attack_recover" : 5,
+      "steal_gold" : 6,
+      "mana_destroy" : 7,
+      "card_destroy" : 8,
+      "ceiling" : 9,
+      "block" : 10,
+      "blocking" : 11,
+      "hp_sub_dmgAccumulation" : 12,
+      "hp_counter" : 13,
+      "shild" : 14,
+      "hp_decrease" : 15,
+      "injuried_recover" : 16,
+      "hp_subPoint_dmgAccumulation" : 17,
+      "attack_percent_dmgUp" : 18,
+      "dmg_percent_block" : 19,
+      "shield_firstTurn" : 20,
+      "shield_fightBack" : 21
+  }  
+}

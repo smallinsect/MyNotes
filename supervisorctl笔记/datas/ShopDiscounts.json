@@ -1,0 +1,168 @@
+{
+  "ShopDiscounts":[
+    {
+      "id" : 1001,
+      "name" : "1913130101",
+      "num" : 0,
+      "firstRes" : [
+
+      ],
+      "limit" : {
+        "condition" : "everyDay",
+        "num" : 1
+      },
+      "price" : {
+        "key" : 220002,
+        "value" : 300
+      },
+      "cardback" : "shopbg_1001",
+      "off" : "25%",
+      "type" : 1,
+      "icon" : "",
+      "cardNum" : 0,
+      "cardStar" : [
+
+      ],
+      "goods" : [
+        {
+          "id" : 0,
+          "key" : 220004,
+          "value" : 15
+        },
+        {
+          "id" : 0,
+          "key" : 220002,
+          "value" : 20
+        },
+        {
+          "id" : 0,
+          "key" : 150201,
+          "value" : 1
+        }
+      ]
+    },
+    {
+      "id" : 1002,
+      "name" : "圣诞节礼包",
+      "num" : 1,
+      "firstRes" : [
+
+      ],
+      "limit" : {
+        "condition" : "timeMonthDay@12-25",
+        "num" : 1
+      },
+      "price" : {
+        "key" : 220002,
+        "value" : 500
+      },
+      "cardback" : "shopbg_1002",
+      "off" : "25%",
+      "type" : 1,
+      "icon" : "",
+      "cardNum" : 0,
+      "cardStar" : [
+
+      ],
+      "goods" : [
+        {
+          "id" : 0,
+          "key" : 220004,
+          "value" : 50
+        },
+        {
+          "id" : 0,
+          "key" : 220002,
+          "value" : 50
+        },
+        {
+          "id" : 0,
+          "key" : 150201,
+          "value" : 1
+        }
+      ]
+    },
+    {
+      "id" : 1003,
+      "name" : "复活节礼包",
+      "num" : 1,
+      "firstRes" : [
+
+      ],
+      "limit" : {
+        "condition" : "timeMonthDay@4-25",
+        "num" : 1
+      },
+      "price" : {
+        "key" : 220002,
+        "value" : 1000
+      },
+      "cardback" : "shopbg_1003",
+      "off" : "25%",
+      "type" : 1,
+      "icon" : "",
+      "cardNum" : 0,
+      "cardStar" : [
+
+      ],
+      "goods" : [
+        {
+          "id" : 0,
+          "key" : 220004,
+          "value" : 100
+        },
+        {
+          "id" : 0,
+          "key" : 220002,
+          "value" : 100
+        },
+        {
+          "id" : 0,
+          "key" : 150202,
+          "value" : 2
+        }
+      ]
+    },
+    {
+      "id" : 1004,
+      "name" : "新手礼包",
+      "num" : 1,
+      "firstRes" : [
+
+      ],
+      "limit" : {
+        "condition" : "global",
+        "num" : 1
+      },
+      "price" : {
+        "key" : 220002,
+        "value" : 100
+      },
+      "cardback" : "shopbg_1003",
+      "off" : "25%",
+      "type" : 1,
+      "icon" : "",
+      "cardNum" : 0,
+      "cardStar" : [
+
+      ],
+      "goods" : [
+        {
+          "id" : 0,
+          "key" : 220004,
+          "value" : 200
+        },
+        {
+          "id" : 0,
+          "key" : 220002,
+          "value" : 200
+        },
+        {
+          "id" : 0,
+          "key" : 150203,
+          "value" : 1
+        }
+      ]
+    }
+  ]  
+}

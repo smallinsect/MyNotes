@@ -1,0 +1,8 @@
+{
+  "CardMonsterRaceEnum":{
+      "Creature" : 1,
+      "Cursed" : 2,
+      "Dragon" : 3,
+      "All" : 99
+  }  
+}

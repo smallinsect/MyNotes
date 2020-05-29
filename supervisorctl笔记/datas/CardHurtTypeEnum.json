@@ -1,0 +1,22 @@
+{
+  "CardHurtTypeEnum":{
+      "Hurt" : 1,
+      "Heal" : 2,
+      "CardIncrease" : 3,
+      "CardDecrease" : 4,
+      "ManaIncrease" : 5,
+      "ManaDecrease" : 6,
+      "RaceHurt" : 7,
+      "RaceHeal" : 8,
+      "DmgBlockPercent" : 9,
+      "DmgBlockPercentOnce" : 10,
+      "DmgBlockPoint" : 11,
+      "DmgBlockPointOnce" : 12,
+      "DmgMissPercent" : 13,
+      "DmgMissPercentOnce" : 14,
+      "FightBack" : 15,
+      "ShieldIncrease" : 16,
+      "ShieldDecrease" : 17,
+      "Custom" : 99
+  }  
+}

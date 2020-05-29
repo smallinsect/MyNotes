@@ -1,0 +1,100 @@
+{
+  "AltarKinds":[
+    {
+      "id" : 150301,
+      "name" : "新月祭坛",
+      "type" : 1,
+      "rewardType" : 1,
+      "weight" : 10,
+      "status" : 0
+    },
+    {
+      "id" : 150302,
+      "name" : "新月祭坛",
+      "type" : 1,
+      "rewardType" : 1,
+      "weight" : 10,
+      "status" : 1
+    },
+    {
+      "id" : 150303,
+      "name" : "弦月祭坛",
+      "type" : 2,
+      "rewardType" : 1,
+      "weight" : 10,
+      "status" : 0
+    },
+    {
+      "id" : 150304,
+      "name" : "弦月祭坛",
+      "type" : 2,
+      "rewardType" : 1,
+      "weight" : 10,
+      "status" : 1
+    },
+    {
+      "id" : 150305,
+      "name" : "半月祭坛",
+      "type" : 3,
+      "rewardType" : 1,
+      "weight" : 10,
+      "status" : 0
+    },
+    {
+      "id" : 150306,
+      "name" : "半月祭坛",
+      "type" : 3,
+      "rewardType" : 1,
+      "weight" : 10,
+      "status" : 1
+    },
+    {
+      "id" : 150307,
+      "name" : "满月祭坛",
+      "type" : 4,
+      "rewardType" : 4,
+      "weight" : 5,
+      "status" : 0
+    },
+    {
+      "id" : 150308,
+      "name" : "满月祭坛",
+      "type" : 4,
+      "rewardType" : 4,
+      "weight" : 5,
+      "status" : 1
+    },
+    {
+      "id" : 150309,
+      "name" : "血月祭坛",
+      "type" : 5,
+      "rewardType" : 4,
+      "weight" : 5,
+      "status" : 0
+    },
+    {
+      "id" : 150310,
+      "name" : "血月祭坛",
+      "type" : 5,
+      "rewardType" : 4,
+      "weight" : 5,
+      "status" : 1
+    },
+    {
+      "id" : 150311,
+      "name" : "日食祭坛",
+      "type" : 6,
+      "rewardType" : 2,
+      "weight" : 5,
+      "status" : 0
+    },
+    {
+      "id" : 150312,
+      "name" : "日食祭坛",
+      "type" : 6,
+      "rewardType" : 2,
+      "weight" : 5,
+      "status" : 1
+    }
+  ]  
+}

@@ -1,0 +1,3849 @@
+{
+  "LevelDoors":[
+    {
+      "id" : 1,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 15
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240505,
+          "value" : 1
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 17
+      },
+      "foreGround" : "DigSc_0101",
+      "mediumShot" : "DigSc_0102",
+      "backGround" : "DigSc_0103",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 0
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 0
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 0
+      },
+      "superModelReserves" : 3720000,
+      "superModelStopBase" : 1000000
+    },
+    {
+      "id" : 2,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 15
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240102,
+          "value" : 2
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 25
+      },
+      "foreGround" : "DigSc_0101",
+      "mediumShot" : "DigSc_0102",
+      "backGround" : "DigSc_0103",
+      "story" : 270102,
+      "tv" : {
+        "key" : 150410,
+        "value" : 1
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 2
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 1
+      },
+      "superModelReserves" : 3910000,
+      "superModelStopBase" : 1050000
+    },
+    {
+      "id" : 3,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240102,
+          "value" : 4
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 34
+      },
+      "foreGround" : "DigSc_0101",
+      "mediumShot" : "DigSc_0102",
+      "backGround" : "DigSc_0103",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 1
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 2
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 1
+      },
+      "superModelReserves" : 4090000,
+      "superModelStopBase" : 1100000
+    },
+    {
+      "id" : 4,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240302,
+          "value" : 2
+        },
+        {
+          "key" : 240102,
+          "value" : 2
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 34
+      },
+      "foreGround" : "DigSc_0104",
+      "mediumShot" : "DigSc_0102",
+      "backGround" : "DigSc_0105",
+      "story" : 270104,
+      "tv" : {
+        "key" : 150410,
+        "value" : 1
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 2
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 1
+      },
+      "superModelReserves" : 4280000,
+      "superModelStopBase" : 1150000
+    },
+    {
+      "id" : 5,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240302,
+          "value" : 2
+        },
+        {
+          "key" : 240102,
+          "value" : 2
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 42
+      },
+      "foreGround" : "DigSc_0104",
+      "mediumShot" : "DigSc_0102",
+      "backGround" : "DigSc_0105",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 2
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 3
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 2
+      },
+      "superModelReserves" : 4470000,
+      "superModelStopBase" : 1200000
+    },
+    {
+      "id" : 6,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240302,
+          "value" : 2
+        },
+        {
+          "key" : 240102,
+          "value" : 2
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 42
+      },
+      "foreGround" : "DigSc_0104",
+      "mediumShot" : "DigSc_0102",
+      "backGround" : "DigSc_0105",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 2
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 3
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 2
+      },
+      "superModelReserves" : 4650000,
+      "superModelStopBase" : 1250000
+    },
+    {
+      "id" : 7,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 15070001,
+          "value" : 1
+        },
+        {
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "key" : 15070102,
+          "value" : 5
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240302,
+          "value" : 4
+        },
+        {
+          "key" : 240102,
+          "value" : 4
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 71
+      },
+      "foreGround" : "DigSc_0104",
+      "mediumShot" : "DigSc_0102",
+      "backGround" : "DigSc_0105",
+      "story" : 270107,
+      "tv" : {
+        "key" : 150410,
+        "value" : 3
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 5
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 3
+      },
+      "superModelReserves" : 5180000,
+      "superModelStopBase" : 1300000
+    },
+    {
+      "id" : 8,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240203,
+          "value" : 4
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 34
+      },
+      "foreGround" : "DigSc_0201",
+      "mediumShot" : "DigSc_0202",
+      "backGround" : "DigSc_0203",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 1
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 2
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 1
+      },
+      "superModelReserves" : 5020000,
+      "superModelStopBase" : 1350000
+    },
+    {
+      "id" : 9,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240203,
+          "value" : 5
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 42
+      },
+      "foreGround" : "DigSc_0201",
+      "mediumShot" : "DigSc_0202",
+      "backGround" : "DigSc_0203",
+      "story" : 270202,
+      "tv" : {
+        "key" : 150410,
+        "value" : 2
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 3
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 2
+      },
+      "superModelReserves" : 5210000,
+      "superModelStopBase" : 1400000
+    },
+    {
+      "id" : 10,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240203,
+          "value" : 5
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 42
+      },
+      "foreGround" : "DigSc_0201",
+      "mediumShot" : "DigSc_0202",
+      "backGround" : "DigSc_0203",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 2
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 3
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 2
+      },
+      "superModelReserves" : 5390000,
+      "superModelStopBase" : 1450000
+    },
+    {
+      "id" : 11,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240203,
+          "value" : 6
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 52
+      },
+      "foreGround" : "DigSc_0204",
+      "mediumShot" : "DigSc_0202",
+      "backGround" : "DigSc_0205",
+      "story" : 270204,
+      "tv" : {
+        "key" : 150410,
+        "value" : 2
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 3
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 2
+      },
+      "superModelReserves" : 5850000,
+      "superModelStopBase" : 1500000
+    },
+    {
+      "id" : 12,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240203,
+          "value" : 3
+        },
+        {
+          "key" : 240205,
+          "value" : 3
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 52
+      },
+      "foreGround" : "DigSc_0204",
+      "mediumShot" : "DigSc_0202",
+      "backGround" : "DigSc_0205",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 2
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 3
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 2
+      },
+      "superModelReserves" : 6080000,
+      "superModelStopBase" : 1560000
+    },
+    {
+      "id" : 13,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240203,
+          "value" : 4
+        },
+        {
+          "key" : 240205,
+          "value" : 4
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 71
+      },
+      "foreGround" : "DigSc_0204",
+      "mediumShot" : "DigSc_0202",
+      "backGround" : "DigSc_0205",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 3
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 5
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 3
+      },
+      "superModelReserves" : 6460000,
+      "superModelStopBase" : 1620000
+    },
+    {
+      "id" : 14,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240203,
+          "value" : 5
+        },
+        {
+          "key" : 240205,
+          "value" : 5
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 91
+      },
+      "foreGround" : "DigSc_0204",
+      "mediumShot" : "DigSc_0202",
+      "backGround" : "DigSc_0205",
+      "story" : 270207,
+      "tv" : {
+        "key" : 150410,
+        "value" : 5
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 6
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 4
+      },
+      "superModelReserves" : 6840000,
+      "superModelStopBase" : 1680000
+    },
+    {
+      "id" : 15,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240303,
+          "value" : 5
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 42
+      },
+      "foreGround" : "DigSc_0301",
+      "mediumShot" : "DigSc_0302",
+      "backGround" : "DigSc_0303",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 2
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 3
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 2
+      },
+      "superModelReserves" : 6470000,
+      "superModelStopBase" : 1740000
+    },
+    {
+      "id" : 16,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240303,
+          "value" : 5
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 42
+      },
+      "foreGround" : "DigSc_0301",
+      "mediumShot" : "DigSc_0302",
+      "backGround" : "DigSc_0303",
+      "story" : 270302,
+      "tv" : {
+        "key" : 150410,
+        "value" : 2
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 3
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 2
+      },
+      "superModelReserves" : 6700000,
+      "superModelStopBase" : 1800000
+    },
+    {
+      "id" : 17,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240303,
+          "value" : 6
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 52
+      },
+      "foreGround" : "DigSc_0301",
+      "mediumShot" : "DigSc_0302",
+      "backGround" : "DigSc_0303",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 2
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 3
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 2
+      },
+      "superModelReserves" : 7250000,
+      "superModelStopBase" : 1860000
+    },
+    {
+      "id" : 18,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240303,
+          "value" : 6
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 52
+      },
+      "foreGround" : "DigSc_0304",
+      "mediumShot" : "DigSc_0302",
+      "backGround" : "DigSc_0305",
+      "story" : 270304,
+      "tv" : {
+        "key" : 150410,
+        "value" : 2
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 3
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 2
+      },
+      "superModelReserves" : 7480000,
+      "superModelStopBase" : 1920000
+    },
+    {
+      "id" : 19,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240303,
+          "value" : 4
+        },
+        {
+          "key" : 240305,
+          "value" : 4
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 71
+      },
+      "foreGround" : "DigSc_0304",
+      "mediumShot" : "DigSc_0302",
+      "backGround" : "DigSc_0305",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 3
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 5
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 3
+      },
+      "superModelReserves" : 7890000,
+      "superModelStopBase" : 1980000
+    },
+    {
+      "id" : 20,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240303,
+          "value" : 5
+        },
+        {
+          "key" : 240305,
+          "value" : 5
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 91
+      },
+      "foreGround" : "DigSc_0304",
+      "mediumShot" : "DigSc_0302",
+      "backGround" : "DigSc_0305",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 5
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 6
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 4
+      },
+      "superModelReserves" : 8310000,
+      "superModelStopBase" : 2040000
+    },
+    {
+      "id" : 21,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240303,
+          "value" : 6
+        },
+        {
+          "key" : 240305,
+          "value" : 6
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 111
+      },
+      "foreGround" : "DigSc_0304",
+      "mediumShot" : "DigSc_0302",
+      "backGround" : "DigSc_0305",
+      "story" : 270307,
+      "tv" : {
+        "key" : 150410,
+        "value" : 6
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 7
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 5
+      },
+      "superModelReserves" : 8740000,
+      "superModelStopBase" : 2100000
+    },
+    {
+      "id" : 22,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240403,
+          "value" : 6
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 52
+      },
+      "foreGround" : "DigSc_0401",
+      "mediumShot" : "DigSc_0302",
+      "backGround" : "DigSc_0403",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 2
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 3
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 2
+      },
+      "superModelReserves" : 8450000,
+      "superModelStopBase" : 2170000
+    },
+    {
+      "id" : 23,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240403,
+          "value" : 6
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 52
+      },
+      "foreGround" : "DigSc_0401",
+      "mediumShot" : "DigSc_0402",
+      "backGround" : "DigSc_0403",
+      "story" : 270402,
+      "tv" : {
+        "key" : 150410,
+        "value" : 2
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 3
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 2
+      },
+      "superModelReserves" : 8730000,
+      "superModelStopBase" : 2240000
+    },
+    {
+      "id" : 24,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240403,
+          "value" : 8
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 71
+      },
+      "foreGround" : "DigSc_0401",
+      "mediumShot" : "DigSc_0402",
+      "backGround" : "DigSc_0403",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 3
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 5
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 3
+      },
+      "superModelReserves" : 9200000,
+      "superModelStopBase" : 2310000
+    },
+    {
+      "id" : 25,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240403,
+          "value" : 8
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 71
+      },
+      "foreGround" : "DigSc_0404",
+      "mediumShot" : "DigSc_0402",
+      "backGround" : "DigSc_0405",
+      "story" : 270404,
+      "tv" : {
+        "key" : 150410,
+        "value" : 3
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 5
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 3
+      },
+      "superModelReserves" : 9480000,
+      "superModelStopBase" : 2380000
+    },
+    {
+      "id" : 26,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240403,
+          "value" : 5
+        },
+        {
+          "key" : 240404,
+          "value" : 5
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 91
+      },
+      "foreGround" : "DigSc_0404",
+      "mediumShot" : "DigSc_0402",
+      "backGround" : "DigSc_0405",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 5
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 6
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 4
+      },
+      "superModelReserves" : 9980000,
+      "superModelStopBase" : 2450000
+    },
+    {
+      "id" : 27,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240403,
+          "value" : 5
+        },
+        {
+          "key" : 240404,
+          "value" : 5
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 91
+      },
+      "foreGround" : "DigSc_0404",
+      "mediumShot" : "DigSc_0402",
+      "backGround" : "DigSc_0405",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 5
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 6
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 4
+      },
+      "superModelReserves" : 10260000,
+      "superModelStopBase" : 2520000
+    },
+    {
+      "id" : 28,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240403,
+          "value" : 8
+        },
+        {
+          "key" : 240404,
+          "value" : 8
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 136
+      },
+      "foreGround" : "DigSc_0404",
+      "mediumShot" : "DigSc_0402",
+      "backGround" : "DigSc_0405",
+      "story" : 270407,
+      "tv" : {
+        "key" : 150410,
+        "value" : 7
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 9
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 6
+      },
+      "superModelReserves" : 11240000,
+      "superModelStopBase" : 2590000
+    },
+    {
+      "id" : 29,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240504,
+          "value" : 8
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 71
+      },
+      "foreGround" : "DigSc_0501",
+      "mediumShot" : "DigSc_0502",
+      "backGround" : "DigSc_0503",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 3
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 5
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 3
+      },
+      "superModelReserves" : 10600000,
+      "superModelStopBase" : 2660000
+    },
+    {
+      "id" : 30,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240504,
+          "value" : 8
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 71
+      },
+      "foreGround" : "DigSc_0501",
+      "mediumShot" : "DigSc_0502",
+      "backGround" : "DigSc_0503",
+      "story" : 270502,
+      "tv" : {
+        "key" : 150410,
+        "value" : 3
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 5
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 3
+      },
+      "superModelReserves" : 10880000,
+      "superModelStopBase" : 2730000
+    },
+    {
+      "id" : 31,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240504,
+          "value" : 11
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 91
+      },
+      "foreGround" : "DigSc_0501",
+      "mediumShot" : "DigSc_0502",
+      "backGround" : "DigSc_0503",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 5
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 6
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 4
+      },
+      "superModelReserves" : 11400000,
+      "superModelStopBase" : 2800000
+    },
+    {
+      "id" : 32,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240504,
+          "value" : 13
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 111
+      },
+      "foreGround" : "DigSc_0504",
+      "mediumShot" : "DigSc_0502",
+      "backGround" : "DigSc_0505",
+      "story" : 270504,
+      "tv" : {
+        "key" : 150410,
+        "value" : 6
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 7
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 5
+      },
+      "superModelReserves" : 12030000,
+      "superModelStopBase" : 2890000
+    },
+    {
+      "id" : 33,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240504,
+          "value" : 6
+        },
+        {
+          "key" : 240506,
+          "value" : 6
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 111
+      },
+      "foreGround" : "DigSc_0504",
+      "mediumShot" : "DigSc_0502",
+      "backGround" : "DigSc_0505",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 6
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 7
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 5
+      },
+      "superModelReserves" : 12400000,
+      "superModelStopBase" : 2980000
+    },
+    {
+      "id" : 34,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240504,
+          "value" : 6
+        },
+        {
+          "key" : 240506,
+          "value" : 6
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 111
+      },
+      "foreGround" : "DigSc_0504",
+      "mediumShot" : "DigSc_0502",
+      "backGround" : "DigSc_0505",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 6
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 7
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 5
+      },
+      "superModelReserves" : 12770000,
+      "superModelStopBase" : 3070000
+    },
+    {
+      "id" : 35,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240504,
+          "value" : 9
+        },
+        {
+          "key" : 240506,
+          "value" : 9
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 147
+      },
+      "foreGround" : "DigSc_0504",
+      "mediumShot" : "DigSc_0502",
+      "backGround" : "DigSc_0505",
+      "story" : 270507,
+      "tv" : {
+        "key" : 150410,
+        "value" : 8
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 10
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 7
+      },
+      "superModelReserves" : 13710000,
+      "superModelStopBase" : 3160000
+    },
+    {
+      "id" : 36,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240602,
+          "value" : 11
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 91
+      },
+      "foreGround" : "DigSc_0601",
+      "mediumShot" : "DigSc_0602",
+      "backGround" : "DigSc_0603",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 5
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 6
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 4
+      },
+      "superModelReserves" : 13240000,
+      "superModelStopBase" : 3250000
+    },
+    {
+      "id" : 37,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240602,
+          "value" : 11
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 91
+      },
+      "foreGround" : "DigSc_0601",
+      "mediumShot" : "DigSc_0602",
+      "backGround" : "DigSc_0603",
+      "story" : 270602,
+      "tv" : {
+        "key" : 150410,
+        "value" : 5
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 6
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 4
+      },
+      "superModelReserves" : 13600000,
+      "superModelStopBase" : 3340000
+    },
+    {
+      "id" : 38,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240602,
+          "value" : 13
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 111
+      },
+      "foreGround" : "DigSc_0601",
+      "mediumShot" : "DigSc_0602",
+      "backGround" : "DigSc_0603",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 6
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 7
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 5
+      },
+      "superModelReserves" : 14270000,
+      "superModelStopBase" : 3430000
+    },
+    {
+      "id" : 39,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240602,
+          "value" : 16
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 136
+      },
+      "foreGround" : "DigSc_0604",
+      "mediumShot" : "DigSc_0602",
+      "backGround" : "DigSc_0605",
+      "story" : 270604,
+      "tv" : {
+        "key" : 150410,
+        "value" : 7
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 9
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 6
+      },
+      "superModelReserves" : 15270000,
+      "superModelStopBase" : 3520000
+    },
+    {
+      "id" : 40,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240602,
+          "value" : 8
+        },
+        {
+          "key" : 240606,
+          "value" : 8
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 136
+      },
+      "foreGround" : "DigSc_0604",
+      "mediumShot" : "DigSc_0602",
+      "backGround" : "DigSc_0605",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 7
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 9
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 6
+      },
+      "superModelReserves" : 15660000,
+      "superModelStopBase" : 3610000
+    },
+    {
+      "id" : 41,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240602,
+          "value" : 8
+        },
+        {
+          "key" : 240606,
+          "value" : 8
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 136
+      },
+      "foreGround" : "DigSc_0604",
+      "mediumShot" : "DigSc_0602",
+      "backGround" : "DigSc_0605",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 7
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 9
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 6
+      },
+      "superModelReserves" : 16050000,
+      "superModelStopBase" : 3700000
+    },
+    {
+      "id" : 42,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240602,
+          "value" : 10
+        },
+        {
+          "key" : 240606,
+          "value" : 10
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 172
+      },
+      "foreGround" : "DigSc_0604",
+      "mediumShot" : "DigSc_0602",
+      "backGround" : "DigSc_0605",
+      "story" : 270607,
+      "tv" : {
+        "key" : 150410,
+        "value" : 9
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 12
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 8
+      },
+      "superModelReserves" : 17200000,
+      "superModelStopBase" : 3810000
+    },
+    {
+      "id" : 43,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240704,
+          "value" : 12
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 102
+      },
+      "foreGround" : "DigSc_0701",
+      "mediumShot" : "DigSc_0702",
+      "backGround" : "DigSc_0703",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 5
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 7
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 5
+      },
+      "superModelReserves" : 16310000,
+      "superModelStopBase" : 3920000
+    },
+    {
+      "id" : 44,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240704,
+          "value" : 12
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 102
+      },
+      "foreGround" : "DigSc_0701",
+      "mediumShot" : "DigSc_0702",
+      "backGround" : "DigSc_0703",
+      "story" : 270702,
+      "tv" : {
+        "key" : 150410,
+        "value" : 5
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 7
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 5
+      },
+      "superModelReserves" : 16770000,
+      "superModelStopBase" : 4030000
+    },
+    {
+      "id" : 45,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240704,
+          "value" : 12
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 102
+      },
+      "foreGround" : "DigSc_0701",
+      "mediumShot" : "DigSc_0702",
+      "backGround" : "DigSc_0703",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 5
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 7
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 5
+      },
+      "superModelReserves" : 17230000,
+      "superModelStopBase" : 4140000
+    },
+    {
+      "id" : 46,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240704,
+          "value" : 16
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 136
+      },
+      "foreGround" : "DigSc_0704",
+      "mediumShot" : "DigSc_0702",
+      "backGround" : "DigSc_0705",
+      "story" : 270704,
+      "tv" : {
+        "key" : 150410,
+        "value" : 7
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 9
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 6
+      },
+      "superModelReserves" : 18440000,
+      "superModelStopBase" : 4250000
+    },
+    {
+      "id" : 47,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240704,
+          "value" : 8
+        },
+        {
+          "key" : 240705,
+          "value" : 8
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 136
+      },
+      "foreGround" : "DigSc_0704",
+      "mediumShot" : "DigSc_0702",
+      "backGround" : "DigSc_0705",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 7
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 9
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 6
+      },
+      "superModelReserves" : 18910000,
+      "superModelStopBase" : 4360000
+    },
+    {
+      "id" : 48,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240704,
+          "value" : 9
+        },
+        {
+          "key" : 240705,
+          "value" : 9
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 160
+      },
+      "foreGround" : "DigSc_0704",
+      "mediumShot" : "DigSc_0702",
+      "backGround" : "DigSc_0705",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 8
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 11
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 7
+      },
+      "superModelReserves" : 19780000,
+      "superModelStopBase" : 4470000
+    },
+    {
+      "id" : 49,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240704,
+          "value" : 11
+        },
+        {
+          "key" : 240705,
+          "value" : 11
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 185
+      },
+      "foreGround" : "DigSc_0704",
+      "mediumShot" : "DigSc_0702",
+      "backGround" : "DigSc_0705",
+      "story" : 270707,
+      "tv" : {
+        "key" : 150410,
+        "value" : 10
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 13
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 9
+      },
+      "superModelReserves" : 21080000,
+      "superModelStopBase" : 4580000
+    },
+    {
+      "id" : 50,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240802,
+          "value" : 15
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 125
+      },
+      "foreGround" : "DigSc_0801",
+      "mediumShot" : "DigSc_0802",
+      "backGround" : "DigSc_0803",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 6
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 8
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 6
+      },
+      "superModelReserves" : 19930000,
+      "superModelStopBase" : 4690000
+    },
+    {
+      "id" : 51,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240802,
+          "value" : 15
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 125
+      },
+      "foreGround" : "DigSc_0801",
+      "mediumShot" : "DigSc_0802",
+      "backGround" : "DigSc_0803",
+      "story" : 270802,
+      "tv" : {
+        "key" : 150410,
+        "value" : 6
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 8
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 6
+      },
+      "superModelReserves" : 20400000,
+      "superModelStopBase" : 4800000
+    },
+    {
+      "id" : 52,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240802,
+          "value" : 15
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 125
+      },
+      "foreGround" : "DigSc_0801",
+      "mediumShot" : "DigSc_0802",
+      "backGround" : "DigSc_0803",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 6
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 8
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 6
+      },
+      "superModelReserves" : 20950000,
+      "superModelStopBase" : 4930000
+    },
+    {
+      "id" : 53,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240802,
+          "value" : 8
+        },
+        {
+          "key" : 240805,
+          "value" : 8
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 136
+      },
+      "foreGround" : "DigSc_0801",
+      "mediumShot" : "DigSc_0802",
+      "backGround" : "DigSc_0803",
+      "story" : 270804,
+      "tv" : {
+        "key" : 150410,
+        "value" : 7
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 9
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 6
+      },
+      "superModelReserves" : 21950000,
+      "superModelStopBase" : 5060000
+    },
+    {
+      "id" : 54,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240802,
+          "value" : 8
+        },
+        {
+          "key" : 240805,
+          "value" : 8
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 136
+      },
+      "foreGround" : "DigSc_0804",
+      "mediumShot" : "DigSc_0802",
+      "backGround" : "DigSc_0805",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 7
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 9
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 6
+      },
+      "superModelReserves" : 22510000,
+      "superModelStopBase" : 5190000
+    },
+    {
+      "id" : 55,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240802,
+          "value" : 9
+        },
+        {
+          "key" : 240805,
+          "value" : 9
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 147
+      },
+      "foreGround" : "DigSc_0804",
+      "mediumShot" : "DigSc_0802",
+      "backGround" : "DigSc_0805",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 8
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 10
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 7
+      },
+      "superModelReserves" : 23080000,
+      "superModelStopBase" : 5320000
+    },
+    {
+      "id" : 56,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240802,
+          "value" : 12
+        },
+        {
+          "key" : 240805,
+          "value" : 12
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 197
+      },
+      "foreGround" : "DigSc_0804",
+      "mediumShot" : "DigSc_0802",
+      "backGround" : "DigSc_0805",
+      "story" : 270807,
+      "tv" : {
+        "key" : 150410,
+        "value" : 10
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 14
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 9
+      },
+      "superModelReserves" : 25090000,
+      "superModelStopBase" : 5450000
+    },
+    {
+      "id" : 57,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240902,
+          "value" : 8
+        },
+        {
+          "key" : 240903,
+          "value" : 8
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 136
+      },
+      "foreGround" : "DigSc_0901",
+      "mediumShot" : "DigSc_0902",
+      "backGround" : "DigSc_0903",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 7
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 9
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 6
+      },
+      "superModelReserves" : 24200000,
+      "superModelStopBase" : 5580000
+    },
+    {
+      "id" : 58,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240902,
+          "value" : 8
+        },
+        {
+          "key" : 240903,
+          "value" : 8
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 136
+      },
+      "foreGround" : "DigSc_0901",
+      "mediumShot" : "DigSc_0902",
+      "backGround" : "DigSc_0903",
+      "story" : 270902,
+      "tv" : {
+        "key" : 150410,
+        "value" : 7
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 9
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 6
+      },
+      "superModelReserves" : 24770000,
+      "superModelStopBase" : 5710000
+    },
+    {
+      "id" : 59,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240902,
+          "value" : 8
+        },
+        {
+          "key" : 240903,
+          "value" : 8
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 136
+      },
+      "foreGround" : "DigSc_0901",
+      "mediumShot" : "DigSc_0902",
+      "backGround" : "DigSc_0903",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 7
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 9
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 6
+      },
+      "superModelReserves" : 25330000,
+      "superModelStopBase" : 5840000
+    },
+    {
+      "id" : 60,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240902,
+          "value" : 9
+        },
+        {
+          "key" : 240903,
+          "value" : 9
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 160
+      },
+      "foreGround" : "DigSc_0904",
+      "mediumShot" : "DigSc_0902",
+      "backGround" : "DigSc_0905",
+      "story" : 270904,
+      "tv" : {
+        "key" : 150410,
+        "value" : 8
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 11
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 7
+      },
+      "superModelReserves" : 26420000,
+      "superModelStopBase" : 5970000
+    },
+    {
+      "id" : 61,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240902,
+          "value" : 9
+        },
+        {
+          "key" : 240903,
+          "value" : 9
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 160
+      },
+      "foreGround" : "DigSc_0904",
+      "mediumShot" : "DigSc_0902",
+      "backGround" : "DigSc_0905",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 8
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 11
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 7
+      },
+      "superModelReserves" : 27000000,
+      "superModelStopBase" : 6100000
+    },
+    {
+      "id" : 62,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240902,
+          "value" : 11
+        },
+        {
+          "key" : 240903,
+          "value" : 11
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 185
+      },
+      "foreGround" : "DigSc_0904",
+      "mediumShot" : "DigSc_0902",
+      "backGround" : "DigSc_0905",
+      "story" : 0,
+      "tv" : {
+        "key" : 150410,
+        "value" : 10
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 13
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 9
+      },
+      "superModelReserves" : 28770000,
+      "superModelStopBase" : 6250000
+    },
+    {
+      "id" : 63,
+      "rewards" : [
+        {
+          "key" : 150406,
+          "value" : 1
+        },
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 220005,
+          "value" : 20
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "rewards2" : [
+        {
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "key" : 150202,
+          "value" : 1
+        }
+      ],
+      "monsters" : [
+        {
+          "key" : 240902,
+          "value" : 13
+        },
+        {
+          "key" : 240903,
+          "value" : 13
+        }
+      ],
+      "star" : {
+        "key" : 220005,
+        "value" : 208
+      },
+      "foreGround" : "DigSc_0904",
+      "mediumShot" : "DigSc_0902",
+      "backGround" : "DigSc_0905",
+      "story" : 270907,
+      "tv" : {
+        "key" : 150410,
+        "value" : 11
+      },
+      "bomb" : {
+        "key" : 150501,
+        "value" : 14
+      },
+      "crystalBall" : {
+        "key" : 150411,
+        "value" : 10
+      },
+      "superModelReserves" : 29460000,
+      "superModelStopBase" : 6400000
+    }
+  ]  
+}

@@ -1,0 +1,9 @@
+{
+  "PetSkillEffectEnum":{
+      "AddTheftGold" : 1,
+      "AddShield" : 2,
+      "AddSlotGold" : 3,
+      "FastRestEnergy" : 4,
+      "DestroyShield" : 5
+  }  
+}

@@ -1,0 +1,256 @@
+{
+  "FirstLayers":[
+    {
+      "id" : 1,
+      "gid" : 0,
+      "gtid" : 1001,
+      "goodsId" : 0
+    },
+    {
+      "id" : 2,
+      "gid" : 1,
+      "gtid" : 1003,
+      "goodsId" : 150206
+    },
+    {
+      "id" : 3,
+      "gid" : 2,
+      "gtid" : 1002,
+      "goodsId" : 150206
+    },
+    {
+      "id" : 4,
+      "gid" : 3,
+      "gtid" : 1002,
+      "goodsId" : 150205
+    },
+    {
+      "id" : 5,
+      "gid" : 4,
+      "gtid" : 1001,
+      "goodsId" : 220005
+    },
+    {
+      "id" : 6,
+      "gid" : 5,
+      "gtid" : 1001,
+      "goodsId" : 0
+    },
+    {
+      "id" : 7,
+      "gid" : 6,
+      "gtid" : 1002,
+      "goodsId" : 0
+    },
+    {
+      "id" : 8,
+      "gid" : 7,
+      "gtid" : 1001,
+      "goodsId" : 220005
+    },
+    {
+      "id" : 9,
+      "gid" : 8,
+      "gtid" : 1001,
+      "goodsId" : 150204
+    },
+    {
+      "id" : 10,
+      "gid" : 9,
+      "gtid" : 1002,
+      "goodsId" : 0
+    },
+    {
+      "id" : 11,
+      "gid" : 10,
+      "gtid" : 1003,
+      "goodsId" : 150291
+    },
+    {
+      "id" : 12,
+      "gid" : 11,
+      "gtid" : 1001,
+      "goodsId" : 150204
+    },
+    {
+      "id" : 13,
+      "gid" : 12,
+      "gtid" : 1002,
+      "goodsId" : 150205
+    },
+    {
+      "id" : 14,
+      "gid" : 13,
+      "gtid" : 1001,
+      "goodsId" : 150403
+    },
+    {
+      "id" : 15,
+      "gid" : 14,
+      "gtid" : 1001,
+      "goodsId" : 0
+    },
+    {
+      "id" : 16,
+      "gid" : 15,
+      "gtid" : 1001,
+      "goodsId" : 220005
+    },
+    {
+      "id" : 17,
+      "gid" : 16,
+      "gtid" : 1002,
+      "goodsId" : 0
+    },
+    {
+      "id" : 18,
+      "gid" : 17,
+      "gtid" : 1001,
+      "goodsId" : 0
+    },
+    {
+      "id" : 19,
+      "gid" : 18,
+      "gtid" : 1001,
+      "goodsId" : 220005
+    },
+    {
+      "id" : 20,
+      "gid" : 19,
+      "gtid" : 1001,
+      "goodsId" : 0
+    },
+    {
+      "id" : 21,
+      "gid" : 20,
+      "gtid" : 0,
+      "goodsId" : 150407
+    },
+    {
+      "id" : 22,
+      "gid" : 21,
+      "gtid" : 1001,
+      "goodsId" : 0
+    },
+    {
+      "id" : 23,
+      "gid" : 22,
+      "gtid" : 1001,
+      "goodsId" : 220005
+    },
+    {
+      "id" : 24,
+      "gid" : 23,
+      "gtid" : 1002,
+      "goodsId" : 0
+    },
+    {
+      "id" : 25,
+      "gid" : 24,
+      "gtid" : 1002,
+      "goodsId" : 0
+    },
+    {
+      "id" : 26,
+      "gid" : 25,
+      "gtid" : 1001,
+      "goodsId" : 220005
+    },
+    {
+      "id" : 27,
+      "gid" : 26,
+      "gtid" : 1001,
+      "goodsId" : 0
+    },
+    {
+      "id" : 28,
+      "gid" : 27,
+      "gtid" : 1001,
+      "goodsId" : 150204
+    },
+    {
+      "id" : 29,
+      "gid" : 28,
+      "gtid" : 1002,
+      "goodsId" : 150205
+    },
+    {
+      "id" : 30,
+      "gid" : 29,
+      "gtid" : 1001,
+      "goodsId" : 0
+    },
+    {
+      "id" : 31,
+      "gid" : 30,
+      "gtid" : 1001,
+      "goodsId" : 220005
+    },
+    {
+      "id" : 32,
+      "gid" : 31,
+      "gtid" : 1001,
+      "goodsId" : 0
+    },
+    {
+      "id" : 33,
+      "gid" : 32,
+      "gtid" : 1002,
+      "goodsId" : 0
+    },
+    {
+      "id" : 34,
+      "gid" : 33,
+      "gtid" : 1001,
+      "goodsId" : 220005
+    },
+    {
+      "id" : 35,
+      "gid" : 34,
+      "gtid" : 1003,
+      "goodsId" : 150206
+    },
+    {
+      "id" : 36,
+      "gid" : 35,
+      "gtid" : 1001,
+      "goodsId" : 0
+    },
+    {
+      "id" : 37,
+      "gid" : 36,
+      "gtid" : 1003,
+      "goodsId" : 0
+    },
+    {
+      "id" : 38,
+      "gid" : 37,
+      "gtid" : 1001,
+      "goodsId" : 0
+    },
+    {
+      "id" : 39,
+      "gid" : 38,
+      "gtid" : 1002,
+      "goodsId" : 0
+    },
+    {
+      "id" : 40,
+      "gid" : 39,
+      "gtid" : 1001,
+      "goodsId" : 0
+    },
+    {
+      "id" : 41,
+      "gid" : 40,
+      "gtid" : 1001,
+      "goodsId" : 150401
+    },
+    {
+      "id" : 42,
+      "gid" : 41,
+      "gtid" : 1001,
+      "goodsId" : 0
+    }
+  ]  
+}

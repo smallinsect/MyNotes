@@ -1,0 +1,17 @@
+{
+  "FBLoginRewards":[
+    {
+      "id" : 1,
+      "rewards" : [
+        {
+          "key" : 220001,
+          "value" : 1500000
+        },
+        {
+          "key" : 220004,
+          "value" : 30
+        }
+      ]
+    }
+  ]  
+}

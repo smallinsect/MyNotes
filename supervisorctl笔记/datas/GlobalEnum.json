@@ -1,0 +1,16 @@
+{
+  "GlobalEnum":{
+      "gold" : 1,
+      "diamond" : 2,
+      "exp" : 3,
+      "energy" : 4,
+      "star" : 5,
+      "union" : 6,
+      "shield" : 7,
+      "slotLv" : 8,
+      "energyTime" : 9,
+      "fireGridRate" : 10,
+      "NowTime" : 11,
+      "nextRecoverTime" : 12
+  }  
+}

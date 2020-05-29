@@ -1,0 +1,1516 @@
+{
+  "AltarMessages":[
+    {
+      "id" : 1,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 72000
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 0,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 2,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 75300
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 1,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 3,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 78300
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 1,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 4,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 81300
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 1,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 5,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 84300
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 1,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 6,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 87300
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 1,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 7,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 90300
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 2,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 8,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 93000
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 1,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 9,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 96000
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 1,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 10,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 98700
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 1,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 11,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 101400
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 1,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 12,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 104700
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 1,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 13,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 108000
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 2,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 14,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 111300
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 2,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 15,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 114300
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 1,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 16,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 117600
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 1,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 17,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 120600
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 1,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 18,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 123600
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 1,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 19,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 126600
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 2,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 20,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 129300
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 2,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 21,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 132300
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 22,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 135600
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 1,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 23,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 139200
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 1,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 24,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 142500
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 2,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 25,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 145500
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 2,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 26,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 148800
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 2,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 27,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 151800
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 2,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 28,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 154800
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 29,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 157800
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 2,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 30,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 160800
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 2,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 31,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 163500
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 2,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 32,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 167700
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 33,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 171300
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 34,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 175200
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 35,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 178800
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 36,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 182400
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 2,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 37,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 186000
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 2,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 38,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 189600
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 39,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 192900
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 40,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 196200
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 41,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 199500
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 42,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 203700
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 4,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 43,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 207600
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 2,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 44,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 211800
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 2,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 45,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 215700
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 2,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 46,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 219300
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 47,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 223200
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 48,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 226800
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 4,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 49,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 230100
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 4,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 50,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 233400
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 51,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 236700
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 52,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 240900
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 53,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 245100
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 54,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 249000
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 55,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 252900
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 56,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 256500
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 4,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 57,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 260100
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 58,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 263700
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 59,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 267000
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 3,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 60,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 270300
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 4,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 61,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 273300
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 4,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 62,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 277200
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 4,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id" : 63,
+      "goldStandard" : {
+        "key" : 220001,
+        "value" : 280800
+      },
+      "energyStandard" : {
+        "key" : 220004,
+        "value" : 1
+      },
+      "dimondStandard" : {
+        "key" : 220002,
+        "value" : 8
+      },
+      "altarNum" : 5,
+      "altarTypes" : [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ]  
+}

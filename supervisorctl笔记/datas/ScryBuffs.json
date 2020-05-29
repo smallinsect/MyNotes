@@ -1,0 +1,28 @@
+{
+  "ScryBuffs":[
+    {
+      "id" : 1,
+      "name" : "19501002",
+      "desc" : "1950100102",
+      "pic" : "ScryCard_1002",
+      "val" : 0.5,
+      "count" : 5,
+      "time" : {
+        "hourTime" : 0,
+        "minute" : 0
+      }
+    },
+    {
+      "id" : 2,
+      "name" : "19501003",
+      "desc" : "1950100103",
+      "pic" : "ScryCard_1003",
+      "val" : 2,
+      "count" : 0,
+      "time" : {
+        "hourTime" : 0,
+        "minute" : 10
+      }
+    }
+  ]  
+}

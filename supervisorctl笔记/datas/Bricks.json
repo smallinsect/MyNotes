@@ -1,0 +1,832 @@
+{
+  "Bricks":[
+    {
+      "id" : 1001,
+      "name" : "场景1-低品质",
+      "icons" : [
+        "Icon_15010111",
+        "Icon_15010112",
+        "Icon_15010113"
+      ],
+      "color" : 1,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150211,
+          "value" : 1
+        },
+        {
+          "weight" : 130,
+          "key" : 150204,
+          "value" : 1
+        },
+        {
+          "weight" : 868,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 1002,
+      "name" : "场景1-中品质",
+      "icons" : [
+        "Icon_15010121"
+      ],
+      "color" : 2,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150212,
+          "value" : 1
+        },
+        {
+          "weight" : 150,
+          "key" : 150205,
+          "value" : 1
+        },
+        {
+          "weight" : 45,
+          "key" : 150291,
+          "value" : 1
+        },
+        {
+          "weight" : 803,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 1003,
+      "name" : "场景1-高品质",
+      "icons" : [
+        "Icon_15010131"
+      ],
+      "color" : 3,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150213,
+          "value" : 1
+        },
+        {
+          "weight" : 250,
+          "key" : 150206,
+          "value" : 1
+        },
+        {
+          "weight" : 60,
+          "key" : 150291,
+          "value" : 1
+        },
+        {
+          "weight" : 688,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 2001,
+      "name" : "场景2-低品质",
+      "icons" : [
+        "Icon_15010211",
+        "Icon_15010212",
+        "Icon_15010213"
+      ],
+      "color" : 1,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150214,
+          "value" : 1
+        },
+        {
+          "weight" : 130,
+          "key" : 150204,
+          "value" : 1
+        },
+        {
+          "weight" : 868,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 2002,
+      "name" : "场景2-中品质",
+      "icons" : [
+        "Icon_15010221"
+      ],
+      "color" : 2,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150215,
+          "value" : 1
+        },
+        {
+          "weight" : 150,
+          "key" : 150205,
+          "value" : 1
+        },
+        {
+          "weight" : 45,
+          "key" : 150292,
+          "value" : 1
+        },
+        {
+          "weight" : 803,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 2003,
+      "name" : "场景2-高品质",
+      "icons" : [
+        "Icon_15010231"
+      ],
+      "color" : 3,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150216,
+          "value" : 1
+        },
+        {
+          "weight" : 250,
+          "key" : 150206,
+          "value" : 1
+        },
+        {
+          "weight" : 60,
+          "key" : 150292,
+          "value" : 1
+        },
+        {
+          "weight" : 688,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 3001,
+      "name" : "场景3-低品质",
+      "icons" : [
+        "Icon_15010311",
+        "Icon_15010312",
+        "Icon_15010313"
+      ],
+      "color" : 1,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150217,
+          "value" : 1
+        },
+        {
+          "weight" : 130,
+          "key" : 150204,
+          "value" : 1
+        },
+        {
+          "weight" : 868,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 3002,
+      "name" : "场景3-中品质",
+      "icons" : [
+        "Icon_15010321"
+      ],
+      "color" : 2,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150218,
+          "value" : 1
+        },
+        {
+          "weight" : 150,
+          "key" : 150205,
+          "value" : 1
+        },
+        {
+          "weight" : 45,
+          "key" : 150293,
+          "value" : 1
+        },
+        {
+          "weight" : 803,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 3003,
+      "name" : "场景3-高品质",
+      "icons" : [
+        "Icon_15010331"
+      ],
+      "color" : 3,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150219,
+          "value" : 1
+        },
+        {
+          "weight" : 250,
+          "key" : 150206,
+          "value" : 1
+        },
+        {
+          "weight" : 60,
+          "key" : 150293,
+          "value" : 1
+        },
+        {
+          "weight" : 688,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 4001,
+      "name" : "场景4-低品质",
+      "icons" : [
+        "Icon_15010411",
+        "Icon_15010412",
+        "Icon_15010413"
+      ],
+      "color" : 1,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150220,
+          "value" : 1
+        },
+        {
+          "weight" : 130,
+          "key" : 150204,
+          "value" : 1
+        },
+        {
+          "weight" : 868,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 4002,
+      "name" : "场景4-中品质",
+      "icons" : [
+        "Icon_15010421"
+      ],
+      "color" : 2,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150221,
+          "value" : 1
+        },
+        {
+          "weight" : 150,
+          "key" : 150205,
+          "value" : 1
+        },
+        {
+          "weight" : 45,
+          "key" : 150294,
+          "value" : 1
+        },
+        {
+          "weight" : 803,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 4003,
+      "name" : "场景4-高品质",
+      "icons" : [
+        "Icon_15010431"
+      ],
+      "color" : 3,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150222,
+          "value" : 1
+        },
+        {
+          "weight" : 250,
+          "key" : 150206,
+          "value" : 1
+        },
+        {
+          "weight" : 60,
+          "key" : 150294,
+          "value" : 1
+        },
+        {
+          "weight" : 688,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 5001,
+      "name" : "场景5-低品质",
+      "icons" : [
+        "Icon_15010511",
+        "Icon_15010512",
+        "Icon_15010513"
+      ],
+      "color" : 1,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150223,
+          "value" : 1
+        },
+        {
+          "weight" : 130,
+          "key" : 150204,
+          "value" : 1
+        },
+        {
+          "weight" : 868,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 5002,
+      "name" : "场景5-中品质",
+      "icons" : [
+        "Icon_15010521"
+      ],
+      "color" : 2,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150224,
+          "value" : 1
+        },
+        {
+          "weight" : 150,
+          "key" : 150205,
+          "value" : 1
+        },
+        {
+          "weight" : 45,
+          "key" : 150295,
+          "value" : 1
+        },
+        {
+          "weight" : 803,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 5003,
+      "name" : "场景5-高品质",
+      "icons" : [
+        "Icon_15010531"
+      ],
+      "color" : 3,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150225,
+          "value" : 1
+        },
+        {
+          "weight" : 250,
+          "key" : 150206,
+          "value" : 1
+        },
+        {
+          "weight" : 60,
+          "key" : 150295,
+          "value" : 1
+        },
+        {
+          "weight" : 688,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 6001,
+      "name" : "场景6-低品质",
+      "icons" : [
+        "Icon_15010611",
+        "Icon_15010612",
+        "Icon_15010613"
+      ],
+      "color" : 1,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150226,
+          "value" : 1
+        },
+        {
+          "weight" : 130,
+          "key" : 150204,
+          "value" : 1
+        },
+        {
+          "weight" : 868,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 6002,
+      "name" : "场景6-中品质",
+      "icons" : [
+        "Icon_15010621"
+      ],
+      "color" : 2,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150227,
+          "value" : 1
+        },
+        {
+          "weight" : 150,
+          "key" : 150205,
+          "value" : 1
+        },
+        {
+          "weight" : 45,
+          "key" : 150296,
+          "value" : 1
+        },
+        {
+          "weight" : 803,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 6003,
+      "name" : "场景6-高品质",
+      "icons" : [
+        "Icon_15010631"
+      ],
+      "color" : 3,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150228,
+          "value" : 1
+        },
+        {
+          "weight" : 250,
+          "key" : 150206,
+          "value" : 1
+        },
+        {
+          "weight" : 60,
+          "key" : 150296,
+          "value" : 1
+        },
+        {
+          "weight" : 688,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 7001,
+      "name" : "场景7-低品质",
+      "icons" : [
+        "Icon_15010711",
+        "Icon_15010712",
+        "Icon_15010713"
+      ],
+      "color" : 1,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150229,
+          "value" : 1
+        },
+        {
+          "weight" : 130,
+          "key" : 150204,
+          "value" : 1
+        },
+        {
+          "weight" : 868,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 7002,
+      "name" : "场景7-中品质",
+      "icons" : [
+        "Icon_15010721"
+      ],
+      "color" : 2,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150230,
+          "value" : 1
+        },
+        {
+          "weight" : 150,
+          "key" : 150205,
+          "value" : 1
+        },
+        {
+          "weight" : 45,
+          "key" : 150297,
+          "value" : 1
+        },
+        {
+          "weight" : 803,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 7003,
+      "name" : "场景7-高品质",
+      "icons" : [
+        "Icon_15010731"
+      ],
+      "color" : 3,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150231,
+          "value" : 1
+        },
+        {
+          "weight" : 250,
+          "key" : 150206,
+          "value" : 1
+        },
+        {
+          "weight" : 60,
+          "key" : 150297,
+          "value" : 1
+        },
+        {
+          "weight" : 688,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 8001,
+      "name" : "场景8-低品质",
+      "icons" : [
+        "Icon_15010811",
+        "Icon_15010812",
+        "Icon_15010813"
+      ],
+      "color" : 1,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150232,
+          "value" : 1
+        },
+        {
+          "weight" : 130,
+          "key" : 150204,
+          "value" : 1
+        },
+        {
+          "weight" : 868,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 8002,
+      "name" : "场景8-中品质",
+      "icons" : [
+        "Icon_15010821"
+      ],
+      "color" : 2,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150233,
+          "value" : 1
+        },
+        {
+          "weight" : 150,
+          "key" : 150205,
+          "value" : 1
+        },
+        {
+          "weight" : 45,
+          "key" : 150298,
+          "value" : 1
+        },
+        {
+          "weight" : 803,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 8003,
+      "name" : "场景8-高品质",
+      "icons" : [
+        "Icon_15010831"
+      ],
+      "color" : 3,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150234,
+          "value" : 1
+        },
+        {
+          "weight" : 250,
+          "key" : 150206,
+          "value" : 1
+        },
+        {
+          "weight" : 60,
+          "key" : 150298,
+          "value" : 1
+        },
+        {
+          "weight" : 688,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 9001,
+      "name" : "场景9-低品质",
+      "icons" : [
+        "Icon_15010911",
+        "Icon_15010912",
+        "Icon_15010913"
+      ],
+      "color" : 1,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150235,
+          "value" : 1
+        },
+        {
+          "weight" : 130,
+          "key" : 150204,
+          "value" : 1
+        },
+        {
+          "weight" : 868,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 9002,
+      "name" : "场景9-中品质",
+      "icons" : [
+        "Icon_15010921"
+      ],
+      "color" : 2,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150236,
+          "value" : 1
+        },
+        {
+          "weight" : 150,
+          "key" : 150205,
+          "value" : 1
+        },
+        {
+          "weight" : 45,
+          "key" : 150299,
+          "value" : 1
+        },
+        {
+          "weight" : 803,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 9003,
+      "name" : "场景9-高品质",
+      "icons" : [
+        "Icon_15010931"
+      ],
+      "color" : 3,
+      "rewards" : [
+        {
+          "weight" : 2,
+          "key" : 150237,
+          "value" : 1
+        },
+        {
+          "weight" : 250,
+          "key" : 150206,
+          "value" : 1
+        },
+        {
+          "weight" : 60,
+          "key" : 150299,
+          "value" : 1
+        },
+        {
+          "weight" : 688,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 0
+    },
+    {
+      "id" : 9999,
+      "name" : "焦土砖块",
+      "icons" : [
+        "Icon_15019997",
+        "Icon_15019998",
+        "Icon_15019999"
+      ],
+      "color" : 2,
+      "rewards" : [
+        {
+          "weight" : 50,
+          "key" : 0,
+          "value" : 0
+        }
+      ],
+      "type" : 1
+    }
+  ]  
+}

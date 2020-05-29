@@ -1,0 +1,2114 @@
+{
+  "Cards":[
+    {
+      "id" : 260001,
+      "name" : "1944261001",
+      "cost" : 0,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        5
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 5,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 4,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944262001",
+      "icon" : "Icon_260001",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : ""
+    },
+    {
+      "id" : 260002,
+      "name" : "1944261002",
+      "cost" : 0,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        5,
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 5,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 2,
+            "val2" : 0
+          }
+        },
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 200,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944262002",
+      "icon" : "Icon_260002",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : ""
+    },
+    {
+      "id" : 260003,
+      "name" : "1944261003",
+      "cost" : 9,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 2,
+            "val1" : 2000,
+            "val2" : 3000
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944262003",
+      "icon" : "Icon_260003",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : ""
+    },
+    {
+      "id" : 260004,
+      "name" : "1944261004",
+      "cost" : 2,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 2,
+            "val1" : 100,
+            "val2" : 200
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 2,
+        "max" : 2
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944262004",
+      "icon" : "Icon_260004",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : ""
+    },
+    {
+      "id" : 260005,
+      "name" : "1944261005",
+      "cost" : 3,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 3,
+            "val1" : 50,
+            "val2" : 2000
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944262005",
+      "icon" : "Icon_260005",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : "CoinToss"
+    },
+    {
+      "id" : 260006,
+      "name" : "1944261006",
+      "cost" : 5,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 3,
+            "val1" : 50,
+            "val2" : 3000
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944262006",
+      "icon" : "Icon_260006",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : "CoinToss"
+    },
+    {
+      "id" : 260007,
+      "name" : "1944261007",
+      "cost" : 7,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 3,
+            "val1" : 50,
+            "val2" : 4000
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944262007",
+      "icon" : "Icon_260007",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : "CoinToss"
+    },
+    {
+      "id" : 260008,
+      "name" : "1944261008",
+      "cost" : 4,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1,
+        7
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 2,
+            "val1" : 400,
+            "val2" : 800
+          }
+        },
+        {
+          "hurtTyp" : 7,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 500,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 2,
+      "statusTime" : 0,
+      "desc" : "1944262008",
+      "icon" : "Icon_260008",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : "260004"
+    },
+    {
+      "id" : 260009,
+      "name" : "1944261009",
+      "cost" : 4,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1,
+        7
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 2,
+            "val1" : 400,
+            "val2" : 800
+          }
+        },
+        {
+          "hurtTyp" : 7,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 500,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 1,
+      "statusTime" : 0,
+      "desc" : "1944262009",
+      "icon" : "Icon_260009",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : "260005"
+    },
+    {
+      "id" : 260010,
+      "name" : "1944261010",
+      "cost" : 6,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1,
+        7
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 800,
+            "val2" : 0
+          }
+        },
+        {
+          "hurtTyp" : 7,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 1000,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 2,
+      "statusTime" : 0,
+      "desc" : "1944262010",
+      "icon" : "Icon_260010",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : "260004"
+    },
+    {
+      "id" : 260011,
+      "name" : "1944261011",
+      "cost" : 6,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1,
+        7
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 800,
+            "val2" : 0
+          }
+        },
+        {
+          "hurtTyp" : 7,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 1000,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 1,
+      "statusTime" : 0,
+      "desc" : "1944262011",
+      "icon" : "Icon_260011",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : "260005"
+    },
+    {
+      "id" : 260012,
+      "name" : "1944261012",
+      "cost" : 3,
+      "cardTyp" : 4,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        99
+      ],
+      "hurt" : [
+
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 9,
+      "desc" : "1944262012",
+      "icon" : "Icon_260012",
+      "buffIcon" : "Buff_racial",
+      "buffDesc" : "1944263012",
+      "effName" : ""
+    },
+    {
+      "id" : 260013,
+      "name" : "1944261013",
+      "cost" : 6,
+      "cardTyp" : 2,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 200,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 99,
+      "desc" : "1944262013",
+      "icon" : "Icon_260013",
+      "buffIcon" : "Buff_snaketrap",
+      "buffDesc" : "1944263013",
+      "effName" : ""
+    },
+    {
+      "id" : 260014,
+      "name" : "1944261014",
+      "cost" : 5,
+      "cardTyp" : 4,
+      "checkPoint" : 1,
+      "hurtTyp" : [
+        15
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 15,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 100,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 99,
+      "desc" : "1944262014",
+      "icon" : "Icon_260014",
+      "buffIcon" : "Buff_spinetrap",
+      "buffDesc" : "1944263014",
+      "effName" : ""
+    },
+    {
+      "id" : 260015,
+      "name" : "1944261015",
+      "cost" : 4,
+      "cardTyp" : 2,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 10,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 2,
+        "max" : 2
+      },
+      "hurtRace" : 0,
+      "statusTime" : 99,
+      "desc" : "1944262015",
+      "icon" : "Icon_260015",
+      "buffIcon" : "Buff_rocktrap",
+      "buffDesc" : "1944263015",
+      "effName" : ""
+    },
+    {
+      "id" : 260016,
+      "name" : "1944261016",
+      "cost" : 2,
+      "cardTyp" : 3,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        99
+      ],
+      "hurt" : [
+
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944262016",
+      "icon" : "Icon_260016",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : ""
+    },
+    {
+      "id" : 260017,
+      "name" : "1944261017",
+      "cost" : 3,
+      "cardTyp" : 4,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        99
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 4,
+            "val1" : 2,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 99,
+      "desc" : "1944262017",
+      "icon" : "Icon_260017",
+      "buffIcon" : "Buff_doubleDmg",
+      "buffDesc" : "1944263017",
+      "effName" : ""
+    },
+    {
+      "id" : 260018,
+      "name" : "1944261018",
+      "cost" : 1,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1,
+        4
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 2,
+            "val1" : 600,
+            "val2" : 1000
+          }
+        },
+        {
+          "hurtTyp" : 4,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 1,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944262018",
+      "icon" : "Icon_260018",
+      "buffIcon" : "Buff_abandonCard",
+      "buffDesc" : "1944263018",
+      "effName" : ""
+    },
+    {
+      "id" : 260019,
+      "name" : "1944261019",
+      "cost" : 3,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1,
+        4
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 2,
+            "val1" : 1400,
+            "val2" : 2000
+          }
+        },
+        {
+          "hurtTyp" : 4,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 2,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944262019",
+      "icon" : "Icon_260019",
+      "buffIcon" : "Buff_abandonCard",
+      "buffDesc" : "1944263018",
+      "effName" : ""
+    },
+    {
+      "id" : 260020,
+      "name" : "1944261020",
+      "cost" : 2,
+      "cardTyp" : 4,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        99
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 99,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 100,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 5,
+      "desc" : "1944262020",
+      "icon" : "Icon_260020",
+      "buffIcon" : "Buff_bleed",
+      "buffDesc" : "1944263020",
+      "effName" : ""
+    },
+    {
+      "id" : 260021,
+      "name" : "1944261021",
+      "cost" : 4,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 100,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 3,
+        "max" : 5
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944262021",
+      "icon" : "Icon_260021",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : ""
+    },
+    {
+      "id" : 260022,
+      "name" : "1944261022",
+      "cost" : 6,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 100,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 7,
+        "max" : 11
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944262022",
+      "icon" : "Icon_260022",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : ""
+    },
+    {
+      "id" : 260023,
+      "name" : "1944261023",
+      "cost" : 4,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        2
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 2,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 50000,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944262023",
+      "icon" : "Icon_260023",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : ""
+    },
+    {
+      "id" : 260024,
+      "name" : "1944261024",
+      "cost" : 2,
+      "cardTyp" : 4,
+      "checkPoint" : 1,
+      "hurtTyp" : [
+        9
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 9,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 30,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 2,
+      "desc" : "1944262024",
+      "icon" : "Icon_260024",
+      "buffIcon" : "Buff_260024",
+      "buffDesc" : "1944263024",
+      "effName" : ""
+    },
+    {
+      "id" : 260025,
+      "name" : "1944261025",
+      "cost" : 1,
+      "cardTyp" : 4,
+      "checkPoint" : 1,
+      "hurtTyp" : [
+        1,
+        9
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 200,
+            "val2" : 0
+          }
+        },
+        {
+          "hurtTyp" : 9,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 20,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 1,
+      "desc" : "1944262025",
+      "icon" : "Icon_260025",
+      "buffIcon" : "Buff_260025",
+      "buffDesc" : "1944263025",
+      "effName" : ""
+    },
+    {
+      "id" : 260026,
+      "name" : "1944261026",
+      "cost" : 2,
+      "cardTyp" : 4,
+      "checkPoint" : 1,
+      "hurtTyp" : [
+        11
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 11,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 30000,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 1,
+      "desc" : "1944262026",
+      "icon" : "Icon_260026",
+      "buffIcon" : "Buff_260026",
+      "buffDesc" : "1944263026",
+      "effName" : ""
+    },
+    {
+      "id" : 260027,
+      "name" : "1944261027",
+      "cost" : 6,
+      "cardTyp" : 4,
+      "checkPoint" : 1,
+      "hurtTyp" : [
+        12
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 12,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 200000,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 99,
+      "desc" : "1944262027",
+      "icon" : "Icon_260027",
+      "buffIcon" : "Buff_260027",
+      "buffDesc" : "1944263027",
+      "effName" : ""
+    },
+    {
+      "id" : 260028,
+      "name" : "1944261028",
+      "cost" : 2,
+      "cardTyp" : 4,
+      "checkPoint" : 1,
+      "hurtTyp" : [
+        13
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 13,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 25,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 2,
+      "desc" : "1944262028",
+      "icon" : "Icon_260028",
+      "buffIcon" : "Buff_260028",
+      "buffDesc" : "1944263028",
+      "effName" : ""
+    },
+    {
+      "id" : 260029,
+      "name" : "1944261029",
+      "cost" : 3,
+      "cardTyp" : 4,
+      "checkPoint" : 1,
+      "hurtTyp" : [
+        15,
+        13
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 15,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 100,
+            "val2" : 0
+          }
+        },
+        {
+          "hurtTyp" : 13,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 10,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 3,
+      "desc" : "1944262029",
+      "icon" : "Icon_260029",
+      "buffIcon" : "Buff_260029",
+      "buffDesc" : "1944263029",
+      "effName" : ""
+    },
+    {
+      "id" : 260030,
+      "name" : "1944261030",
+      "cost" : 4,
+      "cardTyp" : 0,
+      "checkPoint" : 1,
+      "hurtTyp" : [
+        16
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 16,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 100000,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 99,
+      "desc" : "1944262030",
+      "icon" : "Icon_260030",
+      "buffIcon" : "Buff_260030",
+      "buffDesc" : "1944263030",
+      "effName" : ""
+    },
+    {
+      "id" : 260031,
+      "name" : "1944261031",
+      "cost" : 4,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1,
+        17
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 1000,
+            "val2" : 0
+          }
+        },
+        {
+          "hurtTyp" : 17,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 1000,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944262031",
+      "icon" : "Icon_260031",
+      "buffIcon" : "Buff_260031",
+      "buffDesc" : "1944263031",
+      "effName" : ""
+    },
+    {
+      "id" : 270001,
+      "name" : "1944271001",
+      "cost" : 2,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        5
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 5,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 7,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944272001",
+      "icon" : "Icon_260001",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : ""
+    },
+    {
+      "id" : 270002,
+      "name" : "1944271002",
+      "cost" : 0,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        5,
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 5,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 2,
+            "val2" : 0
+          }
+        },
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 200,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944272002",
+      "icon" : "Icon_260002",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : ""
+    },
+    {
+      "id" : 270003,
+      "name" : "1944271003",
+      "cost" : 9,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 2,
+            "val1" : 2500,
+            "val2" : 3500
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944272003",
+      "icon" : "Icon_260003",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : ""
+    },
+    {
+      "id" : 270004,
+      "name" : "1944271004",
+      "cost" : 3,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 2,
+            "val1" : 100,
+            "val2" : 200
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 4,
+        "max" : 4
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944272004",
+      "icon" : "Icon_260004",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : ""
+    },
+    {
+      "id" : 270005,
+      "name" : "1944271005",
+      "cost" : 3,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 3,
+            "val1" : 50,
+            "val2" : 2500
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944272005",
+      "icon" : "Icon_260005",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : "CoinToss"
+    },
+    {
+      "id" : 270006,
+      "name" : "1944271006",
+      "cost" : 5,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 3,
+            "val1" : 50,
+            "val2" : 3500
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944272006",
+      "icon" : "Icon_260006",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : "CoinToss"
+    },
+    {
+      "id" : 270007,
+      "name" : "1944271007",
+      "cost" : 7,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 3,
+            "val1" : 50,
+            "val2" : 5000
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944272007",
+      "icon" : "Icon_260007",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : "CoinToss"
+    },
+    {
+      "id" : 270008,
+      "name" : "1944271008",
+      "cost" : 4,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1,
+        7
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 2,
+            "val1" : 400,
+            "val2" : 800
+          }
+        },
+        {
+          "hurtTyp" : 7,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 1000,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 2,
+      "statusTime" : 0,
+      "desc" : "1944272008",
+      "icon" : "Icon_260008",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : "260004"
+    },
+    {
+      "id" : 270009,
+      "name" : "1944271009",
+      "cost" : 4,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1,
+        7
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 2,
+            "val1" : 400,
+            "val2" : 800
+          }
+        },
+        {
+          "hurtTyp" : 7,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 1000,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 1,
+      "statusTime" : 0,
+      "desc" : "1944272009",
+      "icon" : "Icon_260009",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : "260005"
+    },
+    {
+      "id" : 270010,
+      "name" : "1944271010",
+      "cost" : 6,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1,
+        7
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 400,
+            "val2" : 0
+          }
+        },
+        {
+          "hurtTyp" : 7,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 2000,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 2,
+      "statusTime" : 0,
+      "desc" : "1944272010",
+      "icon" : "Icon_260010",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : "260004"
+    },
+    {
+      "id" : 270011,
+      "name" : "1944271011",
+      "cost" : 6,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1,
+        7
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 400,
+            "val2" : 0
+          }
+        },
+        {
+          "hurtTyp" : 7,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 2000,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 1,
+      "statusTime" : 0,
+      "desc" : "1944272011",
+      "icon" : "Icon_260011",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : "260005"
+    },
+    {
+      "id" : 270012,
+      "name" : "1944271012",
+      "cost" : 2,
+      "cardTyp" : 4,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        99
+      ],
+      "hurt" : [
+
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 9,
+      "desc" : "1944272012",
+      "icon" : "Icon_260012",
+      "buffIcon" : "Buff_racial",
+      "buffDesc" : "1944263012",
+      "effName" : ""
+    },
+    {
+      "id" : 270013,
+      "name" : "1944271013",
+      "cost" : 6,
+      "cardTyp" : 2,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 250,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 99,
+      "desc" : "1944272013",
+      "icon" : "Icon_260013",
+      "buffIcon" : "Buff_snaketrap",
+      "buffDesc" : "1944273013",
+      "effName" : ""
+    },
+    {
+      "id" : 270014,
+      "name" : "1944271014",
+      "cost" : 4,
+      "cardTyp" : 4,
+      "checkPoint" : 1,
+      "hurtTyp" : [
+        15
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 15,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 100,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 99,
+      "desc" : "1944272014",
+      "icon" : "Icon_260014",
+      "buffIcon" : "Buff_spinetrap",
+      "buffDesc" : "1944263014",
+      "effName" : ""
+    },
+    {
+      "id" : 270015,
+      "name" : "1944271015",
+      "cost" : 4,
+      "cardTyp" : 2,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 50,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 2,
+        "max" : 2
+      },
+      "hurtRace" : 0,
+      "statusTime" : 99,
+      "desc" : "1944272015",
+      "icon" : "Icon_260015",
+      "buffIcon" : "Buff_rocktrap",
+      "buffDesc" : "1944273015",
+      "effName" : ""
+    },
+    {
+      "id" : 270016,
+      "name" : "1944271016",
+      "cost" : 1,
+      "cardTyp" : 3,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        99
+      ],
+      "hurt" : [
+
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944272016",
+      "icon" : "Icon_260016",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : ""
+    },
+    {
+      "id" : 270017,
+      "name" : "1944271017",
+      "cost" : 2,
+      "cardTyp" : 4,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        99
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 4,
+            "val1" : 2,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 99,
+      "desc" : "1944272017",
+      "icon" : "Icon_260017",
+      "buffIcon" : "Buff_doubleDmg",
+      "buffDesc" : "1944263017",
+      "effName" : ""
+    },
+    {
+      "id" : 270018,
+      "name" : "1944271018",
+      "cost" : 0,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1,
+        4
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 2,
+            "val1" : 600,
+            "val2" : 1000
+          }
+        },
+        {
+          "hurtTyp" : 4,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 1,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944272018",
+      "icon" : "Icon_260018",
+      "buffIcon" : "Buff_abandonCard",
+      "buffDesc" : "1944263018",
+      "effName" : ""
+    },
+    {
+      "id" : 270019,
+      "name" : "1944271019",
+      "cost" : 1,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1,
+        4
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 2,
+            "val1" : 1400,
+            "val2" : 2000
+          }
+        },
+        {
+          "hurtTyp" : 4,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 2,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944272019",
+      "icon" : "Icon_260019",
+      "buffIcon" : "Buff_abandonCard",
+      "buffDesc" : "1944263018",
+      "effName" : ""
+    },
+    {
+      "id" : 270020,
+      "name" : "1944271020",
+      "cost" : 3,
+      "cardTyp" : 4,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        99
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 99,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 100,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 5,
+      "desc" : "1944272020",
+      "icon" : "Icon_260020",
+      "buffIcon" : "Buff_bleed",
+      "buffDesc" : "1944273020",
+      "effName" : ""
+    },
+    {
+      "id" : 270021,
+      "name" : "1944271021",
+      "cost" : 5,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 100,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 3,
+        "max" : 5
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944272021",
+      "icon" : "Icon_260021",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : ""
+    },
+    {
+      "id" : 270022,
+      "name" : "1944271022",
+      "cost" : 7,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        1
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 100,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 7,
+        "max" : 11
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944272022",
+      "icon" : "Icon_260022",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : ""
+    },
+    {
+      "id" : 270023,
+      "name" : "1944271023",
+      "cost" : 4,
+      "cardTyp" : 0,
+      "checkPoint" : 0,
+      "hurtTyp" : [
+        2
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 2,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 50000,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 0,
+      "desc" : "1944272023",
+      "icon" : "Icon_260023",
+      "buffIcon" : "",
+      "buffDesc" : "",
+      "effName" : ""
+    },
+    {
+      "id" : 270024,
+      "name" : "1944271024",
+      "cost" : 3,
+      "cardTyp" : 4,
+      "checkPoint" : 1,
+      "hurtTyp" : [
+        9
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 9,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 40,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 2,
+      "desc" : "1944272024",
+      "icon" : "Icon_260024",
+      "buffIcon" : "Buff_260024",
+      "buffDesc" : "1944273024",
+      "effName" : ""
+    },
+    {
+      "id" : 270025,
+      "name" : "1944271025",
+      "cost" : 1,
+      "cardTyp" : 4,
+      "checkPoint" : 1,
+      "hurtTyp" : [
+        1,
+        9
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 1,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 500,
+            "val2" : 0
+          }
+        },
+        {
+          "hurtTyp" : 9,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 20,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 1,
+      "desc" : "1944272025",
+      "icon" : "Icon_260025",
+      "buffIcon" : "Buff_260025",
+      "buffDesc" : "1944273025",
+      "effName" : ""
+    },
+    {
+      "id" : 270026,
+      "name" : "1944271026",
+      "cost" : 2,
+      "cardTyp" : 4,
+      "checkPoint" : 1,
+      "hurtTyp" : [
+        11
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 11,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 60000,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 1,
+      "desc" : "1944272026",
+      "icon" : "Icon_260026",
+      "buffIcon" : "Buff_260026",
+      "buffDesc" : "1944273026",
+      "effName" : ""
+    },
+    {
+      "id" : 270027,
+      "name" : "1944271027",
+      "cost" : 5,
+      "cardTyp" : 4,
+      "checkPoint" : 1,
+      "hurtTyp" : [
+        12
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 12,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 200000,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 99,
+      "desc" : "1944272027",
+      "icon" : "Icon_260027",
+      "buffIcon" : "Buff_260027",
+      "buffDesc" : "1944263027",
+      "effName" : ""
+    },
+    {
+      "id" : 270028,
+      "name" : "1944271028",
+      "cost" : 3,
+      "cardTyp" : 4,
+      "checkPoint" : 1,
+      "hurtTyp" : [
+        13
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 13,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 30,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 2,
+      "desc" : "1944272028",
+      "icon" : "Icon_260028",
+      "buffIcon" : "Buff_260028",
+      "buffDesc" : "1944273028",
+      "effName" : ""
+    },
+    {
+      "id" : 270029,
+      "name" : "1944271029",
+      "cost" : 3,
+      "cardTyp" : 4,
+      "checkPoint" : 1,
+      "hurtTyp" : [
+        15,
+        13
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 15,
+          "target" : 2,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 100,
+            "val2" : 0
+          }
+        },
+        {
+          "hurtTyp" : 13,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 15,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 3,
+      "desc" : "1944272029",
+      "icon" : "Icon_260029",
+      "buffIcon" : "Buff_260029",
+      "buffDesc" : "1944273029",
+      "effName" : ""
+    },
+    {
+      "id" : 270030,
+      "name" : "1944271030",
+      "cost" : 6,
+      "cardTyp" : 0,
+      "checkPoint" : 1,
+      "hurtTyp" : [
+        16
+      ],
+      "hurt" : [
+        {
+          "hurtTyp" : 16,
+          "target" : 1,
+          "hurtInfo" : {
+            "key" : 1,
+            "val1" : 200000,
+            "val2" : 0
+          }
+        }
+      ],
+      "hurtRepetition" : {
+        "min" : 0,
+        "max" : 0
+      },
+      "hurtRace" : 0,
+      "statusTime" : 99,
+      "desc" : "1944272030",
+      "icon" : "Icon_260030",
+      "buffIcon" : "Buff_260030",
+      "buffDesc" : "1944263030",
+      "effName" : ""
+    }
+  ]  
+}

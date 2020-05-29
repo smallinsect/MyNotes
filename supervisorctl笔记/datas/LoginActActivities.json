@@ -1,0 +1,119 @@
+{
+  "LoginActActivities":[
+    {
+      "activId" : 5001,
+      "typeEnum" : 2,
+      "entryIcon" : "19260115",
+      "mediator" : "SignInMediator",
+      "factor" : [
+        {
+          "weight" : 0,
+          "key" : 1,
+          "value" : 7
+        }
+      ],
+      "rewards" : [
+        {
+          "round" : 1,
+          "goodTid" : 320004,
+          "goodNum" : 10
+        },
+        {
+          "round" : 2,
+          "goodTid" : 320002,
+          "goodNum" : 150
+        },
+        {
+          "round" : 3,
+          "goodTid" : 150201,
+          "goodNum" : 1
+        },
+        {
+          "round" : 4,
+          "goodTid" : 420004,
+          "goodNum" : 20
+        },
+        {
+          "round" : 5,
+          "goodTid" : 420002,
+          "goodNum" : 200
+        },
+        {
+          "round" : 6,
+          "goodTid" : 420004,
+          "goodNum" : 50
+        },
+        {
+          "round" : 7,
+          "goodTid" : 150208,
+          "goodNum" : 1
+        }
+      ]
+    },
+    {
+      "activId" : 5002,
+      "typeEnum" : 2,
+      "entryIcon" : "19260115",
+      "mediator" : "LoginActMediator",
+      "factor" : [
+        {
+          "weight" : 1,
+          "key" : 1,
+          "value" : 10
+        }
+      ],
+      "rewards" : [
+        {
+          "round" : 1,
+          "goodTid" : 220002,
+          "goodNum" : 10
+        },
+        {
+          "round" : 2,
+          "goodTid" : 220002,
+          "goodNum" : 10
+        },
+        {
+          "round" : 3,
+          "goodTid" : 220002,
+          "goodNum" : 10
+        },
+        {
+          "round" : 4,
+          "goodTid" : 220002,
+          "goodNum" : 10
+        },
+        {
+          "round" : 5,
+          "goodTid" : 220002,
+          "goodNum" : 10
+        },
+        {
+          "round" : 6,
+          "goodTid" : 220002,
+          "goodNum" : 10
+        },
+        {
+          "round" : 7,
+          "goodTid" : 220002,
+          "goodNum" : 10
+        },
+        {
+          "round" : 8,
+          "goodTid" : 220002,
+          "goodNum" : 10
+        },
+        {
+          "round" : 9,
+          "goodTid" : 220002,
+          "goodNum" : 10
+        },
+        {
+          "round" : 10,
+          "goodTid" : 220002,
+          "goodNum" : 10
+        }
+      ]
+    }
+  ]  
+}

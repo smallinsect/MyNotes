@@ -1,0 +1,172 @@
+{
+  "WorldBossActivities":[
+    {
+      "activID" : 6001,
+      "typeEnum" : 6,
+      "entryIcon" : "19310174",
+      "mediator" : "WorldBOSSMediator",
+      "bossLst" : [
+        810000,
+        810001,
+        810002,
+        810003
+      ],
+      "bossRewards" : [
+        150201,
+        150202,
+        150202,
+        150203
+      ],
+      "dmgAccuBonusId" : 1,
+      "rankRewardId" : 1,
+      "cardLstId" : 8000
+    },
+    {
+      "activID" : 6002,
+      "typeEnum" : 6,
+      "entryIcon" : "19310174",
+      "mediator" : "WorldBOSSMediator",
+      "bossLst" : [
+        810000,
+        810001,
+        810002,
+        810003
+      ],
+      "bossRewards" : [
+        150201,
+        150202,
+        150202,
+        150203
+      ],
+      "dmgAccuBonusId" : 1,
+      "rankRewardId" : 1,
+      "cardLstId" : 8000
+    },
+    {
+      "activID" : 6003,
+      "typeEnum" : 6,
+      "entryIcon" : "19310174",
+      "mediator" : "WorldBOSSMediator",
+      "bossLst" : [
+        810000,
+        810001,
+        810002,
+        810003
+      ],
+      "bossRewards" : [
+        150201,
+        150202,
+        150202,
+        150203
+      ],
+      "dmgAccuBonusId" : 1,
+      "rankRewardId" : 1,
+      "cardLstId" : 8000
+    },
+    {
+      "activID" : 6004,
+      "typeEnum" : 6,
+      "entryIcon" : "19310174",
+      "mediator" : "WorldBOSSMediator",
+      "bossLst" : [
+        810000,
+        810001,
+        810002,
+        810003
+      ],
+      "bossRewards" : [
+        150201,
+        150202,
+        150202,
+        150203
+      ],
+      "dmgAccuBonusId" : 1,
+      "rankRewardId" : 1,
+      "cardLstId" : 8000
+    },
+    {
+      "activID" : 6005,
+      "typeEnum" : 6,
+      "entryIcon" : "19310174",
+      "mediator" : "WorldBOSSMediator",
+      "bossLst" : [
+        810000,
+        810001,
+        810002,
+        810003
+      ],
+      "bossRewards" : [
+        150201,
+        150202,
+        150202,
+        150203
+      ],
+      "dmgAccuBonusId" : 1,
+      "rankRewardId" : 1,
+      "cardLstId" : 8000
+    },
+    {
+      "activID" : 6006,
+      "typeEnum" : 6,
+      "entryIcon" : "19310174",
+      "mediator" : "WorldBOSSMediator",
+      "bossLst" : [
+        810000,
+        810001,
+        810002,
+        810003
+      ],
+      "bossRewards" : [
+        150201,
+        150202,
+        150202,
+        150203
+      ],
+      "dmgAccuBonusId" : 1,
+      "rankRewardId" : 1,
+      "cardLstId" : 8000
+    },
+    {
+      "activID" : 6007,
+      "typeEnum" : 6,
+      "entryIcon" : "19310174",
+      "mediator" : "WorldBOSSMediator",
+      "bossLst" : [
+        810000,
+        810001,
+        810002,
+        810003
+      ],
+      "bossRewards" : [
+        150201,
+        150202,
+        150202,
+        150203
+      ],
+      "dmgAccuBonusId" : 1,
+      "rankRewardId" : 1,
+      "cardLstId" : 8000
+    },
+    {
+      "activID" : 6008,
+      "typeEnum" : 6,
+      "entryIcon" : "19310174",
+      "mediator" : "WorldBOSSMediator",
+      "bossLst" : [
+        810000,
+        810001,
+        810002,
+        810003
+      ],
+      "bossRewards" : [
+        150201,
+        150202,
+        150202,
+        150203
+      ],
+      "dmgAccuBonusId" : 1,
+      "rankRewardId" : 1,
+      "cardLstId" : 8000
+    }
+  ]  
+}

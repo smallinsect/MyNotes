@@ -1,0 +1,9 @@
+{
+  "SlotEventEnum":{
+      "shield" : 101,
+      "energy" : 102,
+      "theft" : 103,
+      "fire" : 104,
+      "none" : 100
+  }  
+}

@@ -1,0 +1,64 @@
+{
+  "AltarSixDices":[
+    {
+      "id" : 101,
+      "roll" : 1,
+      "weight" : 1,
+      "Rotation" : {
+        "weight" : 0,
+        "key" : 0,
+        "value" : 0
+      }
+    },
+    {
+      "id" : 102,
+      "roll" : 2,
+      "weight" : 1,
+      "Rotation" : {
+        "weight" : 0,
+        "key" : 0,
+        "value" : 270
+      }
+    },
+    {
+      "id" : 103,
+      "roll" : 3,
+      "weight" : 1,
+      "Rotation" : {
+        "weight" : 0,
+        "key" : 270,
+        "value" : 0
+      }
+    },
+    {
+      "id" : 104,
+      "roll" : 4,
+      "weight" : 1,
+      "Rotation" : {
+        "weight" : 0,
+        "key" : 90,
+        "value" : 0
+      }
+    },
+    {
+      "id" : 105,
+      "roll" : 5,
+      "weight" : 1,
+      "Rotation" : {
+        "weight" : 0,
+        "key" : 0,
+        "value" : 90
+      }
+    },
+    {
+      "id" : 106,
+      "roll" : 6,
+      "weight" : 1,
+      "Rotation" : {
+        "weight" : 0,
+        "key" : 180,
+        "value" : 0
+      }
+    }
+  ]  
+}

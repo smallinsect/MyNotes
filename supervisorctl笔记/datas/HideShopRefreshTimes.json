@@ -1,0 +1,56 @@
+{
+  "HideShopRefreshTimes":[
+    {
+      "id" : 1,
+      "refreshTime" : {
+        "hourTime" : 8,
+        "minute" : 0
+      },
+      "noRefreshTime" : {
+        "beginHour" : 22,
+        "beginMinute" : 0,
+        "endHour" : 23,
+        "endMinute" : 59
+      }
+    },
+    {
+      "id" : 2,
+      "refreshTime" : {
+        "hourTime" : 12,
+        "minute" : 0
+      },
+      "noRefreshTime" : {
+        "beginHour" : 10,
+        "beginMinute" : 0,
+        "endHour" : 11,
+        "endMinute" : 59
+      }
+    },
+    {
+      "id" : 3,
+      "refreshTime" : {
+        "hourTime" : 18,
+        "minute" : 0
+      },
+      "noRefreshTime" : {
+        "beginHour" : 17,
+        "beginMinute" : 0,
+        "endHour" : 17,
+        "endMinute" : 59
+      }
+    },
+    {
+      "id" : 4,
+      "refreshTime" : {
+        "hourTime" : 0,
+        "minute" : 0
+      },
+      "noRefreshTime" : {
+        "beginHour" : 22,
+        "beginMinute" : 0,
+        "endHour" : 23,
+        "endMinute" : 59
+      }
+    }
+  ]  
+}

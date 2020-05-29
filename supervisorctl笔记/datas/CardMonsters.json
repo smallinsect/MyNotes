@@ -1,0 +1,3479 @@
+{
+  "CardMonsters":[
+    {
+      "id" : 240000,
+      "name" : "1907120505",
+      "hp" : 7800,
+      "att" : 1000,
+      "attAni" : "Chop",
+      "race" : 1,
+      "type" : 0,
+      "skillIds" : [
+        250100
+      ],
+      "icon" : "img_120505",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        }
+      ],
+      "DifficultyReference" : 10000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 0
+    },
+    {
+      "id" : 240505,
+      "name" : "1907120505",
+      "hp" : 7800,
+      "att" : 40000,
+      "attAni" : "Chop",
+      "race" : 1,
+      "type" : 0,
+      "skillIds" : [
+        250100
+      ],
+      "icon" : "img_120505",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 3
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 3
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 20
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 80
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 3
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 3
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 20
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 80
+        }
+      ],
+      "DifficultyReference" : 480000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 312000
+    },
+    {
+      "id" : 240102,
+      "name" : "1907120102",
+      "hp" : 11000,
+      "att" : 85000,
+      "attAni" : "Chop",
+      "race" : 1,
+      "type" : 0,
+      "skillIds" : [
+        250100
+      ],
+      "icon" : "img_120102",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 3
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 3
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 2
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 20
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 80
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 3
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 3
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 2
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 20
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 80
+        }
+      ],
+      "DifficultyReference" : 1440000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 936000
+    },
+    {
+      "id" : 240302,
+      "name" : "1907120302",
+      "hp" : 13500,
+      "att" : 72000,
+      "attAni" : "Chop",
+      "race" : 2,
+      "type" : 0,
+      "skillIds" : [
+        250100
+      ],
+      "icon" : "img_120302",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 3
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 3
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 2
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 20
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 80
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 3
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 3
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 2
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 20
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 80
+        }
+      ],
+      "DifficultyReference" : 1440000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 936000
+    },
+    {
+      "id" : 240203,
+      "name" : "1907120203",
+      "hp" : 16000,
+      "att" : 84000,
+      "attAni" : "Chop",
+      "race" : 2,
+      "type" : 0,
+      "skillIds" : [
+        250100,
+        251301
+      ],
+      "icon" : "img_120203",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 3
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 3
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 2
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 2
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 20
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 80
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 3
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 3
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 2
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 2
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 20
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 80
+        }
+      ],
+      "DifficultyReference" : 1944000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 1264000
+    },
+    {
+      "id" : 240205,
+      "name" : "1907120205",
+      "hp" : 13500,
+      "att" : 80000,
+      "attAni" : "Magic",
+      "race" : 1,
+      "type" : 0,
+      "skillIds" : [
+        250100,
+        250101,
+        251301
+      ],
+      "icon" : "img_120205",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 4
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 3
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 2
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 40
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 160
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 4
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 3
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 2
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 40
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 160
+        }
+      ],
+      "DifficultyReference" : 1944000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 1264000
+    },
+    {
+      "id" : 240303,
+      "name" : "1907120303",
+      "hp" : 16000,
+      "att" : 75000,
+      "attAni" : "Magic",
+      "race" : 1,
+      "type" : 0,
+      "skillIds" : [
+        250100,
+        250601,
+        251301
+      ],
+      "icon" : "img_120303",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 4
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 3
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 3
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 40
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 160
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 4
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 3
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 3
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 40
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 160
+        }
+      ],
+      "DifficultyReference" : 2376000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 1545000
+    },
+    {
+      "id" : 240305,
+      "name" : "1907120305",
+      "hp" : 13500,
+      "att" : 65000,
+      "attAni" : "Scratch",
+      "race" : 2,
+      "type" : 0,
+      "skillIds" : [
+        250100,
+        250102,
+        251302
+      ],
+      "icon" : "img_120305",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 4
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 3
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 3
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 40
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 160
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 4
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 3
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 3
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 40
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 160
+        }
+      ],
+      "DifficultyReference" : 2376000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 1545000
+    },
+    {
+      "id" : 240403,
+      "name" : "1907120403",
+      "hp" : 15000,
+      "att" : 70000,
+      "attAni" : "Scratch",
+      "race" : 1,
+      "type" : 0,
+      "skillIds" : [
+        250100,
+        250201,
+        251301,
+        250101
+      ],
+      "icon" : "img_120403",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 4
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 3
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 40
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 160
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 4
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 3
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 40
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 160
+        }
+      ],
+      "DifficultyReference" : 2940000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 1911000
+    },
+    {
+      "id" : 240404,
+      "name" : "1907120404",
+      "hp" : 19000,
+      "att" : 80000,
+      "attAni" : "Magic",
+      "race" : 2,
+      "type" : 0,
+      "skillIds" : [
+        250100,
+        250501,
+        251301,
+        251701
+      ],
+      "icon" : "img_120404",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 4
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 3
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 50
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 200
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 4
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 3
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 50
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 200
+        }
+      ],
+      "DifficultyReference" : 2940120,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 1912000
+    },
+    {
+      "id" : 240504,
+      "name" : "1907120504",
+      "hp" : 21000,
+      "att" : 90000,
+      "attAni" : "Blunt",
+      "race" : 1,
+      "type" : 0,
+      "skillIds" : [
+        250100,
+        251301,
+        251001
+      ],
+      "icon" : "img_120504",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 4
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 3
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 50
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 200
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 4
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 3
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 50
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 200
+        }
+      ],
+      "DifficultyReference" : 3576000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 2325000
+    },
+    {
+      "id" : 240506,
+      "name" : "1907120506",
+      "hp" : 20000,
+      "att" : 80000,
+      "attAni" : "Blunt",
+      "race" : 2,
+      "type" : 0,
+      "skillIds" : [
+        250100,
+        250902,
+        250301
+      ],
+      "icon" : "img_120506",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 4
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 4
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 50
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 200
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 4
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 4
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 50
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 200
+        }
+      ],
+      "DifficultyReference" : 3576120,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 2325000
+    },
+    {
+      "id" : 240602,
+      "name" : "1907120602",
+      "hp" : 21000,
+      "att" : 70000,
+      "attAni" : "Chop",
+      "race" : 1,
+      "type" : 0,
+      "skillIds" : [
+        250100,
+        250401,
+        251302,
+        251701
+      ],
+      "icon" : "img_120602",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 4
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 4
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 50
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 200
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 4
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 4
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 4
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 50
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 200
+        }
+      ],
+      "DifficultyReference" : 4224000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 2746000
+    },
+    {
+      "id" : 240606,
+      "name" : "1907120606",
+      "hp" : 19000,
+      "att" : 60000,
+      "attAni" : "Blunt",
+      "race" : 2,
+      "type" : 0,
+      "skillIds" : [
+        250100,
+        250104,
+        250201
+      ],
+      "icon" : "img_120606",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 4
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 50
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 200
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 4
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 50
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 200
+        }
+      ],
+      "DifficultyReference" : 4224120,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 2746000
+    },
+    {
+      "id" : 240704,
+      "name" : "1907120704",
+      "hp" : 22000,
+      "att" : 90000,
+      "attAni" : "Chop",
+      "race" : 2,
+      "type" : 0,
+      "skillIds" : [
+        250100,
+        250402,
+        251302,
+        251701
+      ],
+      "icon" : "img_120704",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 4
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 60
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 240
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 4
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 60
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 240
+        }
+      ],
+      "DifficultyReference" : 5232000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 3401000
+    },
+    {
+      "id" : 240705,
+      "name" : "1907120705",
+      "hp" : 19000,
+      "att" : 100000,
+      "attAni" : "Chop",
+      "race" : 1,
+      "type" : 0,
+      "skillIds" : [
+        250100,
+        250103,
+        251801
+      ],
+      "icon" : "img_120705",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 6
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 60
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 240
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 6
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 60
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 240
+        }
+      ],
+      "DifficultyReference" : 5232120,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 3401000
+    },
+    {
+      "id" : 240802,
+      "name" : "1907120802",
+      "hp" : 22000,
+      "att" : 110000,
+      "attAni" : "Chop",
+      "race" : 3,
+      "type" : 0,
+      "skillIds" : [
+        250100,
+        250101,
+        251302,
+        250401,
+        252002
+      ],
+      "icon" : "img_120802",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 6
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 60
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 240
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 6
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 60
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 240
+        }
+      ],
+      "DifficultyReference" : 6072000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 3947000
+    },
+    {
+      "id" : 240805,
+      "name" : "1907120805",
+      "hp" : 21000,
+      "att" : 120000,
+      "attAni" : "Scratch",
+      "race" : 2,
+      "type" : 0,
+      "skillIds" : [
+        250100,
+        251302,
+        250301,
+        250201
+      ],
+      "icon" : "img_120805",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 6
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 60
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 240
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 6
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 60
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 240
+        }
+      ],
+      "DifficultyReference" : 6072120,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 3947000
+    },
+    {
+      "id" : 240902,
+      "name" : "1907120902",
+      "hp" : 28000,
+      "att" : 140000,
+      "attAni" : "Blunt",
+      "race" : 2,
+      "type" : 0,
+      "skillIds" : [
+        250100,
+        251001,
+        251302,
+        251602
+      ],
+      "icon" : "img_120902",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 8
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 80
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 320
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 8
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 80
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 320
+        }
+      ],
+      "DifficultyReference" : 7164000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 4657000
+    },
+    {
+      "id" : 240903,
+      "name" : "1907120903",
+      "hp" : 24000,
+      "att" : 160000,
+      "attAni" : "Scratch",
+      "race" : 1,
+      "type" : 0,
+      "skillIds" : [
+        250100,
+        250602,
+        251302,
+        251801,
+        0
+      ],
+      "icon" : "img_120903",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 8
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 80
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 320
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 8
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 80
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 320
+        }
+      ],
+      "DifficultyReference" : 7164120,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 4657000
+    },
+    {
+      "id" : 241002,
+      "name" : "1907121002",
+      "hp" : 26000,
+      "att" : 200000,
+      "attAni" : "Magic",
+      "race" : 1,
+      "type" : 0,
+      "skillIds" : [
+        250100,
+        250602,
+        251302
+      ],
+      "icon" : "img_121002",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 6
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 8
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 80
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 320
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 6
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 8
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 80
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 320
+        }
+      ],
+      "DifficultyReference" : 8664120,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 5632000
+    },
+    {
+      "id" : 241003,
+      "name" : "1907121003",
+      "hp" : 27500,
+      "att" : 250000,
+      "attAni" : "Chop",
+      "race" : 2,
+      "type" : 0,
+      "skillIds" : [
+        250100,
+        250602,
+        251302
+      ],
+      "icon" : "img_121003",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 6
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 8
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 80
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 320
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 5
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 6
+        },
+        {
+          "weight" : 25,
+          "key" : 220004,
+          "value" : 5
+        },
+        {
+          "weight" : 25,
+          "key" : 15070102,
+          "value" : 8
+        },
+        {
+          "weight" : 7,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 5,
+          "key" : 150201,
+          "value" : 1
+        },
+        {
+          "weight" : 2,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 15,
+          "key" : 220002,
+          "value" : 80
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 320
+        }
+      ],
+      "DifficultyReference" : 8664120,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 5632000
+    },
+    {
+      "id" : 240101,
+      "name" : "1907120101",
+      "hp" : 30000,
+      "att" : 70000,
+      "attAni" : "Chop",
+      "race" : 1,
+      "type" : 1,
+      "skillIds" : [
+        250100,
+        251303,
+        250103,
+        251305
+      ],
+      "icon" : "img_120101",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 100,
+          "key" : 15070102,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 150
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 600
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 60,
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "weight" : 60,
+          "key" : 15070102,
+          "value" : 10
+        },
+        {
+          "weight" : 45,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 45,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 20,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 35,
+          "key" : 220002,
+          "value" : 150
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 600
+        }
+      ],
+      "DifficultyReference" : 12960000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 9360000
+    },
+    {
+      "id" : 240201,
+      "name" : "1907120201",
+      "hp" : 40000,
+      "att" : 120000,
+      "attAni" : "Magic",
+      "race" : 1,
+      "type" : 1,
+      "skillIds" : [
+        250100,
+        250701,
+        251303
+      ],
+      "icon" : "img_120201",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 100,
+          "key" : 15070102,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 225
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 900
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 60,
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "weight" : 60,
+          "key" : 15070102,
+          "value" : 10
+        },
+        {
+          "weight" : 45,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 45,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 20,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 35,
+          "key" : 220002,
+          "value" : 225
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 900
+        }
+      ],
+      "DifficultyReference" : 17496000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 12636000
+    },
+    {
+      "id" : 240301,
+      "name" : "1907120301",
+      "hp" : 42000,
+      "att" : 75000,
+      "attAni" : "Magic",
+      "race" : 1,
+      "type" : 1,
+      "skillIds" : [
+        250100,
+        250901,
+        250502
+      ],
+      "icon" : "img_120301",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 100,
+          "key" : 15070102,
+          "value" : 12
+        },
+        {
+          "weight" : 100,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 300
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 1200
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 60,
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "weight" : 60,
+          "key" : 15070102,
+          "value" : 12
+        },
+        {
+          "weight" : 45,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 45,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 20,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 35,
+          "key" : 220002,
+          "value" : 300
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 1200
+        }
+      ],
+      "DifficultyReference" : 21384000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 15444000
+    },
+    {
+      "id" : 240401,
+      "name" : "1907120401",
+      "hp" : 45000,
+      "att" : 110000,
+      "attAni" : "Scratch",
+      "race" : 2,
+      "type" : 1,
+      "skillIds" : [
+        250100,
+        250801,
+        251305,
+        250201,
+        251301
+      ],
+      "icon" : "img_120401",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 100,
+          "key" : 15070102,
+          "value" : 12
+        },
+        {
+          "weight" : 100,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 375
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 1500
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 60,
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "weight" : 60,
+          "key" : 15070102,
+          "value" : 12
+        },
+        {
+          "weight" : 45,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 45,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 20,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 35,
+          "key" : 220002,
+          "value" : 375
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 1500
+        }
+      ],
+      "DifficultyReference" : 24990000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 19110000
+    },
+    {
+      "id" : 240501,
+      "name" : "1907120501",
+      "hp" : 60000,
+      "att" : 150000,
+      "attAni" : "Scratch",
+      "race" : 2,
+      "type" : 1,
+      "skillIds" : [
+        250100,
+        251001,
+        251701,
+        250102
+      ],
+      "icon" : "img_120501",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 100,
+          "key" : 15070102,
+          "value" : 14
+        },
+        {
+          "weight" : 100,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 450
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 1800
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 60,
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "weight" : 60,
+          "key" : 15070102,
+          "value" : 14
+        },
+        {
+          "weight" : 45,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 45,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 20,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 35,
+          "key" : 220002,
+          "value" : 450
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 1800
+        }
+      ],
+      "DifficultyReference" : 30396000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 23244000
+    },
+    {
+      "id" : 240601,
+      "name" : "1907120601",
+      "hp" : 20000,
+      "att" : 180000,
+      "attAni" : "Chop",
+      "race" : 1,
+      "type" : 1,
+      "skillIds" : [
+        250100,
+        250404,
+        251901,
+        252001,
+        251702,
+        251304
+      ],
+      "icon" : "img_120601",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 100,
+          "key" : 15070102,
+          "value" : 14
+        },
+        {
+          "weight" : 100,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 525
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 2000
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 60,
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "weight" : 60,
+          "key" : 15070102,
+          "value" : 14
+        },
+        {
+          "weight" : 45,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 45,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 20,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 35,
+          "key" : 220002,
+          "value" : 525
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 2000
+        }
+      ],
+      "DifficultyReference" : 35904000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 27456000
+    },
+    {
+      "id" : 240701,
+      "name" : "1907120701",
+      "hp" : 70000,
+      "att" : 200000,
+      "attAni" : "Chop",
+      "race" : 2,
+      "type" : 1,
+      "skillIds" : [
+        250100,
+        251303,
+        250803,
+        250101,
+        251803
+      ],
+      "icon" : "img_120701",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 100,
+          "key" : 15070102,
+          "value" : 16
+        },
+        {
+          "weight" : 100,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 600
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 2000
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 60,
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "weight" : 60,
+          "key" : 15070102,
+          "value" : 16
+        },
+        {
+          "weight" : 45,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 45,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 20,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 35,
+          "key" : 220002,
+          "value" : 600
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 2000
+        }
+      ],
+      "DifficultyReference" : 41856000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 34008000
+    },
+    {
+      "id" : 240801,
+      "name" : "1907120801",
+      "hp" : 100000,
+      "att" : 210000,
+      "attAni" : "Scratch",
+      "race" : 3,
+      "type" : 1,
+      "skillIds" : [
+        250100,
+        251401,
+        251501,
+        251306,
+        250701
+      ],
+      "icon" : "img_120801",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 100,
+          "key" : 15070102,
+          "value" : 18
+        },
+        {
+          "weight" : 100,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 675
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 2000
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 60,
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "weight" : 60,
+          "key" : 15070102,
+          "value" : 18
+        },
+        {
+          "weight" : 45,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 45,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 20,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 35,
+          "key" : 220002,
+          "value" : 675
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 2000
+        }
+      ],
+      "DifficultyReference" : 48576000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 39468000
+    },
+    {
+      "id" : 240901,
+      "name" : "1907120901",
+      "hp" : 70000,
+      "att" : 225000,
+      "attAni" : "Chop",
+      "race" : 1,
+      "type" : 1,
+      "skillIds" : [
+        250100,
+        251601,
+        250802,
+        250301,
+        251702
+      ],
+      "icon" : "img_120901",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 100,
+          "key" : 15070102,
+          "value" : 20
+        },
+        {
+          "weight" : 100,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 750
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 2000
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 60,
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "weight" : 60,
+          "key" : 15070102,
+          "value" : 20
+        },
+        {
+          "weight" : 45,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 45,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 20,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 35,
+          "key" : 220002,
+          "value" : 750
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 2000
+        }
+      ],
+      "DifficultyReference" : 57312000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 46566000
+    },
+    {
+      "id" : 241001,
+      "name" : "1907121001",
+      "hp" : 85000,
+      "att" : 300000,
+      "attAni" : "Magic",
+      "race" : 1,
+      "type" : 1,
+      "skillIds" : [
+        250100,
+        251601,
+        250802,
+        250301,
+        250403
+      ],
+      "icon" : "img_121001",
+      "rewards1" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 100,
+          "key" : 15070102,
+          "value" : 25
+        },
+        {
+          "weight" : 100,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 800
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 2000
+        }
+      ],
+      "rewards2" : [
+        {
+          "weight" : 100,
+          "key" : 220002,
+          "value" : 10
+        },
+        {
+          "weight" : 100,
+          "key" : 220004,
+          "value" : 30
+        },
+        {
+          "weight" : 60,
+          "key" : 220004,
+          "value" : 10
+        },
+        {
+          "weight" : 60,
+          "key" : 15070102,
+          "value" : 25
+        },
+        {
+          "weight" : 45,
+          "key" : 15070101,
+          "value" : 1
+        },
+        {
+          "weight" : 45,
+          "key" : 150202,
+          "value" : 1
+        },
+        {
+          "weight" : 20,
+          "key" : 150203,
+          "value" : 1
+        },
+        {
+          "weight" : 35,
+          "key" : 220002,
+          "value" : 800
+        },
+        {
+          "weight" : 1,
+          "key" : 220002,
+          "value" : 2000
+        }
+      ],
+      "DifficultyReference" : 63075000,
+      "sceneBg" : "",
+      "head" : "",
+      "quickKillLimit" : 54665000
+    },
+    {
+      "id" : 810000,
+      "name" : "1907120103",
+      "hp" : 3500000,
+      "att" : 90000,
+      "attAni" : "Chop",
+      "race" : 1,
+      "type" : 2,
+      "skillIds" : [
+        250100,
+        259000,
+        250101
+      ],
+      "icon" : "img_120103",
+      "rewards1" : [
+
+      ],
+      "rewards2" : [
+
+      ],
+      "DifficultyReference" : 0,
+      "sceneBg" : "worldbossSc_1001",
+      "head" : "Boss_120103",
+      "quickKillLimit" : 0
+    },
+    {
+      "id" : 810001,
+      "name" : "1907120202",
+      "hp" : 4500000,
+      "att" : 100000,
+      "attAni" : "Chop",
+      "race" : 1,
+      "type" : 2,
+      "skillIds" : [
+        250100,
+        259000,
+        251701,
+        251002
+      ],
+      "icon" : "img_120202",
+      "rewards1" : [
+
+      ],
+      "rewards2" : [
+
+      ],
+      "DifficultyReference" : 0,
+      "sceneBg" : "worldbossSc_1001",
+      "head" : "Boss_120202",
+      "quickKillLimit" : 0
+    },
+    {
+      "id" : 810002,
+      "name" : "1907120703",
+      "hp" : 5500000,
+      "att" : 150000,
+      "attAni" : "Chop",
+      "race" : 2,
+      "type" : 2,
+      "skillIds" : [
+        250100,
+        259000,
+        250402,
+        251801
+      ],
+      "icon" : "img_120701",
+      "rewards1" : [
+
+      ],
+      "rewards2" : [
+
+      ],
+      "DifficultyReference" : 0,
+      "sceneBg" : "worldbossSc_1001",
+      "head" : "Boss_120701",
+      "quickKillLimit" : 0
+    },
+    {
+      "id" : 810003,
+      "name" : "1907120101",
+      "hp" : 6500000,
+      "att" : 70000,
+      "attAni" : "Chop",
+      "race" : 1,
+      "type" : 2,
+      "skillIds" : [
+        250100,
+        259000,
+        250103,
+        251305
+      ],
+      "icon" : "img_120101",
+      "rewards1" : [
+
+      ],
+      "rewards2" : [
+
+      ],
+      "DifficultyReference" : 0,
+      "sceneBg" : "worldbossSc_1001",
+      "head" : "Boss_120101",
+      "quickKillLimit" : 0
+    }
+  ]  
+}

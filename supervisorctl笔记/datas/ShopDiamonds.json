@@ -1,0 +1,119 @@
+{
+  "ShopDiamonds":[
+    {
+      "id" : 6001,
+      "name" : "1913130701",
+      "firstRes" : [
+        {
+          "id" : 0,
+          "key" : 220002,
+          "value" : 60
+        }
+      ],
+      "price" : 1.99,
+      "cardback" : "shopbg_2003",
+      "off" : "25%",
+      "type" : 6,
+      "icon" : "shop_item_diamond1",
+      "goods" : [
+        {
+          "id" : 0,
+          "key" : 220002,
+          "value" : 60
+        }
+      ]
+    },
+    {
+      "id" : 6002,
+      "name" : "1913130702",
+      "firstRes" : [
+        {
+          "id" : 0,
+          "key" : 220002,
+          "value" : 300
+        }
+      ],
+      "price" : 9.99,
+      "cardback" : "shopbg_2003",
+      "off" : "25%",
+      "type" : 6,
+      "icon" : "shop_item_diamond2",
+      "goods" : [
+        {
+          "id" : 0,
+          "key" : 220002,
+          "value" : 300
+        }
+      ]
+    },
+    {
+      "id" : 6003,
+      "name" : "1913130703",
+      "firstRes" : [
+        {
+          "id" : 0,
+          "key" : 220002,
+          "value" : 700
+        }
+      ],
+      "price" : 19.989999999999998,
+      "cardback" : "shopbg_2003",
+      "off" : "25%",
+      "type" : 6,
+      "icon" : "shop_item_diamond3",
+      "goods" : [
+        {
+          "id" : 0,
+          "key" : 220002,
+          "value" : 700
+        }
+      ]
+    },
+    {
+      "id" : 6004,
+      "name" : "1913130704",
+      "firstRes" : [
+        {
+          "id" : 0,
+          "key" : 220002,
+          "value" : 1200
+        }
+      ],
+      "price" : 29.99,
+      "cardback" : "shopbg_2003",
+      "off" : "25%",
+      "type" : 6,
+      "icon" : "shop_item_diamond4",
+      "goods" : [
+        {
+          "id" : 0,
+          "key" : 220002,
+          "value" : 1200
+        }
+      ]
+    },
+    {
+      "id" : 6005,
+      "name" : "1913130705",
+      "firstRes" : [
+        {
+          "id" : 0,
+          "key" : 220002,
+          "value" : 2000
+        }
+      ],
+      "price" : 44.99,
+      "cardback" : "shopbg_2003",
+      "off" : "25%",
+      "type" : 6,
+      "icon" : "shop_item_diamond5",
+      "goods" : [
+        {
+          "id" : 0,
+          "key" : 220002,
+          "value" : 2000
+        }
+      ]
+    }
+  ]  
+}

@@ -1,0 +1,575 @@
+{
+  "CardMonsterSkills":[
+    {
+      "id" : 250100,
+      "checkPoint" : 0,
+      "skillTyp" : 1,
+      "vals" : [
+        0
+      ],
+      "cd" : 0,
+      "desc" : 0,
+      "skillIcon" : "",
+      "skillAnim" : "normal"
+    },
+    {
+      "id" : 250101,
+      "checkPoint" : 0,
+      "skillTyp" : 4,
+      "vals" : [
+        1
+      ],
+      "cd" : 3,
+      "desc" : 1944250101,
+      "skillIcon" : "Icon_250101",
+      "skillAnim" : "normal"
+    },
+    {
+      "id" : 250102,
+      "checkPoint" : 0,
+      "skillTyp" : 4,
+      "vals" : [
+        2
+      ],
+      "cd" : 3,
+      "desc" : 1944250102,
+      "skillIcon" : "Icon_250102",
+      "skillAnim" : "normal"
+    },
+    {
+      "id" : 250103,
+      "checkPoint" : 0,
+      "skillTyp" : 4,
+      "vals" : [
+        4
+      ],
+      "cd" : 3,
+      "desc" : 1944250103,
+      "skillIcon" : "Icon_250103",
+      "skillAnim" : "normal"
+    },
+    {
+      "id" : 250104,
+      "checkPoint" : 0,
+      "skillTyp" : 4,
+      "vals" : [
+        7
+      ],
+      "cd" : 4,
+      "desc" : 1944250104,
+      "skillIcon" : "Icon_250103",
+      "skillAnim" : "normal"
+    },
+    {
+      "id" : 250201,
+      "checkPoint" : 0,
+      "skillTyp" : 5,
+      "vals" : [
+        500
+      ],
+      "cd" : 0,
+      "desc" : 1944250201,
+      "skillIcon" : "Icon_250201",
+      "skillAnim" : "normal"
+    },
+    {
+      "id" : 250301,
+      "checkPoint" : 1,
+      "skillTyp" : 13,
+      "vals" : [
+        2500,
+        1
+      ],
+      "cd" : 0,
+      "desc" : 1944250301,
+      "skillIcon" : "Icon_250301",
+      "skillAnim" : "normal"
+    },
+    {
+      "id" : 250401,
+      "checkPoint" : 2,
+      "skillTyp" : 14,
+      "vals" : [
+        2000
+      ],
+      "cd" : 3,
+      "desc" : 1944250401,
+      "skillIcon" : "Icon_250401",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 250402,
+      "checkPoint" : 2,
+      "skillTyp" : 14,
+      "vals" : [
+        3000
+      ],
+      "cd" : 3,
+      "desc" : 1944250402,
+      "skillIcon" : "Icon_250401",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 250403,
+      "checkPoint" : 2,
+      "skillTyp" : 14,
+      "vals" : [
+        5000
+      ],
+      "cd" : 3,
+      "desc" : 1944250403,
+      "skillIcon" : "Icon_250401",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 250404,
+      "checkPoint" : 2,
+      "skillTyp" : 14,
+      "vals" : [
+        5000
+      ],
+      "cd" : 4,
+      "desc" : 1944250404,
+      "skillIcon" : "Icon_250401",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 250501,
+      "checkPoint" : 1,
+      "skillTyp" : 9,
+      "vals" : [
+        1000
+      ],
+      "cd" : 0,
+      "desc" : 1944250501,
+      "skillIcon" : "Icon_250501",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 250502,
+      "checkPoint" : 1,
+      "skillTyp" : 9,
+      "vals" : [
+        800
+      ],
+      "cd" : 0,
+      "desc" : 1944250502,
+      "skillIcon" : "Icon_250502",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 250503,
+      "checkPoint" : 1,
+      "skillTyp" : 9,
+      "vals" : [
+        1500
+      ],
+      "cd" : 0,
+      "desc" : 1944250503,
+      "skillIcon" : "Icon_251702",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 250601,
+      "checkPoint" : 2,
+      "skillTyp" : 16,
+      "vals" : [
+        3
+      ],
+      "cd" : 0,
+      "desc" : 1944250601,
+      "skillIcon" : "Icon_250601",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 250602,
+      "checkPoint" : 2,
+      "skillTyp" : 16,
+      "vals" : [
+        5
+      ],
+      "cd" : 0,
+      "desc" : 1944250602,
+      "skillIcon" : "Icon_250602",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 250701,
+      "checkPoint" : 0,
+      "skillTyp" : 6,
+      "vals" : [
+        3
+      ],
+      "cd" : 3,
+      "desc" : 1944250701,
+      "skillIcon" : "Icon_250701",
+      "skillAnim" : "normal"
+    },
+    {
+      "id" : 250801,
+      "checkPoint" : 0,
+      "skillTyp" : 3,
+      "vals" : [
+        1500,
+        500
+      ],
+      "cd" : 3,
+      "desc" : 1944250801,
+      "skillIcon" : "Icon_250801",
+      "skillAnim" : "normal"
+    },
+    {
+      "id" : 250802,
+      "checkPoint" : 0,
+      "skillTyp" : 3,
+      "vals" : [
+        3000,
+        1000
+      ],
+      "cd" : 10,
+      "desc" : 1944250802,
+      "skillIcon" : "Icon_250802",
+      "skillAnim" : "normal"
+    },
+    {
+      "id" : 250803,
+      "checkPoint" : 0,
+      "skillTyp" : 3,
+      "vals" : [
+        10000,
+        1000
+      ],
+      "cd" : 10,
+      "desc" : 1944250803,
+      "skillIcon" : "Icon_250803",
+      "skillAnim" : "normal"
+    },
+    {
+      "id" : 250804,
+      "checkPoint" : 0,
+      "skillTyp" : 3,
+      "vals" : [
+        0,
+        300
+      ],
+      "cd" : 3,
+      "desc" : 1944250804,
+      "skillIcon" : "Icon_250802",
+      "skillAnim" : "normal"
+    },
+    {
+      "id" : 250901,
+      "checkPoint" : 0,
+      "skillTyp" : 2,
+      "vals" : [
+        2,
+        5
+      ],
+      "cd" : 0,
+      "desc" : 1944250901,
+      "skillIcon" : "Icon_250901",
+      "skillAnim" : "normal"
+    },
+    {
+      "id" : 250902,
+      "checkPoint" : 0,
+      "skillTyp" : 2,
+      "vals" : [
+        1,
+        5
+      ],
+      "cd" : 0,
+      "desc" : 1944250902,
+      "skillIcon" : "Icon_250902",
+      "skillAnim" : "normal"
+    },
+    {
+      "id" : 251001,
+      "checkPoint" : 1,
+      "skillTyp" : 10,
+      "vals" : [
+        300
+      ],
+      "cd" : 0,
+      "desc" : 1944251001,
+      "skillIcon" : "Icon_251001",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 251002,
+      "checkPoint" : 1,
+      "skillTyp" : 10,
+      "vals" : [
+        100
+      ],
+      "cd" : 0,
+      "desc" : 1944251002,
+      "skillIcon" : "Icon_251002",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 251201,
+      "checkPoint" : 1,
+      "skillTyp" : 11,
+      "vals" : [
+        200
+      ],
+      "cd" : 0,
+      "desc" : 1944251201,
+      "skillIcon" : "Icon_251201",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 251301,
+      "checkPoint" : 1,
+      "skillTyp" : 12,
+      "vals" : [
+        10,
+        5
+      ],
+      "cd" : 0,
+      "desc" : 1944251301,
+      "skillIcon" : "Icon_251301",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 251302,
+      "checkPoint" : 1,
+      "skillTyp" : 12,
+      "vals" : [
+        10,
+        10
+      ],
+      "cd" : 0,
+      "desc" : 1944251302,
+      "skillIcon" : "Icon_251302",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 251303,
+      "checkPoint" : 1,
+      "skillTyp" : 12,
+      "vals" : [
+        10,
+        15
+      ],
+      "cd" : 0,
+      "desc" : 1944251303,
+      "skillIcon" : "Icon_251303",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 251304,
+      "checkPoint" : 1,
+      "skillTyp" : 12,
+      "vals" : [
+        10,
+        40
+      ],
+      "cd" : 0,
+      "desc" : 1944251304,
+      "skillIcon" : "Icon_251304",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 251305,
+      "checkPoint" : 1,
+      "skillTyp" : 12,
+      "vals" : [
+        50,
+        100
+      ],
+      "cd" : 0,
+      "desc" : 1944251305,
+      "skillIcon" : "Icon_251305",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 251306,
+      "checkPoint" : 1,
+      "skillTyp" : 12,
+      "vals" : [
+        50,
+        400
+      ],
+      "cd" : 0,
+      "desc" : 1944251306,
+      "skillIcon" : "Icon_251306",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 251401,
+      "checkPoint" : 2,
+      "skillTyp" : 15,
+      "vals" : [
+        1000
+      ],
+      "cd" : 0,
+      "desc" : 1944251401,
+      "skillIcon" : "Icon_251401",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 251501,
+      "checkPoint" : 0,
+      "skillTyp" : 8,
+      "vals" : [
+        3
+      ],
+      "cd" : 3,
+      "desc" : 1944251501,
+      "skillIcon" : "Icon_251501",
+      "skillAnim" : "dragonfire"
+    },
+    {
+      "id" : 251601,
+      "checkPoint" : 0,
+      "skillTyp" : 7,
+      "vals" : [
+        10
+      ],
+      "cd" : 3,
+      "desc" : 1944251601,
+      "skillIcon" : "Icon_251601",
+      "skillAnim" : "shock"
+    },
+    {
+      "id" : 251602,
+      "checkPoint" : 0,
+      "skillTyp" : 7,
+      "vals" : [
+        5
+      ],
+      "cd" : 3,
+      "desc" : 1944251601,
+      "skillIcon" : "Icon_251601",
+      "skillAnim" : "shock"
+    },
+    {
+      "id" : 251701,
+      "checkPoint" : 0,
+      "skillTyp" : 18,
+      "vals" : [
+        25,
+        200
+      ],
+      "cd" : 0,
+      "desc" : 1944251701,
+      "skillIcon" : "Icon_251701",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 251702,
+      "checkPoint" : 0,
+      "skillTyp" : 18,
+      "vals" : [
+        30,
+        300
+      ],
+      "cd" : 0,
+      "desc" : 1944251702,
+      "skillIcon" : "Icon_251702",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 251703,
+      "checkPoint" : 0,
+      "skillTyp" : 18,
+      "vals" : [
+        60,
+        150
+      ],
+      "cd" : 0,
+      "desc" : 1944251702,
+      "skillIcon" : "Icon_251702",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 251801,
+      "checkPoint" : 1,
+      "skillTyp" : 19,
+      "vals" : [
+        20
+      ],
+      "cd" : 0,
+      "desc" : 1944251801,
+      "skillIcon" : "Icon_251801",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 251802,
+      "checkPoint" : 1,
+      "skillTyp" : 19,
+      "vals" : [
+        25
+      ],
+      "cd" : 0,
+      "desc" : 1944251802,
+      "skillIcon" : "Icon_251802",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 251803,
+      "checkPoint" : 1,
+      "skillTyp" : 19,
+      "vals" : [
+        30
+      ],
+      "cd" : 0,
+      "desc" : 1944251803,
+      "skillIcon" : "Icon_251803",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 251901,
+      "checkPoint" : 1,
+      "skillTyp" : 20,
+      "vals" : [
+        30000
+      ],
+      "cd" : 0,
+      "desc" : 1944251901,
+      "skillIcon" : "Icon_251201",
+      "skillAnim" : "none"
+    },
+    {
+      "id" : 252001,
+      "checkPoint" : 1,
+      "skillTyp" : 21,
+      "vals" : [
+        20000,
+        10
+      ],
+      "cd" : 0,
+      "desc" : 1944252001,
+      "skillIcon" : "Buff_260025",
+      "skillAnim" : "normal"
+    },
+    {
+      "id" : 252002,
+      "checkPoint" : 1,
+      "skillTyp" : 21,
+      "vals" : [
+        30000,
+        5
+      ],
+      "cd" : 0,
+      "desc" : 1944252001,
+      "skillIcon" : "Buff_260025",
+      "skillAnim" : "normal"
+    },
+    {
+      "id" : 259000,
+      "checkPoint" : 1,
+      "skillTyp" : 17,
+      "vals" : [
+        10000,
+        25
+      ],
+      "cd" : 0,
+      "desc" : 1944259000,
+      "skillIcon" : "worldBOSSeye",
+      "skillAnim" : "none"
+    }
+  ]  
+}

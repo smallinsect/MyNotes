@@ -1,0 +1,7 @@
+{
+  "CardMonsterSkillCheckPointEnum":{
+      "WhenAtk" : 0,
+      "WhenHurt" : 1,
+      "WhenNewTurn" : 2
+  }  
+}

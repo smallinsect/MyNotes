@@ -1,0 +1,103 @@
+{
+  "ShopChests":[
+    {
+      "id" : 5001,
+      "name" : "1913130201",
+      "num" : 0,
+      "firstRes" : [
+
+      ],
+      "limit" : {
+        "condition" : "",
+        "num" : 0
+      },
+      "price" : {
+        "key" : 220002,
+        "value" : 300
+      },
+      "cardback" : "shopbg_3001",
+      "off" : "0%",
+      "type" : 5,
+      "icon" : "Icon_150201",
+      "cardNum" : 1,
+      "cardStar" : [
+        1,
+        2,
+        3
+      ],
+      "goods" : [
+        {
+          "id" : 0,
+          "key" : 150201,
+          "value" : 1
+        }
+      ]
+    },
+    {
+      "id" : 5002,
+      "name" : "1913130202",
+      "num" : 0,
+      "firstRes" : [
+
+      ],
+      "limit" : {
+        "condition" : "",
+        "num" : 0
+      },
+      "price" : {
+        "key" : 220002,
+        "value" : 600
+      },
+      "cardback" : "shopbg_3002",
+      "off" : "0%",
+      "type" : 5,
+      "icon" : "Icon_150202",
+      "cardNum" : 2,
+      "cardStar" : [
+        2,
+        3,
+        4
+      ],
+      "goods" : [
+        {
+          "id" : 0,
+          "key" : 150202,
+          "value" : 1
+        }
+      ]
+    },
+    {
+      "id" : 5003,
+      "name" : "1913130203",
+      "num" : 0,
+      "firstRes" : [
+
+      ],
+      "limit" : {
+        "condition" : "",
+        "num" : 0
+      },
+      "price" : {
+        "key" : 220002,
+        "value" : 1200
+      },
+      "cardback" : "shopbg_3003",
+      "off" : "0%",
+      "type" : 5,
+      "icon" : "Icon_150203",
+      "cardNum" : 3,
+      "cardStar" : [
+        3,
+        4,
+        5
+      ],
+      "goods" : [
+        {
+          "id" : 0,
+          "key" : 150203,
+          "value" : 1
+        }
+      ]
+    }
+  ]  
+}

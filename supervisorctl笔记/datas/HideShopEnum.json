@@ -1,0 +1,9 @@
+{
+  "HideShopEnum":{
+      "fireNum" : 15,
+      "noFreshTime" : 0,
+      "lifeTime" : 5400,
+      "goodsNum" : 5,
+      "adGoodsNum" : 1
+  }  
+}

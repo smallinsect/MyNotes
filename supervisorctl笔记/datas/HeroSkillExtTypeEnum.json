@@ -1,0 +1,7 @@
+{
+  "HeroSkillExtTypeEnum":{
+      "HandleGoldRate" : 1,
+      "TheftGoldRate" : 2,
+      "FireGridRate" : 3
+  }  
+}

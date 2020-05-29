@@ -1,0 +1,204 @@
+{
+  "AltarTwentyDices":[
+    {
+      "id" : 201,
+      "roll" : 1,
+      "weight" : 1,
+      "Rotation" : {
+        "weight" : 0,
+        "key" : 0,
+        "value" : 0
+      }
+    },
+    {
+      "id" : 202,
+      "roll" : 2,
+      "weight" : 2,
+      "Rotation" : {
+        "weight" : 332,
+        "key" : 159,
+        "value" : 250
+      }
+    },
+    {
+      "id" : 203,
+      "roll" : 3,
+      "weight" : 2,
+      "Rotation" : {
+        "weight" : 0,
+        "key" : 90,
+        "value" : 90
+      }
+    },
+    {
+      "id" : 204,
+      "roll" : 4,
+      "weight" : 3,
+      "Rotation" : {
+        "weight" : 180,
+        "key" : 90,
+        "value" : 270
+      }
+    },
+    {
+      "id" : 205,
+      "roll" : 5,
+      "weight" : 3,
+      "Rotation" : {
+        "weight" : 0,
+        "key" : 0,
+        "value" : 180
+      }
+    },
+    {
+      "id" : 206,
+      "roll" : 6,
+      "weight" : 3,
+      "Rotation" : {
+        "weight" : 90,
+        "key" : 98,
+        "value" : 189
+      }
+    },
+    {
+      "id" : 207,
+      "roll" : 7,
+      "weight" : 4,
+      "Rotation" : {
+        "weight" : 150,
+        "key" : 158,
+        "value" : 111
+      }
+    },
+    {
+      "id" : 208,
+      "roll" : 8,
+      "weight" : 5,
+      "Rotation" : {
+        "weight" : 181,
+        "key" : 357,
+        "value" : 179
+      }
+    },
+    {
+      "id" : 209,
+      "roll" : 9,
+      "weight" : 5,
+      "Rotation" : {
+        "weight" : 270,
+        "key" : 270,
+        "value" : 0
+      }
+    },
+    {
+      "id" : 210,
+      "roll" : 10,
+      "weight" : 4,
+      "Rotation" : {
+        "weight" : 211,
+        "key" : 20,
+        "value" : 109
+      }
+    },
+    {
+      "id" : 211,
+      "roll" : 11,
+      "weight" : 3,
+      "Rotation" : {
+        "weight" : 28,
+        "key" : 340,
+        "value" : 112
+      }
+    },
+    {
+      "id" : 212,
+      "roll" : 12,
+      "weight" : 3,
+      "Rotation" : {
+        "weight" : 90,
+        "key" : 245,
+        "value" : 156
+      }
+    },
+    {
+      "id" : 213,
+      "roll" : 13,
+      "weight" : 3,
+      "Rotation" : {
+        "weight" : 0,
+        "key" : 90,
+        "value" : 270
+      }
+    },
+    {
+      "id" : 214,
+      "roll" : 14,
+      "weight" : 2,
+      "Rotation" : {
+        "weight" : 325,
+        "key" : 200,
+        "value" : 108
+      }
+    },
+    {
+      "id" : 215,
+      "roll" : 15,
+      "weight" : 2,
+      "Rotation" : {
+        "weight" : 271,
+        "key" : 94,
+        "value" : 355
+      }
+    },
+    {
+      "id" : 216,
+      "roll" : 16,
+      "weight" : 2,
+      "Rotation" : {
+        "weight" : 208,
+        "key" : 340,
+        "value" : 248
+      }
+    },
+    {
+      "id" : 217,
+      "roll" : 17,
+      "weight" : 1,
+      "Rotation" : {
+        "weight" : 0,
+        "key" : 270,
+        "value" : 270
+      }
+    },
+    {
+      "id" : 218,
+      "roll" : 18,
+      "weight" : 1,
+      "Rotation" : {
+        "weight" : 30,
+        "key" : 20,
+        "value" : 250
+      }
+    },
+    {
+      "id" : 219,
+      "roll" : 19,
+      "weight" : 1,
+      "Rotation" : {
+        "weight" : 150,
+        "key" : 200,
+        "value" : 250
+      }
+    },
+    {
+      "id" : 220,
+      "roll" : 20,
+      "weight" : 1,
+      "Rotation" : {
+        "weight" : 0,
+        "key" : 180,
+        "value" : 180
+      }
+    }
+  ]  
+}

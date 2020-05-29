@@ -1,0 +1,29 @@
+{
+  "GoodsTypeEnum":{
+      "altar" : 1,
+      "altaring" : 2,
+      "inDoor" : 1,
+      "outDoor" : 2,
+      "outDoorOpen" : 3,
+      "potal" : 4,
+      "key" : 1,
+      "tv" : 2,
+      "crystalball" : 3,
+      "bomb" : 4,
+      "woodchest" : 1,
+      "godchest" : 2,
+      "crystalchest" : 3,
+      "gift" : 4,
+      "customchest" : 5,
+      "specialchest" : 6,
+      "gold" : 1,
+      "props" : 1,
+      "typeEvent" : 2,
+      "guidepost" : 1,
+      "pet" : 1,
+      "petFood" : 2,
+      "petExp" : 3,
+      "smallMoster" : 1,
+      "bossMoster" : 2
+  }  
+}

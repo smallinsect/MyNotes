@@ -1,0 +1,6 @@
+{
+  "AvatarFrameEnum":{
+      "defaultFrame" : 280001,
+      "platformFrame" : 280002
+  }  
+}

@@ -1,0 +1,55 @@
+{
+  "SlotTheftRewards":[
+    {
+      "id" : 1,
+      "percent" : 50,
+      "weight" : 25,
+      "randv" : 100,
+      "res" : [
+
+      ]
+    },
+    {
+      "id" : 2,
+      "percent" : 25,
+      "weight" : 100,
+      "randv" : 100,
+      "res" : [
+
+      ]
+    },
+    {
+      "id" : 3,
+      "percent" : 25,
+      "weight" : 100,
+      "randv" : 100,
+      "res" : [
+
+      ]
+    },
+    {
+      "id" : 4,
+      "percent" : 0,
+      "weight" : 100,
+      "randv" : 0,
+      "res" : [
+        {
+          "weight" : 100,
+          "value" : 0
+        },
+        {
+          "weight" : 2,
+          "value" : 150201
+        },
+        {
+          "weight" : 1,
+          "value" : 150202
+        },
+        {
+          "weight" : 1,
+          "value" : 150203
+        }
+      ]
+    }
+  ]  
+}

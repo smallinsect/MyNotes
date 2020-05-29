@@ -1,0 +1,17 @@
+{
+  "NewGuidRewards":[
+    {
+      "id" : 1,
+      "rewards" : [
+        {
+          "key" : 220002,
+          "value" : 300
+        },
+        {
+          "key" : 220004,
+          "value" : 15
+        }
+      ]
+    }
+  ]  
+}

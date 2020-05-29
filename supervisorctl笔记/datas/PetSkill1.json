@@ -1,0 +1,1264 @@
+{
+  "PetSkill1":[
+    {
+      "id" : 1,
+      "lv" : 1,
+      "step" : 1,
+      "skillVal" : 15,
+      "star" : 2
+    },
+    {
+      "id" : 2,
+      "lv" : 2,
+      "step" : 1,
+      "skillVal" : 16,
+      "star" : 7
+    },
+    {
+      "id" : 3,
+      "lv" : 3,
+      "step" : 1,
+      "skillVal" : 17,
+      "star" : 12
+    },
+    {
+      "id" : 4,
+      "lv" : 4,
+      "step" : 1,
+      "skillVal" : 18,
+      "star" : 17
+    },
+    {
+      "id" : 5,
+      "lv" : 5,
+      "step" : 1,
+      "skillVal" : 19,
+      "star" : 22
+    },
+    {
+      "id" : 6,
+      "lv" : 6,
+      "step" : 1,
+      "skillVal" : 20,
+      "star" : 27
+    },
+    {
+      "id" : 7,
+      "lv" : 7,
+      "step" : 1,
+      "skillVal" : 21,
+      "star" : 32
+    },
+    {
+      "id" : 8,
+      "lv" : 8,
+      "step" : 1,
+      "skillVal" : 22,
+      "star" : 37
+    },
+    {
+      "id" : 9,
+      "lv" : 9,
+      "step" : 1,
+      "skillVal" : 23,
+      "star" : 42
+    },
+    {
+      "id" : 10,
+      "lv" : 10,
+      "step" : 1,
+      "skillVal" : 24,
+      "star" : 47
+    },
+    {
+      "id" : 11,
+      "lv" : 11,
+      "step" : 1,
+      "skillVal" : 25,
+      "star" : 57
+    },
+    {
+      "id" : 12,
+      "lv" : 12,
+      "step" : 1,
+      "skillVal" : 26,
+      "star" : 67
+    },
+    {
+      "id" : 13,
+      "lv" : 13,
+      "step" : 1,
+      "skillVal" : 27,
+      "star" : 77
+    },
+    {
+      "id" : 14,
+      "lv" : 14,
+      "step" : 1,
+      "skillVal" : 28,
+      "star" : 87
+    },
+    {
+      "id" : 15,
+      "lv" : 15,
+      "step" : 1,
+      "skillVal" : 29,
+      "star" : 97
+    },
+    {
+      "id" : 16,
+      "lv" : 16,
+      "step" : 1,
+      "skillVal" : 30,
+      "star" : 107
+    },
+    {
+      "id" : 17,
+      "lv" : 17,
+      "step" : 1,
+      "skillVal" : 31,
+      "star" : 117
+    },
+    {
+      "id" : 18,
+      "lv" : 18,
+      "step" : 1,
+      "skillVal" : 32,
+      "star" : 127
+    },
+    {
+      "id" : 19,
+      "lv" : 19,
+      "step" : 1,
+      "skillVal" : 33,
+      "star" : 137
+    },
+    {
+      "id" : 20,
+      "lv" : 20,
+      "step" : 1,
+      "skillVal" : 34,
+      "star" : 147
+    },
+    {
+      "id" : 21,
+      "lv" : 21,
+      "step" : 1,
+      "skillVal" : 35,
+      "star" : 162
+    },
+    {
+      "id" : 22,
+      "lv" : 22,
+      "step" : 1,
+      "skillVal" : 36,
+      "star" : 177
+    },
+    {
+      "id" : 23,
+      "lv" : 23,
+      "step" : 1,
+      "skillVal" : 37,
+      "star" : 192
+    },
+    {
+      "id" : 24,
+      "lv" : 24,
+      "step" : 1,
+      "skillVal" : 38,
+      "star" : 207
+    },
+    {
+      "id" : 25,
+      "lv" : 25,
+      "step" : 1,
+      "skillVal" : 39,
+      "star" : 222
+    },
+    {
+      "id" : 26,
+      "lv" : 26,
+      "step" : 1,
+      "skillVal" : 40,
+      "star" : 237
+    },
+    {
+      "id" : 27,
+      "lv" : 27,
+      "step" : 1,
+      "skillVal" : 41,
+      "star" : 252
+    },
+    {
+      "id" : 28,
+      "lv" : 28,
+      "step" : 1,
+      "skillVal" : 42,
+      "star" : 267
+    },
+    {
+      "id" : 29,
+      "lv" : 29,
+      "step" : 1,
+      "skillVal" : 43,
+      "star" : 282
+    },
+    {
+      "id" : 30,
+      "lv" : 30,
+      "step" : 1,
+      "skillVal" : 44,
+      "star" : 297
+    },
+    {
+      "id" : 31,
+      "lv" : 31,
+      "step" : 1,
+      "skillVal" : 45,
+      "star" : 322
+    },
+    {
+      "id" : 32,
+      "lv" : 32,
+      "step" : 1,
+      "skillVal" : 46,
+      "star" : 347
+    },
+    {
+      "id" : 33,
+      "lv" : 33,
+      "step" : 1,
+      "skillVal" : 47,
+      "star" : 372
+    },
+    {
+      "id" : 34,
+      "lv" : 34,
+      "step" : 1,
+      "skillVal" : 48,
+      "star" : 397
+    },
+    {
+      "id" : 35,
+      "lv" : 35,
+      "step" : 1,
+      "skillVal" : 49,
+      "star" : 422
+    },
+    {
+      "id" : 36,
+      "lv" : 36,
+      "step" : 1,
+      "skillVal" : 50,
+      "star" : 447
+    },
+    {
+      "id" : 37,
+      "lv" : 37,
+      "step" : 1,
+      "skillVal" : 51,
+      "star" : 472
+    },
+    {
+      "id" : 38,
+      "lv" : 38,
+      "step" : 1,
+      "skillVal" : 52,
+      "star" : 497
+    },
+    {
+      "id" : 39,
+      "lv" : 39,
+      "step" : 1,
+      "skillVal" : 53,
+      "star" : 522
+    },
+    {
+      "id" : 40,
+      "lv" : 40,
+      "step" : 1,
+      "skillVal" : 54,
+      "star" : 547
+    },
+    {
+      "id" : 41,
+      "lv" : 41,
+      "step" : 1,
+      "skillVal" : 55,
+      "star" : 582
+    },
+    {
+      "id" : 42,
+      "lv" : 42,
+      "step" : 1,
+      "skillVal" : 56,
+      "star" : 617
+    },
+    {
+      "id" : 43,
+      "lv" : 43,
+      "step" : 1,
+      "skillVal" : 57,
+      "star" : 652
+    },
+    {
+      "id" : 44,
+      "lv" : 44,
+      "step" : 1,
+      "skillVal" : 58,
+      "star" : 687
+    },
+    {
+      "id" : 45,
+      "lv" : 45,
+      "step" : 1,
+      "skillVal" : 59,
+      "star" : 722
+    },
+    {
+      "id" : 46,
+      "lv" : 46,
+      "step" : 1,
+      "skillVal" : 60,
+      "star" : 757
+    },
+    {
+      "id" : 47,
+      "lv" : 47,
+      "step" : 1,
+      "skillVal" : 61,
+      "star" : 792
+    },
+    {
+      "id" : 48,
+      "lv" : 48,
+      "step" : 1,
+      "skillVal" : 62,
+      "star" : 827
+    },
+    {
+      "id" : 49,
+      "lv" : 49,
+      "step" : 1,
+      "skillVal" : 63,
+      "star" : 862
+    },
+    {
+      "id" : 50,
+      "lv" : 50,
+      "step" : 1,
+      "skillVal" : 64,
+      "star" : 897
+    },
+    {
+      "id" : 51,
+      "lv" : 51,
+      "step" : 1,
+      "skillVal" : 65,
+      "star" : 947
+    },
+    {
+      "id" : 52,
+      "lv" : 52,
+      "step" : 1,
+      "skillVal" : 66,
+      "star" : 997
+    },
+    {
+      "id" : 53,
+      "lv" : 53,
+      "step" : 1,
+      "skillVal" : 67,
+      "star" : 1047
+    },
+    {
+      "id" : 54,
+      "lv" : 54,
+      "step" : 1,
+      "skillVal" : 68,
+      "star" : 1097
+    },
+    {
+      "id" : 55,
+      "lv" : 55,
+      "step" : 1,
+      "skillVal" : 69,
+      "star" : 1147
+    },
+    {
+      "id" : 56,
+      "lv" : 56,
+      "step" : 1,
+      "skillVal" : 70,
+      "star" : 1197
+    },
+    {
+      "id" : 57,
+      "lv" : 57,
+      "step" : 1,
+      "skillVal" : 71,
+      "star" : 1247
+    },
+    {
+      "id" : 58,
+      "lv" : 58,
+      "step" : 1,
+      "skillVal" : 72,
+      "star" : 1297
+    },
+    {
+      "id" : 59,
+      "lv" : 59,
+      "step" : 1,
+      "skillVal" : 73,
+      "star" : 1347
+    },
+    {
+      "id" : 60,
+      "lv" : 60,
+      "step" : 1,
+      "skillVal" : 74,
+      "star" : 1397
+    },
+    {
+      "id" : 61,
+      "lv" : 1,
+      "step" : 2,
+      "skillVal" : 16.8,
+      "star" : 3
+    },
+    {
+      "id" : 62,
+      "lv" : 2,
+      "step" : 2,
+      "skillVal" : 17.899999999999999,
+      "star" : 10
+    },
+    {
+      "id" : 63,
+      "lv" : 3,
+      "step" : 2,
+      "skillVal" : 19,
+      "star" : 18
+    },
+    {
+      "id" : 64,
+      "lv" : 4,
+      "step" : 2,
+      "skillVal" : 20.2,
+      "star" : 25
+    },
+    {
+      "id" : 65,
+      "lv" : 5,
+      "step" : 2,
+      "skillVal" : 21.3,
+      "star" : 33
+    },
+    {
+      "id" : 66,
+      "lv" : 6,
+      "step" : 2,
+      "skillVal" : 22.4,
+      "star" : 40
+    },
+    {
+      "id" : 67,
+      "lv" : 7,
+      "step" : 2,
+      "skillVal" : 23.5,
+      "star" : 48
+    },
+    {
+      "id" : 68,
+      "lv" : 8,
+      "step" : 2,
+      "skillVal" : 24.6,
+      "star" : 55
+    },
+    {
+      "id" : 69,
+      "lv" : 9,
+      "step" : 2,
+      "skillVal" : 25.8,
+      "star" : 63
+    },
+    {
+      "id" : 70,
+      "lv" : 10,
+      "step" : 2,
+      "skillVal" : 26.9,
+      "star" : 70
+    },
+    {
+      "id" : 71,
+      "lv" : 11,
+      "step" : 2,
+      "skillVal" : 28,
+      "star" : 85
+    },
+    {
+      "id" : 72,
+      "lv" : 12,
+      "step" : 2,
+      "skillVal" : 29.1,
+      "star" : 100
+    },
+    {
+      "id" : 73,
+      "lv" : 13,
+      "step" : 2,
+      "skillVal" : 30.2,
+      "star" : 115
+    },
+    {
+      "id" : 74,
+      "lv" : 14,
+      "step" : 2,
+      "skillVal" : 31.4,
+      "star" : 130
+    },
+    {
+      "id" : 75,
+      "lv" : 15,
+      "step" : 2,
+      "skillVal" : 32.5,
+      "star" : 145
+    },
+    {
+      "id" : 76,
+      "lv" : 16,
+      "step" : 2,
+      "skillVal" : 33.6,
+      "star" : 160
+    },
+    {
+      "id" : 77,
+      "lv" : 17,
+      "step" : 2,
+      "skillVal" : 34.700000000000003,
+      "star" : 175
+    },
+    {
+      "id" : 78,
+      "lv" : 18,
+      "step" : 2,
+      "skillVal" : 35.799999999999997,
+      "star" : 190
+    },
+    {
+      "id" : 79,
+      "lv" : 19,
+      "step" : 2,
+      "skillVal" : 37,
+      "star" : 205
+    },
+    {
+      "id" : 80,
+      "lv" : 20,
+      "step" : 2,
+      "skillVal" : 38.1,
+      "star" : 220
+    },
+    {
+      "id" : 81,
+      "lv" : 21,
+      "step" : 2,
+      "skillVal" : 39.200000000000003,
+      "star" : 243
+    },
+    {
+      "id" : 82,
+      "lv" : 22,
+      "step" : 2,
+      "skillVal" : 40.299999999999997,
+      "star" : 265
+    },
+    {
+      "id" : 83,
+      "lv" : 23,
+      "step" : 2,
+      "skillVal" : 41.4,
+      "star" : 288
+    },
+    {
+      "id" : 84,
+      "lv" : 24,
+      "step" : 2,
+      "skillVal" : 42.6,
+      "star" : 310
+    },
+    {
+      "id" : 85,
+      "lv" : 25,
+      "step" : 2,
+      "skillVal" : 43.7,
+      "star" : 333
+    },
+    {
+      "id" : 86,
+      "lv" : 26,
+      "step" : 2,
+      "skillVal" : 44.8,
+      "star" : 355
+    },
+    {
+      "id" : 87,
+      "lv" : 27,
+      "step" : 2,
+      "skillVal" : 45.9,
+      "star" : 378
+    },
+    {
+      "id" : 88,
+      "lv" : 28,
+      "step" : 2,
+      "skillVal" : 47,
+      "star" : 400
+    },
+    {
+      "id" : 89,
+      "lv" : 29,
+      "step" : 2,
+      "skillVal" : 48.2,
+      "star" : 423
+    },
+    {
+      "id" : 90,
+      "lv" : 30,
+      "step" : 2,
+      "skillVal" : 49.3,
+      "star" : 445
+    },
+    {
+      "id" : 91,
+      "lv" : 31,
+      "step" : 2,
+      "skillVal" : 50.4,
+      "star" : 483
+    },
+    {
+      "id" : 92,
+      "lv" : 32,
+      "step" : 2,
+      "skillVal" : 51.5,
+      "star" : 520
+    },
+    {
+      "id" : 93,
+      "lv" : 33,
+      "step" : 2,
+      "skillVal" : 52.6,
+      "star" : 558
+    },
+    {
+      "id" : 94,
+      "lv" : 34,
+      "step" : 2,
+      "skillVal" : 53.8,
+      "star" : 595
+    },
+    {
+      "id" : 95,
+      "lv" : 35,
+      "step" : 2,
+      "skillVal" : 54.9,
+      "star" : 633
+    },
+    {
+      "id" : 96,
+      "lv" : 36,
+      "step" : 2,
+      "skillVal" : 56,
+      "star" : 670
+    },
+    {
+      "id" : 97,
+      "lv" : 37,
+      "step" : 2,
+      "skillVal" : 57.1,
+      "star" : 708
+    },
+    {
+      "id" : 98,
+      "lv" : 38,
+      "step" : 2,
+      "skillVal" : 58.2,
+      "star" : 745
+    },
+    {
+      "id" : 99,
+      "lv" : 39,
+      "step" : 2,
+      "skillVal" : 59.4,
+      "star" : 783
+    },
+    {
+      "id" : 100,
+      "lv" : 40,
+      "step" : 2,
+      "skillVal" : 60.5,
+      "star" : 820
+    },
+    {
+      "id" : 101,
+      "lv" : 41,
+      "step" : 2,
+      "skillVal" : 61.6,
+      "star" : 873
+    },
+    {
+      "id" : 102,
+      "lv" : 42,
+      "step" : 2,
+      "skillVal" : 62.7,
+      "star" : 925
+    },
+    {
+      "id" : 103,
+      "lv" : 43,
+      "step" : 2,
+      "skillVal" : 63.8,
+      "star" : 978
+    },
+    {
+      "id" : 104,
+      "lv" : 44,
+      "step" : 2,
+      "skillVal" : 65,
+      "star" : 1030
+    },
+    {
+      "id" : 105,
+      "lv" : 45,
+      "step" : 2,
+      "skillVal" : 66.099999999999994,
+      "star" : 1083
+    },
+    {
+      "id" : 106,
+      "lv" : 46,
+      "step" : 2,
+      "skillVal" : 67.2,
+      "star" : 1135
+    },
+    {
+      "id" : 107,
+      "lv" : 47,
+      "step" : 2,
+      "skillVal" : 68.3,
+      "star" : 1188
+    },
+    {
+      "id" : 108,
+      "lv" : 48,
+      "step" : 2,
+      "skillVal" : 69.400000000000006,
+      "star" : 1240
+    },
+    {
+      "id" : 109,
+      "lv" : 49,
+      "step" : 2,
+      "skillVal" : 70.599999999999994,
+      "star" : 1293
+    },
+    {
+      "id" : 110,
+      "lv" : 50,
+      "step" : 2,
+      "skillVal" : 71.7,
+      "star" : 1345
+    },
+    {
+      "id" : 111,
+      "lv" : 51,
+      "step" : 2,
+      "skillVal" : 72.8,
+      "star" : 1420
+    },
+    {
+      "id" : 112,
+      "lv" : 52,
+      "step" : 2,
+      "skillVal" : 73.900000000000006,
+      "star" : 1495
+    },
+    {
+      "id" : 113,
+      "lv" : 53,
+      "step" : 2,
+      "skillVal" : 75,
+      "star" : 1570
+    },
+    {
+      "id" : 114,
+      "lv" : 54,
+      "step" : 2,
+      "skillVal" : 76.2,
+      "star" : 1645
+    },
+    {
+      "id" : 115,
+      "lv" : 55,
+      "step" : 2,
+      "skillVal" : 77.3,
+      "star" : 1720
+    },
+    {
+      "id" : 116,
+      "lv" : 56,
+      "step" : 2,
+      "skillVal" : 78.400000000000006,
+      "star" : 1795
+    },
+    {
+      "id" : 117,
+      "lv" : 57,
+      "step" : 2,
+      "skillVal" : 79.5,
+      "star" : 1870
+    },
+    {
+      "id" : 118,
+      "lv" : 58,
+      "step" : 2,
+      "skillVal" : 80.599999999999994,
+      "star" : 1945
+    },
+    {
+      "id" : 119,
+      "lv" : 59,
+      "step" : 2,
+      "skillVal" : 81.8,
+      "star" : 2020
+    },
+    {
+      "id" : 120,
+      "lv" : 60,
+      "step" : 2,
+      "skillVal" : 82.9,
+      "star" : 2095
+    },
+    {
+      "id" : 121,
+      "lv" : 1,
+      "step" : 3,
+      "skillVal" : 18,
+      "star" : 4
+    },
+    {
+      "id" : 122,
+      "lv" : 2,
+      "step" : 3,
+      "skillVal" : 19.2,
+      "star" : 14
+    },
+    {
+      "id" : 123,
+      "lv" : 3,
+      "step" : 3,
+      "skillVal" : 20.399999999999999,
+      "star" : 24
+    },
+    {
+      "id" : 124,
+      "lv" : 4,
+      "step" : 3,
+      "skillVal" : 21.6,
+      "star" : 34
+    },
+    {
+      "id" : 125,
+      "lv" : 5,
+      "step" : 3,
+      "skillVal" : 22.8,
+      "star" : 44
+    },
+    {
+      "id" : 126,
+      "lv" : 6,
+      "step" : 3,
+      "skillVal" : 24,
+      "star" : 54
+    },
+    {
+      "id" : 127,
+      "lv" : 7,
+      "step" : 3,
+      "skillVal" : 25.2,
+      "star" : 64
+    },
+    {
+      "id" : 128,
+      "lv" : 8,
+      "step" : 3,
+      "skillVal" : 26.4,
+      "star" : 74
+    },
+    {
+      "id" : 129,
+      "lv" : 9,
+      "step" : 3,
+      "skillVal" : 27.6,
+      "star" : 84
+    },
+    {
+      "id" : 130,
+      "lv" : 10,
+      "step" : 3,
+      "skillVal" : 28.8,
+      "star" : 94
+    },
+    {
+      "id" : 131,
+      "lv" : 11,
+      "step" : 3,
+      "skillVal" : 30,
+      "star" : 114
+    },
+    {
+      "id" : 132,
+      "lv" : 12,
+      "step" : 3,
+      "skillVal" : 31.2,
+      "star" : 134
+    },
+    {
+      "id" : 133,
+      "lv" : 13,
+      "step" : 3,
+      "skillVal" : 32.4,
+      "star" : 154
+    },
+    {
+      "id" : 134,
+      "lv" : 14,
+      "step" : 3,
+      "skillVal" : 33.6,
+      "star" : 174
+    },
+    {
+      "id" : 135,
+      "lv" : 15,
+      "step" : 3,
+      "skillVal" : 34.799999999999997,
+      "star" : 194
+    },
+    {
+      "id" : 136,
+      "lv" : 16,
+      "step" : 3,
+      "skillVal" : 36,
+      "star" : 214
+    },
+    {
+      "id" : 137,
+      "lv" : 17,
+      "step" : 3,
+      "skillVal" : 37.200000000000003,
+      "star" : 234
+    },
+    {
+      "id" : 138,
+      "lv" : 18,
+      "step" : 3,
+      "skillVal" : 38.4,
+      "star" : 254
+    },
+    {
+      "id" : 139,
+      "lv" : 19,
+      "step" : 3,
+      "skillVal" : 39.6,
+      "star" : 274
+    },
+    {
+      "id" : 140,
+      "lv" : 20,
+      "step" : 3,
+      "skillVal" : 40.799999999999997,
+      "star" : 294
+    },
+    {
+      "id" : 141,
+      "lv" : 21,
+      "step" : 3,
+      "skillVal" : 42,
+      "star" : 324
+    },
+    {
+      "id" : 142,
+      "lv" : 22,
+      "step" : 3,
+      "skillVal" : 43.2,
+      "star" : 354
+    },
+    {
+      "id" : 143,
+      "lv" : 23,
+      "step" : 3,
+      "skillVal" : 44.4,
+      "star" : 384
+    },
+    {
+      "id" : 144,
+      "lv" : 24,
+      "step" : 3,
+      "skillVal" : 45.6,
+      "star" : 414
+    },
+    {
+      "id" : 145,
+      "lv" : 25,
+      "step" : 3,
+      "skillVal" : 46.8,
+      "star" : 444
+    },
+    {
+      "id" : 146,
+      "lv" : 26,
+      "step" : 3,
+      "skillVal" : 48,
+      "star" : 474
+    },
+    {
+      "id" : 147,
+      "lv" : 27,
+      "step" : 3,
+      "skillVal" : 49.2,
+      "star" : 504
+    },
+    {
+      "id" : 148,
+      "lv" : 28,
+      "step" : 3,
+      "skillVal" : 50.4,
+      "star" : 534
+    },
+    {
+      "id" : 149,
+      "lv" : 29,
+      "step" : 3,
+      "skillVal" : 51.6,
+      "star" : 564
+    },
+    {
+      "id" : 150,
+      "lv" : 30,
+      "step" : 3,
+      "skillVal" : 52.8,
+      "star" : 594
+    },
+    {
+      "id" : 151,
+      "lv" : 31,
+      "step" : 3,
+      "skillVal" : 54,
+      "star" : 644
+    },
+    {
+      "id" : 152,
+      "lv" : 32,
+      "step" : 3,
+      "skillVal" : 55.2,
+      "star" : 694
+    },
+    {
+      "id" : 153,
+      "lv" : 33,
+      "step" : 3,
+      "skillVal" : 56.4,
+      "star" : 744
+    },
+    {
+      "id" : 154,
+      "lv" : 34,
+      "step" : 3,
+      "skillVal" : 57.6,
+      "star" : 794
+    },
+    {
+      "id" : 155,
+      "lv" : 35,
+      "step" : 3,
+      "skillVal" : 58.8,
+      "star" : 844
+    },
+    {
+      "id" : 156,
+      "lv" : 36,
+      "step" : 3,
+      "skillVal" : 60,
+      "star" : 894
+    },
+    {
+      "id" : 157,
+      "lv" : 37,
+      "step" : 3,
+      "skillVal" : 61.2,
+      "star" : 944
+    },
+    {
+      "id" : 158,
+      "lv" : 38,
+      "step" : 3,
+      "skillVal" : 62.4,
+      "star" : 994
+    },
+    {
+      "id" : 159,
+      "lv" : 39,
+      "step" : 3,
+      "skillVal" : 63.6,
+      "star" : 1044
+    },
+    {
+      "id" : 160,
+      "lv" : 40,
+      "step" : 3,
+      "skillVal" : 64.8,
+      "star" : 1094
+    },
+    {
+      "id" : 161,
+      "lv" : 41,
+      "step" : 3,
+      "skillVal" : 66,
+      "star" : 1164
+    },
+    {
+      "id" : 162,
+      "lv" : 42,
+      "step" : 3,
+      "skillVal" : 67.2,
+      "star" : 1234
+    },
+    {
+      "id" : 163,
+      "lv" : 43,
+      "step" : 3,
+      "skillVal" : 68.400000000000006,
+      "star" : 1304
+    },
+    {
+      "id" : 164,
+      "lv" : 44,
+      "step" : 3,
+      "skillVal" : 69.599999999999994,
+      "star" : 1374
+    },
+    {
+      "id" : 165,
+      "lv" : 45,
+      "step" : 3,
+      "skillVal" : 70.8,
+      "star" : 1444
+    },
+    {
+      "id" : 166,
+      "lv" : 46,
+      "step" : 3,
+      "skillVal" : 72,
+      "star" : 1514
+    },
+    {
+      "id" : 167,
+      "lv" : 47,
+      "step" : 3,
+      "skillVal" : 73.2,
+      "star" : 1584
+    },
+    {
+      "id" : 168,
+      "lv" : 48,
+      "step" : 3,
+      "skillVal" : 74.400000000000006,
+      "star" : 1654
+    },
+    {
+      "id" : 169,
+      "lv" : 49,
+      "step" : 3,
+      "skillVal" : 75.599999999999994,
+      "star" : 1724
+    },
+    {
+      "id" : 170,
+      "lv" : 50,
+      "step" : 3,
+      "skillVal" : 76.8,
+      "star" : 1794
+    },
+    {
+      "id" : 171,
+      "lv" : 51,
+      "step" : 3,
+      "skillVal" : 78,
+      "star" : 1894
+    },
+    {
+      "id" : 172,
+      "lv" : 52,
+      "step" : 3,
+      "skillVal" : 79.2,
+      "star" : 1994
+    },
+    {
+      "id" : 173,
+      "lv" : 53,
+      "step" : 3,
+      "skillVal" : 80.400000000000006,
+      "star" : 2094
+    },
+    {
+      "id" : 174,
+      "lv" : 54,
+      "step" : 3,
+      "skillVal" : 81.599999999999994,
+      "star" : 2194
+    },
+    {
+      "id" : 175,
+      "lv" : 55,
+      "step" : 3,
+      "skillVal" : 82.8,
+      "star" : 2294
+    },
+    {
+      "id" : 176,
+      "lv" : 56,
+      "step" : 3,
+      "skillVal" : 84,
+      "star" : 2394
+    },
+    {
+      "id" : 177,
+      "lv" : 57,
+      "step" : 3,
+      "skillVal" : 85.2,
+      "star" : 2494
+    },
+    {
+      "id" : 178,
+      "lv" : 58,
+      "step" : 3,
+      "skillVal" : 86.4,
+      "star" : 2594
+    },
+    {
+      "id" : 179,
+      "lv" : 59,
+      "step" : 3,
+      "skillVal" : 87.6,
+      "star" : 2694
+    },
+    {
+      "id" : 180,
+      "lv" : 60,
+      "step" : 3,
+      "skillVal" : 88.8,
+      "star" : 2794
+    }
+  ]  
+}

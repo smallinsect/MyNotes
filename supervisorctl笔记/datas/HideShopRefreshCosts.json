@@ -1,0 +1,28 @@
+{
+  "HideShopRefreshCosts":[
+    {
+      "times" : 1,
+      "diamon" : 0
+    },
+    {
+      "times" : 2,
+      "diamon" : 50
+    },
+    {
+      "times" : 3,
+      "diamon" : 80
+    },
+    {
+      "times" : 4,
+      "diamon" : 120
+    },
+    {
+      "times" : 5,
+      "diamon" : 150
+    },
+    {
+      "times" : 6,
+      "diamon" : 200
+    }
+  ]  
+}

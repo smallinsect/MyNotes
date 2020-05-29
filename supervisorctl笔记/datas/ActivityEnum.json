@@ -1,0 +1,10 @@
+{
+  "ActivityEnum":{
+      "slot" : 1,
+      "login" : 2,
+      "custom" : 3,
+      "combat" : 4,
+      "adView" : 5,
+      "bossCombat" : 6
+  }  
+}

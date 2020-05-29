@@ -1,0 +1,9 @@
+{
+  "CardTypeEnum":{
+      "Atk" : 0,
+      "Trap" : 1,
+      "ContinuousTrap" : 2,
+      "Spell" : 3,
+      "Equip" : 4
+  }  
+}

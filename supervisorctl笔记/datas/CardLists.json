@@ -1,0 +1,7908 @@
+{
+  "CardLists":[
+    {
+      "id" : 1,
+      "cards1" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260003
+        },
+        {
+          "weight" : 2,
+          "value" : 260004
+        },
+        {
+          "weight" : 1,
+          "value" : 260030
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260004
+        },
+        {
+          "weight" : 1,
+          "value" : 260017
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 1,
+          "value" : 260008
+        },
+        {
+          "weight" : 1,
+          "value" : 260009
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 1,
+          "value" : 260021
+        },
+        {
+          "weight" : 2,
+          "value" : 260020
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "cards1" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260003
+        },
+        {
+          "weight" : 2,
+          "value" : 260004
+        },
+        {
+          "weight" : 1,
+          "value" : 260030
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260004
+        },
+        {
+          "weight" : 1,
+          "value" : 260017
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 1,
+          "value" : 260008
+        },
+        {
+          "weight" : 1,
+          "value" : 260009
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 1,
+          "value" : 260021
+        },
+        {
+          "weight" : 2,
+          "value" : 260020
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "cards1" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260003
+        },
+        {
+          "weight" : 2,
+          "value" : 260004
+        },
+        {
+          "weight" : 1,
+          "value" : 260030
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260004
+        },
+        {
+          "weight" : 1,
+          "value" : 260017
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 1,
+          "value" : 260008
+        },
+        {
+          "weight" : 1,
+          "value" : 260009
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 1,
+          "value" : 260021
+        },
+        {
+          "weight" : 2,
+          "value" : 260020
+        }
+      ]
+    },
+    {
+      "id" : 4,
+      "cards1" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260003
+        },
+        {
+          "weight" : 2,
+          "value" : 260004
+        },
+        {
+          "weight" : 1,
+          "value" : 260030
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260004
+        },
+        {
+          "weight" : 1,
+          "value" : 260017
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 1,
+          "value" : 260008
+        },
+        {
+          "weight" : 1,
+          "value" : 260009
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 1,
+          "value" : 260021
+        },
+        {
+          "weight" : 2,
+          "value" : 260020
+        }
+      ]
+    },
+    {
+      "id" : 5,
+      "cards1" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260003
+        },
+        {
+          "weight" : 1,
+          "value" : 260004
+        },
+        {
+          "weight" : 1,
+          "value" : 260021
+        },
+        {
+          "weight" : 1,
+          "value" : 260030
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260004
+        },
+        {
+          "weight" : 1,
+          "value" : 260017
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 2,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 1,
+          "value" : 260008
+        },
+        {
+          "weight" : 1,
+          "value" : 260009
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 2,
+          "value" : 260021
+        },
+        {
+          "weight" : 1,
+          "value" : 260022
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ]
+    },
+    {
+      "id" : 6,
+      "cards1" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260003
+        },
+        {
+          "weight" : 1,
+          "value" : 260004
+        },
+        {
+          "weight" : 1,
+          "value" : 260021
+        },
+        {
+          "weight" : 1,
+          "value" : 260030
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260004
+        },
+        {
+          "weight" : 1,
+          "value" : 260017
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 2,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 1,
+          "value" : 260008
+        },
+        {
+          "weight" : 1,
+          "value" : 260009
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 2,
+          "value" : 260021
+        },
+        {
+          "weight" : 1,
+          "value" : 260022
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ]
+    },
+    {
+      "id" : 7,
+      "cards1" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260003
+        },
+        {
+          "weight" : 1,
+          "value" : 260004
+        },
+        {
+          "weight" : 1,
+          "value" : 260021
+        },
+        {
+          "weight" : 2,
+          "value" : 260030
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260004
+        },
+        {
+          "weight" : 1,
+          "value" : 260017
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 2,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 1,
+          "value" : 260008
+        },
+        {
+          "weight" : 1,
+          "value" : 260009
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 2,
+          "value" : 260021
+        },
+        {
+          "weight" : 1,
+          "value" : 260022
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ]
+    },
+    {
+      "id" : 8,
+      "cards1" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 260003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 2,
+          "value" : 260030
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260017
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 2,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 2,
+          "value" : 260021
+        },
+        {
+          "weight" : 1,
+          "value" : 260022
+        },
+        {
+          "weight" : 2,
+          "value" : 260013
+        }
+      ]
+    },
+    {
+      "id" : 9,
+      "cards1" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 260003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 2,
+          "value" : 260030
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260017
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 2,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 2,
+          "value" : 260021
+        },
+        {
+          "weight" : 1,
+          "value" : 260022
+        },
+        {
+          "weight" : 2,
+          "value" : 260013
+        }
+      ]
+    },
+    {
+      "id" : 10,
+      "cards1" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 260003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 2,
+          "value" : 260030
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260017
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 2,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 2,
+          "value" : 260021
+        },
+        {
+          "weight" : 1,
+          "value" : 260022
+        },
+        {
+          "weight" : 2,
+          "value" : 260013
+        }
+      ]
+    },
+    {
+      "id" : 11,
+      "cards1" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 260003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 2,
+          "value" : 260030
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260017
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 2,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 2,
+          "value" : 260021
+        },
+        {
+          "weight" : 1,
+          "value" : 260022
+        },
+        {
+          "weight" : 2,
+          "value" : 260013
+        }
+      ]
+    },
+    {
+      "id" : 12,
+      "cards1" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 260003
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 1,
+          "value" : 260030
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260017
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 2,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 2,
+          "value" : 260012
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 1,
+          "value" : 260021
+        },
+        {
+          "weight" : 1,
+          "value" : 260022
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ]
+    },
+    {
+      "id" : 13,
+      "cards1" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 260003
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 1,
+          "value" : 260030
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260017
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 2,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 2,
+          "value" : 260012
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 1,
+          "value" : 260021
+        },
+        {
+          "weight" : 1,
+          "value" : 260022
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ]
+    },
+    {
+      "id" : 14,
+      "cards1" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 260003
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 1,
+          "value" : 260030
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260017
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 2,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 2,
+          "value" : 260012
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 1,
+          "value" : 260021
+        },
+        {
+          "weight" : 1,
+          "value" : 260022
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ]
+    },
+    {
+      "id" : 15,
+      "cards1" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260017
+        },
+        {
+          "weight" : 1,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 2,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 2,
+          "value" : 260012
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 260021
+        },
+        {
+          "weight" : 1,
+          "value" : 260022
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260026
+        }
+      ]
+    },
+    {
+      "id" : 16,
+      "cards1" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260017
+        },
+        {
+          "weight" : 1,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 2,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 2,
+          "value" : 260012
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 260021
+        },
+        {
+          "weight" : 1,
+          "value" : 260022
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260026
+        }
+      ]
+    },
+    {
+      "id" : 17,
+      "cards1" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260017
+        },
+        {
+          "weight" : 1,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 2,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 2,
+          "value" : 260012
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 260021
+        },
+        {
+          "weight" : 1,
+          "value" : 260022
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260026
+        }
+      ]
+    },
+    {
+      "id" : 18,
+      "cards1" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 2,
+          "value" : 260017
+        },
+        {
+          "weight" : 1,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 2,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 2,
+          "value" : 260012
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 260021
+        },
+        {
+          "weight" : 1,
+          "value" : 260022
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260026
+        }
+      ]
+    },
+    {
+      "id" : 19,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 260001
+        },
+        {
+          "weight" : 3,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 260012
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 260021
+        },
+        {
+          "weight" : 2,
+          "value" : 260022
+        },
+        {
+          "weight" : 1,
+          "value" : 260026
+        }
+      ]
+    },
+    {
+      "id" : 20,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 260001
+        },
+        {
+          "weight" : 3,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 260012
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 260021
+        },
+        {
+          "weight" : 2,
+          "value" : 260022
+        },
+        {
+          "weight" : 1,
+          "value" : 260026
+        }
+      ]
+    },
+    {
+      "id" : 21,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 260001
+        },
+        {
+          "weight" : 3,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 260012
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 260021
+        },
+        {
+          "weight" : 2,
+          "value" : 260022
+        },
+        {
+          "weight" : 1,
+          "value" : 260026
+        }
+      ]
+    },
+    {
+      "id" : 22,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 260001
+        },
+        {
+          "weight" : 3,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 260012
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260026
+        }
+      ]
+    },
+    {
+      "id" : 23,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 260001
+        },
+        {
+          "weight" : 3,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 260012
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260026
+        }
+      ]
+    },
+    {
+      "id" : 24,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 260001
+        },
+        {
+          "weight" : 3,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 260012
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260026
+        }
+      ]
+    },
+    {
+      "id" : 25,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 260001
+        },
+        {
+          "weight" : 3,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 260012
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260026
+        }
+      ]
+    },
+    {
+      "id" : 26,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 260001
+        },
+        {
+          "weight" : 3,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 260012
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260026
+        }
+      ]
+    },
+    {
+      "id" : 27,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 260001
+        },
+        {
+          "weight" : 3,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 260012
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260026
+        }
+      ]
+    },
+    {
+      "id" : 28,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 260001
+        },
+        {
+          "weight" : 3,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 260012
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260026
+        }
+      ]
+    },
+    {
+      "id" : 29,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 260001
+        },
+        {
+          "weight" : 3,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260027
+        }
+      ]
+    },
+    {
+      "id" : 30,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 260001
+        },
+        {
+          "weight" : 3,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260027
+        }
+      ]
+    },
+    {
+      "id" : 31,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 260001
+        },
+        {
+          "weight" : 3,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260027
+        }
+      ]
+    },
+    {
+      "id" : 32,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 260001
+        },
+        {
+          "weight" : 3,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260027
+        }
+      ]
+    },
+    {
+      "id" : 33,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 260001
+        },
+        {
+          "weight" : 3,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260027
+        }
+      ]
+    },
+    {
+      "id" : 34,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 260001
+        },
+        {
+          "weight" : 3,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260027
+        }
+      ]
+    },
+    {
+      "id" : 35,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 260001
+        },
+        {
+          "weight" : 3,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260027
+        }
+      ]
+    },
+    {
+      "id" : 36,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260027
+        }
+      ]
+    },
+    {
+      "id" : 37,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260027
+        }
+      ]
+    },
+    {
+      "id" : 38,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260027
+        }
+      ]
+    },
+    {
+      "id" : 39,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260027
+        }
+      ]
+    },
+    {
+      "id" : 40,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260027
+        }
+      ]
+    },
+    {
+      "id" : 41,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260027
+        }
+      ]
+    },
+    {
+      "id" : 42,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 3,
+          "value" : 260017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        },
+        {
+          "weight" : 1,
+          "value" : 260027
+        }
+      ]
+    },
+    {
+      "id" : 43,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260025
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 44,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260025
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 45,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260025
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 46,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260025
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 47,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260025
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 48,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260025
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 49,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260025
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 50,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 260028
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270005
+        },
+        {
+          "weight" : 1,
+          "value" : 270006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 51,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 260028
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270005
+        },
+        {
+          "weight" : 1,
+          "value" : 270006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 52,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 260028
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270005
+        },
+        {
+          "weight" : 1,
+          "value" : 270006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 53,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 260028
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270005
+        },
+        {
+          "weight" : 1,
+          "value" : 270006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 54,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 260028
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270005
+        },
+        {
+          "weight" : 1,
+          "value" : 270006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 55,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 260028
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270005
+        },
+        {
+          "weight" : 1,
+          "value" : 270006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 56,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 260029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 260028
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270005
+        },
+        {
+          "weight" : 1,
+          "value" : 270006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 57,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 270028
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270005
+        },
+        {
+          "weight" : 1,
+          "value" : 270006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 58,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 270028
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270005
+        },
+        {
+          "weight" : 1,
+          "value" : 270006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 59,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 270028
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270005
+        },
+        {
+          "weight" : 1,
+          "value" : 270006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 60,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 270028
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270005
+        },
+        {
+          "weight" : 1,
+          "value" : 270006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 61,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 270028
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270005
+        },
+        {
+          "weight" : 1,
+          "value" : 270006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 62,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 270028
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270005
+        },
+        {
+          "weight" : 1,
+          "value" : 270006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 63,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 270001
+        },
+        {
+          "weight" : 3,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270003
+        },
+        {
+          "weight" : 1,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270008
+        },
+        {
+          "weight" : 1,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 270001
+        },
+        {
+          "weight" : 1,
+          "value" : 270002
+        },
+        {
+          "weight" : 1,
+          "value" : 270012
+        },
+        {
+          "weight" : 1,
+          "value" : 270013
+        },
+        {
+          "weight" : 1,
+          "value" : 270014
+        },
+        {
+          "weight" : 1,
+          "value" : 270015
+        },
+        {
+          "weight" : 1,
+          "value" : 270016
+        },
+        {
+          "weight" : 3,
+          "value" : 270017
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 3,
+          "value" : 270020
+        },
+        {
+          "weight" : 1,
+          "value" : 270028
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 270003
+        },
+        {
+          "weight" : 2,
+          "value" : 270004
+        },
+        {
+          "weight" : 1,
+          "value" : 270005
+        },
+        {
+          "weight" : 1,
+          "value" : 270006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 270008
+        },
+        {
+          "weight" : 2,
+          "value" : 270009
+        },
+        {
+          "weight" : 1,
+          "value" : 270010
+        },
+        {
+          "weight" : 1,
+          "value" : 270011
+        },
+        {
+          "weight" : 2,
+          "value" : 270018
+        },
+        {
+          "weight" : 1,
+          "value" : 270019
+        },
+        {
+          "weight" : 1,
+          "value" : 270021
+        },
+        {
+          "weight" : 2,
+          "value" : 270022
+        }
+      ]
+    },
+    {
+      "id" : 8000,
+      "cards1" : [
+        {
+          "weight" : 3,
+          "value" : 260001
+        },
+        {
+          "weight" : 3,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 260003
+        },
+        {
+          "weight" : 1,
+          "value" : 260004
+        },
+        {
+          "weight" : 1,
+          "value" : 260008
+        },
+        {
+          "weight" : 1,
+          "value" : 260009
+        },
+        {
+          "weight" : 1,
+          "value" : 260029
+        }
+      ],
+      "cards2" : [
+        {
+          "weight" : 1,
+          "value" : 260001
+        },
+        {
+          "weight" : 1,
+          "value" : 260002
+        },
+        {
+          "weight" : 1,
+          "value" : 260012
+        },
+        {
+          "weight" : 1,
+          "value" : 260013
+        },
+        {
+          "weight" : 1,
+          "value" : 260014
+        },
+        {
+          "weight" : 1,
+          "value" : 260015
+        },
+        {
+          "weight" : 1,
+          "value" : 260016
+        },
+        {
+          "weight" : 2,
+          "value" : 260018
+        },
+        {
+          "weight" : 3,
+          "value" : 260020
+        },
+        {
+          "weight" : 1,
+          "value" : 260024
+        },
+        {
+          "weight" : 1,
+          "value" : 260028
+        }
+      ],
+      "cards3" : [
+        {
+          "weight" : 2,
+          "value" : 260003
+        },
+        {
+          "weight" : 2,
+          "value" : 260004
+        },
+        {
+          "weight" : 1,
+          "value" : 260005
+        },
+        {
+          "weight" : 1,
+          "value" : 260006
+        },
+        {
+          "weight" : 1,
+          "value" : 260007
+        },
+        {
+          "weight" : 2,
+          "value" : 260008
+        },
+        {
+          "weight" : 2,
+          "value" : 260009
+        },
+        {
+          "weight" : 1,
+          "value" : 260010
+        },
+        {
+          "weight" : 1,
+          "value" : 260011
+        },
+        {
+          "weight" : 2,
+          "value" : 260018
+        },
+        {
+          "weight" : 1,
+          "value" : 260019
+        },
+        {
+          "weight" : 1,
+          "value" : 260021
+        },
+        {
+          "weight" : 2,
+          "value" : 260022
+        },
+        {
+          "weight" : 1,
+          "value" : 260026
+        },
+        {
+          "weight" : 1,
+          "value" : 260027
+        }
+      ]
+    }
+  ]  
+}

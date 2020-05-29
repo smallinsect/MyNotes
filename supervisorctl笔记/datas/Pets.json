@@ -1,0 +1,108 @@
+{
+  "Pets":[
+    {
+      "id" : 110101,
+      "name" : "1901110101",
+      "maxLv" : 60,
+      "expTpl" : "PetExp1",
+      "desc" : "1904110101",
+      "skillTpl" : "PetSkill1",
+      "skillEffect" : 1,
+      "ico" : "GoblinThief.prefab",
+      "speechBubblesOne" : [
+        "19240101"
+      ],
+      "speechBubblesTwo" : [
+        "19240102",
+        "19240103"
+      ],
+      "speechBubblesThree" : [
+        "19240104",
+        "19240105"
+      ],
+      "outputCharacter" : 0,
+      "ShadowScale" : {
+        "x" : 1.27,
+        "y" : 1.8
+      }
+    },
+    {
+      "id" : 110102,
+      "name" : "1901110102",
+      "maxLv" : 60,
+      "expTpl" : "PetExp1",
+      "desc" : "1904110102",
+      "skillTpl" : "PetSkill2",
+      "skillEffect" : 2,
+      "ico" : "GuardHound.prefab",
+      "speechBubblesOne" : [
+        "19240101"
+      ],
+      "speechBubblesTwo" : [
+        "19240102",
+        "19240103"
+      ],
+      "speechBubblesThree" : [
+        "19240104",
+        "19240105"
+      ],
+      "outputCharacter" : 120101,
+      "ShadowScale" : {
+        "x" : 1.27,
+        "y" : 2
+      }
+    },
+    {
+      "id" : 110103,
+      "name" : "1901110103",
+      "maxLv" : 60,
+      "expTpl" : "PetExp1",
+      "desc" : "1904110103",
+      "skillTpl" : "PetSkill3",
+      "skillEffect" : 5,
+      "ico" : "Kobold.prefab",
+      "speechBubblesOne" : [
+        "19240101"
+      ],
+      "speechBubblesTwo" : [
+        "19240102",
+        "19240103"
+      ],
+      "speechBubblesThree" : [
+        "19240104",
+        "19240105"
+      ],
+      "outputCharacter" : 120201,
+      "ShadowScale" : {
+        "x" : 1.27,
+        "y" : 1.8
+      }
+    },
+    {
+      "id" : 110104,
+      "name" : "1901110104",
+      "maxLv" : 60,
+      "expTpl" : "PetExp1",
+      "desc" : "1904110104",
+      "skillTpl" : "PetSkill4",
+      "skillEffect" : 4,
+      "ico" : "LittlePegasus.prefab",
+      "speechBubblesOne" : [
+        "19240101"
+      ],
+      "speechBubblesTwo" : [
+        "19240102",
+        "19240103"
+      ],
+      "speechBubblesThree" : [
+        "19240104",
+        "19240105"
+      ],
+      "outputCharacter" : 120301,
+      "ShadowScale" : {
+        "x" : 1.25,
+        "y" : 1.77
+      }
+    }
+  ]  
+}

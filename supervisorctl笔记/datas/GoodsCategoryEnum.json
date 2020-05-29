@@ -1,0 +1,13 @@
+{
+  "GoodsCategoryEnum":{
+      "categoryLv1" : 1,
+      "categoryLv2" : 2,
+      "categoryLv3" : 3,
+      "categoryLv4" : 4,
+      "categoryLv5" : 5,
+      "categoryLv6" : 6,
+      "categoryLv7" : 7,
+      "categoryLv8" : 8,
+      "categoryLv9" : 9
+  }  
+}

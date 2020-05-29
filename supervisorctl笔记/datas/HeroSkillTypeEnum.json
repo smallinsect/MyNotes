@@ -1,0 +1,7 @@
+{
+  "HeroSkillTypeEnum":{
+      "PetGet" : 1,
+      "PetPlus" : 2,
+      "GridCost" : 3
+  }  
+}

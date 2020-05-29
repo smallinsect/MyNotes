@@ -1,0 +1,319 @@
+{
+  "SlotLvMatchSkins":[
+    {
+      "id" : 1,
+      "skin" : "tigerSc_170001",
+      "stealLitmit" : 4000000
+    },
+    {
+      "id" : 2,
+      "skin" : "tigerSc_170001",
+      "stealLitmit" : 4200000
+    },
+    {
+      "id" : 3,
+      "skin" : "tigerSc_170001",
+      "stealLitmit" : 4400000
+    },
+    {
+      "id" : 4,
+      "skin" : "tigerSc_170001",
+      "stealLitmit" : 4600000
+    },
+    {
+      "id" : 5,
+      "skin" : "tigerSc_170001",
+      "stealLitmit" : 4800000
+    },
+    {
+      "id" : 6,
+      "skin" : "tigerSc_170001",
+      "stealLitmit" : 5000000
+    },
+    {
+      "id" : 7,
+      "skin" : "tigerSc_170001",
+      "stealLitmit" : 5200000
+    },
+    {
+      "id" : 8,
+      "skin" : "tigerSc_170002",
+      "stealLitmit" : 5400000
+    },
+    {
+      "id" : 9,
+      "skin" : "tigerSc_170002",
+      "stealLitmit" : 5600000
+    },
+    {
+      "id" : 10,
+      "skin" : "tigerSc_170002",
+      "stealLitmit" : 5800000
+    },
+    {
+      "id" : 11,
+      "skin" : "tigerSc_170002",
+      "stealLitmit" : 6000000
+    },
+    {
+      "id" : 12,
+      "skin" : "tigerSc_170002",
+      "stealLitmit" : 6240000
+    },
+    {
+      "id" : 13,
+      "skin" : "tigerSc_170002",
+      "stealLitmit" : 6480000
+    },
+    {
+      "id" : 14,
+      "skin" : "tigerSc_170002",
+      "stealLitmit" : 6720000
+    },
+    {
+      "id" : 15,
+      "skin" : "tigerSc_170003",
+      "stealLitmit" : 6960000
+    },
+    {
+      "id" : 16,
+      "skin" : "tigerSc_170003",
+      "stealLitmit" : 7200000
+    },
+    {
+      "id" : 17,
+      "skin" : "tigerSc_170003",
+      "stealLitmit" : 7440000
+    },
+    {
+      "id" : 18,
+      "skin" : "tigerSc_170003",
+      "stealLitmit" : 7680000
+    },
+    {
+      "id" : 19,
+      "skin" : "tigerSc_170003",
+      "stealLitmit" : 7920000
+    },
+    {
+      "id" : 20,
+      "skin" : "tigerSc_170003",
+      "stealLitmit" : 8160000
+    },
+    {
+      "id" : 21,
+      "skin" : "tigerSc_170003",
+      "stealLitmit" : 8400000
+    },
+    {
+      "id" : 22,
+      "skin" : "tigerSc_170004",
+      "stealLitmit" : 8680000
+    },
+    {
+      "id" : 23,
+      "skin" : "tigerSc_170004",
+      "stealLitmit" : 8960000
+    },
+    {
+      "id" : 24,
+      "skin" : "tigerSc_170004",
+      "stealLitmit" : 9240000
+    },
+    {
+      "id" : 25,
+      "skin" : "tigerSc_170004",
+      "stealLitmit" : 9520000
+    },
+    {
+      "id" : 26,
+      "skin" : "tigerSc_170004",
+      "stealLitmit" : 9800000
+    },
+    {
+      "id" : 27,
+      "skin" : "tigerSc_170004",
+      "stealLitmit" : 10080000
+    },
+    {
+      "id" : 28,
+      "skin" : "tigerSc_170004",
+      "stealLitmit" : 10360000
+    },
+    {
+      "id" : 29,
+      "skin" : "tigerSc_170005",
+      "stealLitmit" : 10640000
+    },
+    {
+      "id" : 30,
+      "skin" : "tigerSc_170005",
+      "stealLitmit" : 10920000
+    },
+    {
+      "id" : 31,
+      "skin" : "tigerSc_170005",
+      "stealLitmit" : 11200000
+    },
+    {
+      "id" : 32,
+      "skin" : "tigerSc_170005",
+      "stealLitmit" : 11560000
+    },
+    {
+      "id" : 33,
+      "skin" : "tigerSc_170005",
+      "stealLitmit" : 11920000
+    },
+    {
+      "id" : 34,
+      "skin" : "tigerSc_170005",
+      "stealLitmit" : 12280000
+    },
+    {
+      "id" : 35,
+      "skin" : "tigerSc_170005",
+      "stealLitmit" : 12640000
+    },
+    {
+      "id" : 36,
+      "skin" : "tigerSc_170006",
+      "stealLitmit" : 13000000
+    },
+    {
+      "id" : 37,
+      "skin" : "tigerSc_170006",
+      "stealLitmit" : 13360000
+    },
+    {
+      "id" : 38,
+      "skin" : "tigerSc_170006",
+      "stealLitmit" : 13720000
+    },
+    {
+      "id" : 39,
+      "skin" : "tigerSc_170006",
+      "stealLitmit" : 14080000
+    },
+    {
+      "id" : 40,
+      "skin" : "tigerSc_170006",
+      "stealLitmit" : 14440000
+    },
+    {
+      "id" : 41,
+      "skin" : "tigerSc_170006",
+      "stealLitmit" : 14800000
+    },
+    {
+      "id" : 42,
+      "skin" : "tigerSc_170006",
+      "stealLitmit" : 15240000
+    },
+    {
+      "id" : 43,
+      "skin" : "tigerSc_170007",
+      "stealLitmit" : 15680000
+    },
+    {
+      "id" : 44,
+      "skin" : "tigerSc_170007",
+      "stealLitmit" : 16120000
+    },
+    {
+      "id" : 45,
+      "skin" : "tigerSc_170007",
+      "stealLitmit" : 16560000
+    },
+    {
+      "id" : 46,
+      "skin" : "tigerSc_170007",
+      "stealLitmit" : 17000000
+    },
+    {
+      "id" : 47,
+      "skin" : "tigerSc_170007",
+      "stealLitmit" : 17440000
+    },
+    {
+      "id" : 48,
+      "skin" : "tigerSc_170007",
+      "stealLitmit" : 17880000
+    },
+    {
+      "id" : 49,
+      "skin" : "tigerSc_170007",
+      "stealLitmit" : 18320000
+    },
+    {
+      "id" : 50,
+      "skin" : "tigerSc_170008",
+      "stealLitmit" : 18760000
+    },
+    {
+      "id" : 51,
+      "skin" : "tigerSc_170008",
+      "stealLitmit" : 19200000
+    },
+    {
+      "id" : 52,
+      "skin" : "tigerSc_170008",
+      "stealLitmit" : 19720000
+    },
+    {
+      "id" : 53,
+      "skin" : "tigerSc_170008",
+      "stealLitmit" : 20240000
+    },
+    {
+      "id" : 54,
+      "skin" : "tigerSc_170008",
+      "stealLitmit" : 20760000
+    },
+    {
+      "id" : 55,
+      "skin" : "tigerSc_170008",
+      "stealLitmit" : 21280000
+    },
+    {
+      "id" : 56,
+      "skin" : "tigerSc_170008",
+      "stealLitmit" : 21800000
+    },
+    {
+      "id" : 57,
+      "skin" : "tigerSc_170009",
+      "stealLitmit" : 22320000
+    },
+    {
+      "id" : 58,
+      "skin" : "tigerSc_170009",
+      "stealLitmit" : 22840000
+    },
+    {
+      "id" : 59,
+      "skin" : "tigerSc_170009",
+      "stealLitmit" : 23360000
+    },
+    {
+      "id" : 60,
+      "skin" : "tigerSc_170009",
+      "stealLitmit" : 23880000
+    },
+    {
+      "id" : 61,
+      "skin" : "tigerSc_170009",
+      "stealLitmit" : 24400000
+    },
+    {
+      "id" : 62,
+      "skin" : "tigerSc_170009",
+      "stealLitmit" : 25000000
+    },
+    {
+      "id" : 63,
+      "skin" : "tigerSc_170009",
+      "stealLitmit" : 25600000
+    }
+  ]  
+}

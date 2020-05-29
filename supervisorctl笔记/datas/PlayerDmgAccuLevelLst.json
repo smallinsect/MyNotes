@@ -1,0 +1,504 @@
+{
+  "PlayerDmgAccuLevelLst":[
+    {
+      "level" : 1,
+      "dmg" : 0,
+      "upPercent" : 0
+    },
+    {
+      "level" : 2,
+      "dmg" : 1500,
+      "upPercent" : 10
+    },
+    {
+      "level" : 3,
+      "dmg" : 3200,
+      "upPercent" : 20
+    },
+    {
+      "level" : 4,
+      "dmg" : 5300,
+      "upPercent" : 30
+    },
+    {
+      "level" : 5,
+      "dmg" : 7600,
+      "upPercent" : 40
+    },
+    {
+      "level" : 6,
+      "dmg" : 10300,
+      "upPercent" : 50
+    },
+    {
+      "level" : 7,
+      "dmg" : 13400,
+      "upPercent" : 60
+    },
+    {
+      "level" : 8,
+      "dmg" : 16800,
+      "upPercent" : 70
+    },
+    {
+      "level" : 9,
+      "dmg" : 20700,
+      "upPercent" : 80
+    },
+    {
+      "level" : 10,
+      "dmg" : 25100,
+      "upPercent" : 90
+    },
+    {
+      "level" : 11,
+      "dmg" : 29900,
+      "upPercent" : 100
+    },
+    {
+      "level" : 12,
+      "dmg" : 35200,
+      "upPercent" : 110
+    },
+    {
+      "level" : 13,
+      "dmg" : 41000,
+      "upPercent" : 120
+    },
+    {
+      "level" : 14,
+      "dmg" : 47300,
+      "upPercent" : 130
+    },
+    {
+      "level" : 15,
+      "dmg" : 54200,
+      "upPercent" : 140
+    },
+    {
+      "level" : 16,
+      "dmg" : 61700,
+      "upPercent" : 150
+    },
+    {
+      "level" : 17,
+      "dmg" : 69800,
+      "upPercent" : 160
+    },
+    {
+      "level" : 18,
+      "dmg" : 78600,
+      "upPercent" : 170
+    },
+    {
+      "level" : 19,
+      "dmg" : 88000,
+      "upPercent" : 180
+    },
+    {
+      "level" : 20,
+      "dmg" : 98100,
+      "upPercent" : 190
+    },
+    {
+      "level" : 21,
+      "dmg" : 108900,
+      "upPercent" : 200
+    },
+    {
+      "level" : 22,
+      "dmg" : 120300,
+      "upPercent" : 208
+    },
+    {
+      "level" : 23,
+      "dmg" : 132400,
+      "upPercent" : 215
+    },
+    {
+      "level" : 24,
+      "dmg" : 145200,
+      "upPercent" : 223
+    },
+    {
+      "level" : 25,
+      "dmg" : 158700,
+      "upPercent" : 230
+    },
+    {
+      "level" : 26,
+      "dmg" : 172800,
+      "upPercent" : 238
+    },
+    {
+      "level" : 27,
+      "dmg" : 187700,
+      "upPercent" : 245
+    },
+    {
+      "level" : 28,
+      "dmg" : 203400,
+      "upPercent" : 253
+    },
+    {
+      "level" : 29,
+      "dmg" : 219800,
+      "upPercent" : 260
+    },
+    {
+      "level" : 30,
+      "dmg" : 237000,
+      "upPercent" : 268
+    },
+    {
+      "level" : 31,
+      "dmg" : 255000,
+      "upPercent" : 275
+    },
+    {
+      "level" : 32,
+      "dmg" : 273800,
+      "upPercent" : 283
+    },
+    {
+      "level" : 33,
+      "dmg" : 293500,
+      "upPercent" : 290
+    },
+    {
+      "level" : 34,
+      "dmg" : 314000,
+      "upPercent" : 298
+    },
+    {
+      "level" : 35,
+      "dmg" : 335400,
+      "upPercent" : 305
+    },
+    {
+      "level" : 36,
+      "dmg" : 357600,
+      "upPercent" : 313
+    },
+    {
+      "level" : 37,
+      "dmg" : 380800,
+      "upPercent" : 320
+    },
+    {
+      "level" : 38,
+      "dmg" : 404900,
+      "upPercent" : 328
+    },
+    {
+      "level" : 39,
+      "dmg" : 430000,
+      "upPercent" : 335
+    },
+    {
+      "level" : 40,
+      "dmg" : 456000,
+      "upPercent" : 343
+    },
+    {
+      "level" : 41,
+      "dmg" : 483000,
+      "upPercent" : 350
+    },
+    {
+      "level" : 42,
+      "dmg" : 511000,
+      "upPercent" : 358
+    },
+    {
+      "level" : 43,
+      "dmg" : 540000,
+      "upPercent" : 365
+    },
+    {
+      "level" : 44,
+      "dmg" : 570100,
+      "upPercent" : 373
+    },
+    {
+      "level" : 45,
+      "dmg" : 601200,
+      "upPercent" : 380
+    },
+    {
+      "level" : 46,
+      "dmg" : 633400,
+      "upPercent" : 388
+    },
+    {
+      "level" : 47,
+      "dmg" : 666600,
+      "upPercent" : 395
+    },
+    {
+      "level" : 48,
+      "dmg" : 700800,
+      "upPercent" : 400
+    },
+    {
+      "level" : 49,
+      "dmg" : 736000,
+      "upPercent" : 405
+    },
+    {
+      "level" : 50,
+      "dmg" : 772100,
+      "upPercent" : 410
+    },
+    {
+      "level" : 51,
+      "dmg" : 809200,
+      "upPercent" : 415
+    },
+    {
+      "level" : 52,
+      "dmg" : 847200,
+      "upPercent" : 420
+    },
+    {
+      "level" : 53,
+      "dmg" : 886300,
+      "upPercent" : 425
+    },
+    {
+      "level" : 54,
+      "dmg" : 926400,
+      "upPercent" : 430
+    },
+    {
+      "level" : 55,
+      "dmg" : 967400,
+      "upPercent" : 435
+    },
+    {
+      "level" : 56,
+      "dmg" : 1009600,
+      "upPercent" : 440
+    },
+    {
+      "level" : 57,
+      "dmg" : 1052700,
+      "upPercent" : 445
+    },
+    {
+      "level" : 58,
+      "dmg" : 1096900,
+      "upPercent" : 450
+    },
+    {
+      "level" : 59,
+      "dmg" : 1142200,
+      "upPercent" : 455
+    },
+    {
+      "level" : 60,
+      "dmg" : 1188600,
+      "upPercent" : 460
+    },
+    {
+      "level" : 61,
+      "dmg" : 1236100,
+      "upPercent" : 465
+    },
+    {
+      "level" : 62,
+      "dmg" : 1284600,
+      "upPercent" : 470
+    },
+    {
+      "level" : 63,
+      "dmg" : 1334300,
+      "upPercent" : 475
+    },
+    {
+      "level" : 64,
+      "dmg" : 1385100,
+      "upPercent" : 480
+    },
+    {
+      "level" : 65,
+      "dmg" : 1437100,
+      "upPercent" : 485
+    },
+    {
+      "level" : 66,
+      "dmg" : 1490200,
+      "upPercent" : 490
+    },
+    {
+      "level" : 67,
+      "dmg" : 1544400,
+      "upPercent" : 495
+    },
+    {
+      "level" : 68,
+      "dmg" : 1599900,
+      "upPercent" : 500
+    },
+    {
+      "level" : 69,
+      "dmg" : 1656300,
+      "upPercent" : 503
+    },
+    {
+      "level" : 70,
+      "dmg" : 1713800,
+      "upPercent" : 506
+    },
+    {
+      "level" : 71,
+      "dmg" : 1772200,
+      "upPercent" : 509
+    },
+    {
+      "level" : 72,
+      "dmg" : 1831700,
+      "upPercent" : 512
+    },
+    {
+      "level" : 73,
+      "dmg" : 1892200,
+      "upPercent" : 515
+    },
+    {
+      "level" : 74,
+      "dmg" : 1953800,
+      "upPercent" : 518
+    },
+    {
+      "level" : 75,
+      "dmg" : 2016400,
+      "upPercent" : 521
+    },
+    {
+      "level" : 76,
+      "dmg" : 2080000,
+      "upPercent" : 524
+    },
+    {
+      "level" : 77,
+      "dmg" : 2144700,
+      "upPercent" : 527
+    },
+    {
+      "level" : 78,
+      "dmg" : 2210500,
+      "upPercent" : 530
+    },
+    {
+      "level" : 79,
+      "dmg" : 2277300,
+      "upPercent" : 533
+    },
+    {
+      "level" : 80,
+      "dmg" : 2345300,
+      "upPercent" : 536
+    },
+    {
+      "level" : 81,
+      "dmg" : 2414300,
+      "upPercent" : 539
+    },
+    {
+      "level" : 82,
+      "dmg" : 2484400,
+      "upPercent" : 542
+    },
+    {
+      "level" : 83,
+      "dmg" : 2555600,
+      "upPercent" : 545
+    },
+    {
+      "level" : 84,
+      "dmg" : 2627900,
+      "upPercent" : 548
+    },
+    {
+      "level" : 85,
+      "dmg" : 2701300,
+      "upPercent" : 551
+    },
+    {
+      "level" : 86,
+      "dmg" : 2775900,
+      "upPercent" : 554
+    },
+    {
+      "level" : 87,
+      "dmg" : 2851600,
+      "upPercent" : 557
+    },
+    {
+      "level" : 88,
+      "dmg" : 2928400,
+      "upPercent" : 560
+    },
+    {
+      "level" : 89,
+      "dmg" : 3006400,
+      "upPercent" : 563
+    },
+    {
+      "level" : 90,
+      "dmg" : 3085500,
+      "upPercent" : 566
+    },
+    {
+      "level" : 91,
+      "dmg" : 3165800,
+      "upPercent" : 569
+    },
+    {
+      "level" : 92,
+      "dmg" : 3247200,
+      "upPercent" : 572
+    },
+    {
+      "level" : 93,
+      "dmg" : 3329800,
+      "upPercent" : 575
+    },
+    {
+      "level" : 94,
+      "dmg" : 3413600,
+      "upPercent" : 578
+    },
+    {
+      "level" : 95,
+      "dmg" : 3498600,
+      "upPercent" : 581
+    },
+    {
+      "level" : 96,
+      "dmg" : 3584800,
+      "upPercent" : 584
+    },
+    {
+      "level" : 97,
+      "dmg" : 3672200,
+      "upPercent" : 587
+    },
+    {
+      "level" : 98,
+      "dmg" : 3760800,
+      "upPercent" : 590
+    },
+    {
+      "level" : 99,
+      "dmg" : 3850600,
+      "upPercent" : 593
+    },
+    {
+      "level" : 100,
+      "dmg" : 3941700,
+      "upPercent" : 596
+    }
+  ]  
+}

@@ -1,0 +1,108 @@
+{
+  "ScryerRewards":[
+    {
+      "id" : 1,
+      "reward" : {
+        "weight" : 15,
+        "key" : 0,
+        "value" : 0
+      },
+      "name" : "19501001",
+      "desc" : "1950100101",
+      "pic" : "ScryCard_1001",
+      "typ" : "Interactive",
+      "buffId" : 0
+    },
+    {
+      "id" : 2,
+      "reward" : {
+        "weight" : 20,
+        "key" : 0,
+        "value" : 0
+      },
+      "name" : "19501002",
+      "desc" : "1950100102",
+      "pic" : "ScryCard_1002",
+      "typ" : "Buff",
+      "buffId" : 1
+    },
+    {
+      "id" : 3,
+      "reward" : {
+        "weight" : 20,
+        "key" : 0,
+        "value" : 0
+      },
+      "name" : "19501003",
+      "desc" : "1950100103",
+      "pic" : "ScryCard_1003",
+      "typ" : "Buff",
+      "buffId" : 2
+    },
+    {
+      "id" : 4,
+      "reward" : {
+        "weight" : 5,
+        "key" : 15070101,
+        "value" : 1
+      },
+      "name" : "19501004",
+      "desc" : "1950100104",
+      "pic" : "ScryCard_1004",
+      "typ" : "GetRes",
+      "buffId" : 0
+    },
+    {
+      "id" : 5,
+      "reward" : {
+        "weight" : 10,
+        "key" : 220004,
+        "value" : 5
+      },
+      "name" : "19501005",
+      "desc" : "1950100105",
+      "pic" : "ScryCard_1005",
+      "typ" : "GetRes",
+      "buffId" : 0
+    },
+    {
+      "id" : 6,
+      "reward" : {
+        "weight" : 15,
+        "key" : 220001,
+        "value" : 0
+      },
+      "name" : "19501006",
+      "desc" : "1950100106",
+      "pic" : "ScryCard_1006",
+      "typ" : "LoseRes",
+      "buffId" : 0
+    },
+    {
+      "id" : 7,
+      "reward" : {
+        "weight" : 0,
+        "key" : 220002,
+        "value" : 50
+      },
+      "name" : "19501007",
+      "desc" : "1950100107",
+      "pic" : "ScryCard_1007",
+      "typ" : "Ad",
+      "buffId" : 0
+    },
+    {
+      "id" : 8,
+      "reward" : {
+        "weight" : 15,
+        "key" : 15070102,
+        "value" : 5
+      },
+      "name" : "19501008",
+      "desc" : "1950100108",
+      "pic" : "ScryCard_1008",
+      "typ" : "GetRes",
+      "buffId" : 0
+    }
+  ]  
+}

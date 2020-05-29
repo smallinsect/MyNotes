@@ -1,0 +1,250 @@
+{
+  "Errcodes":[
+    {
+      "type" : "ServerErr",
+      "code" : 999,
+      "msg" : "服务器内部错误",
+      "strId" : 0
+    },
+    {
+      "type" : "ConfigNotFound",
+      "code" : 1000,
+      "msg" : "没有找到对应配置表信息",
+      "strId" : 0
+    },
+    {
+      "type" : "UserNotFound",
+      "code" : 1001,
+      "msg" : "没有该玩家",
+      "strId" : 0
+    },
+    {
+      "type" : "UserNameExist",
+      "code" : 1002,
+      "msg" : "已经存在该昵称",
+      "strId" : 19970149
+    },
+    {
+      "type" : "NoGold",
+      "code" : 1003,
+      "msg" : "金币不足",
+      "strId" : 19970122
+    },
+    {
+      "type" : "NoDiamond",
+      "code" : 1004,
+      "msg" : "钻石不足",
+      "strId" : 19970123
+    },
+    {
+      "type" : "NotFound",
+      "code" : 1005,
+      "msg" : "没有找到对应信息",
+      "strId" : 0
+    },
+    {
+      "type" : "NoEnergy",
+      "code" : 1006,
+      "msg" : "体力不足",
+      "strId" : 19970150
+    },
+    {
+      "type" : "NoShield",
+      "code" : 1007,
+      "msg" : "盾牌不足",
+      "strId" : 0
+    },
+    {
+      "type" : "BanLogin",
+      "code" : 1008,
+      "msg" : "禁止登陆",
+      "strId" : 0
+    },
+    {
+      "type" : "NoUnionScore",
+      "code" : 1009,
+      "msg" : "公会积分不足",
+      "strId" : 19970128
+    },
+    {
+      "type" : "ClosureLogin",
+      "code" : 1010,
+      "msg" : "账号被封禁，禁止登陆",
+      "strId" : 0
+    },
+    {
+      "type" : "NoGrid",
+      "code" : 2001,
+      "msg" : "没有找到该格子",
+      "strId" : 0
+    },
+    {
+      "type" : "GridIsOpen",
+      "code" : 2002,
+      "msg" : "格子已经被翻开",
+      "strId" : 0
+    },
+    {
+      "type" : "GridNoOpen",
+      "code" : 2003,
+      "msg" : "格子没有被翻开",
+      "strId" : 0
+    },
+    {
+      "type" : "GridNoGoods",
+      "code" : 2004,
+      "msg" : "格子没有物品",
+      "strId" : 0
+    },
+    {
+      "type" : "NoNextLayer",
+      "code" : 2005,
+      "msg" : "没有下一层",
+      "strId" : 0
+    },
+    {
+      "type" : "NoNextLevelDoor",
+      "code" : 2006,
+      "msg" : "没有下一关",
+      "strId" : 0
+    },
+    {
+      "type" : "NoPreLayer",
+      "code" : 2007,
+      "msg" : "没有上一层",
+      "strId" : 0
+    },
+    {
+      "type" : "NoPreLevelDoor",
+      "code" : 2008,
+      "msg" : "没有上一关",
+      "strId" : 0
+    },
+    {
+      "type" : "LevelDoorUndone",
+      "code" : 2009,
+      "msg" : "关卡未完成",
+      "strId" : 0
+    },
+    {
+      "type" : "LevelDoorRec",
+      "code" : 2010,
+      "msg" : "关卡奖励已经领取",
+      "strId" : 0
+    },
+    {
+      "type" : "HasShield",
+      "code" : 2011,
+      "msg" : "有盾牌保护",
+      "strId" : 0
+    },
+    {
+      "type" : "FireTimeOut",
+      "code" : 2012,
+      "msg" : "放火超时",
+      "strId" : 19970165
+    },
+    {
+      "type" : "NotFoundDoor",
+      "code" : 2013,
+      "msg" : "没有找到门",
+      "strId" : 19970151
+    },
+    {
+      "type" : "HasPetSkillShield",
+      "code" : 2014,
+      "msg" : "宠物技能机率抵挡",
+      "strId" : 0
+    },
+    {
+      "type" : "HasPetSkillDestroyShield",
+      "code" : 2015,
+      "msg" : "宠物技能机率破盾",
+      "strId" : 0
+    },
+    {
+      "type" : "HasPetSkillDestroyShieldAndTriggerResist",
+      "code" : 2016,
+      "msg" : "宠物技能机率破盾后被宠物技能抵挡",
+      "strId" : 0
+    },
+    {
+      "type" : "NoHeroGoods",
+      "code" : 4001,
+      "msg" : "英雄物品不足",
+      "strId" : 0
+    },
+    {
+      "type" : "NoRes",
+      "code" : 5001,
+      "msg" : "物品数量不足",
+      "strId" : 0
+    },
+    {
+      "type" : "NoUnion",
+      "code" : 6001,
+      "msg" : "没有此公会",
+      "strId" : 0
+    },
+    {
+      "type" : "NoUnionUser",
+      "code" : 6002,
+      "msg" : "公会没有该玩家",
+      "strId" : 19970152
+    },
+    {
+      "type" : "UnionFull",
+      "code" : 6003,
+      "msg" : "人数已满",
+      "strId" : 19970153
+    },
+    {
+      "type" : "UnionNoPermission",
+      "code" : 6004,
+      "msg" : "公会不可加入",
+      "strId" : 19970154
+    },
+    {
+      "type" : "UnionExist",
+      "code" : 6005,
+      "msg" : "存在同名公会",
+      "strId" : 19970155
+    },
+    {
+      "type" : "UnionShortNameExist",
+      "code" : 6006,
+      "msg" : "存在同短名公会",
+      "strId" : 19970156
+    },
+    {
+      "type" : "UnionIsBan",
+      "code" : 6007,
+      "msg" : "24小时内不可以再次加入原公会",
+      "strId" : 0
+    },
+    {
+      "type" : "NoPet",
+      "code" : 7001,
+      "msg" : "没有该宠物",
+      "strId" : 19970157
+    },
+    {
+      "type" : "NoPetFood",
+      "code" : 7002,
+      "msg" : "宠物食物不足",
+      "strId" : 0
+    },
+    {
+      "type" : "NoPetExp",
+      "code" : 7003,
+      "msg" : "宠物经验不足",
+      "strId" : 0
+    },
+    {
+      "type" : "TooFast",
+      "code" : 7500,
+      "msg" : "操作太快",
+      "strId" : 0
+    }
+  ]  
+}

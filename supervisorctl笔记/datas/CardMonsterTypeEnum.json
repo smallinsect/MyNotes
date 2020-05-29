@@ -1,0 +1,7 @@
+{
+  "CardMonsterTypeEnum":{
+      "Normal" : 0,
+      "Boss" : 1,
+      "WorldBoss" : 2
+  }  
+}

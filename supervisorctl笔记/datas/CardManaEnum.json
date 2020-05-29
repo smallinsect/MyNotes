@@ -1,0 +1,6 @@
+{
+  "CardManaEnum":{
+      "InitalMana" : 5,
+      "ManaPerTurn" : 2
+  }  
+}

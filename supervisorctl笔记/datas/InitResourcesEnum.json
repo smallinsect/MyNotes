@@ -1,0 +1,7 @@
+{
+  "InitResourcesEnum":{
+      "Gold" : 60000,
+      "Energy" : 50,
+      "Diamon" : 0
+  }  
+}

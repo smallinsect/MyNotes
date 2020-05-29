@@ -1,0 +1,670 @@
+{
+  "SlotActivityReward1":[
+    {
+      "round" : 1,
+      "needCount" : 2,
+      "goodTid" : 220004,
+      "goodNum" : 10
+    },
+    {
+      "round" : 2,
+      "needCount" : 5,
+      "goodTid" : 220001,
+      "goodNum" : 300000
+    },
+    {
+      "round" : 3,
+      "needCount" : 10,
+      "goodTid" : 220004,
+      "goodNum" : 15
+    },
+    {
+      "round" : 4,
+      "needCount" : 20,
+      "goodTid" : 220001,
+      "goodNum" : 900000
+    },
+    {
+      "round" : 5,
+      "needCount" : 30,
+      "goodTid" : 220004,
+      "goodNum" : 50
+    },
+    {
+      "round" : 6,
+      "needCount" : 15,
+      "goodTid" : 220001,
+      "goodNum" : 450000
+    },
+    {
+      "round" : 7,
+      "needCount" : 25,
+      "goodTid" : 15070102,
+      "goodNum" : 5
+    },
+    {
+      "round" : 8,
+      "needCount" : 35,
+      "goodTid" : 220004,
+      "goodNum" : 25
+    },
+    {
+      "round" : 9,
+      "needCount" : 40,
+      "goodTid" : 220001,
+      "goodNum" : 1050000
+    },
+    {
+      "round" : 10,
+      "needCount" : 50,
+      "goodTid" : 220004,
+      "goodNum" : 60
+    },
+    {
+      "round" : 11,
+      "needCount" : 25,
+      "goodTid" : 220001,
+      "goodNum" : 600000
+    },
+    {
+      "round" : 12,
+      "needCount" : 35,
+      "goodTid" : 220004,
+      "goodNum" : 25
+    },
+    {
+      "round" : 13,
+      "needCount" : 50,
+      "goodTid" : 15070102,
+      "goodNum" : 10
+    },
+    {
+      "round" : 14,
+      "needCount" : 65,
+      "goodTid" : 220001,
+      "goodNum" : 1500000
+    },
+    {
+      "round" : 15,
+      "needCount" : 80,
+      "goodTid" : 220004,
+      "goodNum" : 80
+    },
+    {
+      "round" : 16,
+      "needCount" : 45,
+      "goodTid" : 220001,
+      "goodNum" : 1050000
+    },
+    {
+      "round" : 17,
+      "needCount" : 60,
+      "goodTid" : 220004,
+      "goodNum" : 40
+    },
+    {
+      "round" : 18,
+      "needCount" : 75,
+      "goodTid" : 15070102,
+      "goodNum" : 12
+    },
+    {
+      "round" : 19,
+      "needCount" : 90,
+      "goodTid" : 220001,
+      "goodNum" : 2100000
+    },
+    {
+      "round" : 20,
+      "needCount" : 100,
+      "goodTid" : 220004,
+      "goodNum" : 150
+    },
+    {
+      "round" : 21,
+      "needCount" : 50,
+      "goodTid" : 220001,
+      "goodNum" : 1200000
+    },
+    {
+      "round" : 22,
+      "needCount" : 70,
+      "goodTid" : 220004,
+      "goodNum" : 45
+    },
+    {
+      "round" : 23,
+      "needCount" : 90,
+      "goodTid" : 15070102,
+      "goodNum" : 15
+    },
+    {
+      "round" : 24,
+      "needCount" : 110,
+      "goodTid" : 220001,
+      "goodNum" : 2700000
+    },
+    {
+      "round" : 25,
+      "needCount" : 130,
+      "goodTid" : 220004,
+      "goodNum" : 175
+    },
+    {
+      "round" : 26,
+      "needCount" : 75,
+      "goodTid" : 220001,
+      "goodNum" : 1800000
+    },
+    {
+      "round" : 27,
+      "needCount" : 100,
+      "goodTid" : 15070102,
+      "goodNum" : 20
+    },
+    {
+      "round" : 28,
+      "needCount" : 125,
+      "goodTid" : 220004,
+      "goodNum" : 100
+    },
+    {
+      "round" : 29,
+      "needCount" : 150,
+      "goodTid" : 220001,
+      "goodNum" : 3600000
+    },
+    {
+      "round" : 30,
+      "needCount" : 175,
+      "goodTid" : 15070102,
+      "goodNum" : 25
+    },
+    {
+      "round" : 31,
+      "needCount" : 90,
+      "goodTid" : 220001,
+      "goodNum" : 2100000
+    },
+    {
+      "round" : 32,
+      "needCount" : 120,
+      "goodTid" : 220004,
+      "goodNum" : 100
+    },
+    {
+      "round" : 33,
+      "needCount" : 150,
+      "goodTid" : 15070102,
+      "goodNum" : 25
+    },
+    {
+      "round" : 34,
+      "needCount" : 180,
+      "goodTid" : 220001,
+      "goodNum" : 4500000
+    },
+    {
+      "round" : 35,
+      "needCount" : 200,
+      "goodTid" : 220004,
+      "goodNum" : 300
+    },
+    {
+      "round" : 36,
+      "needCount" : 100,
+      "goodTid" : 220001,
+      "goodNum" : 2400000
+    },
+    {
+      "round" : 37,
+      "needCount" : 135,
+      "goodTid" : 220004,
+      "goodNum" : 100
+    },
+    {
+      "round" : 38,
+      "needCount" : 170,
+      "goodTid" : 15070102,
+      "goodNum" : 25
+    },
+    {
+      "round" : 39,
+      "needCount" : 200,
+      "goodTid" : 220001,
+      "goodNum" : 4800000
+    },
+    {
+      "round" : 40,
+      "needCount" : 230,
+      "goodTid" : 220004,
+      "goodNum" : 500
+    },
+    {
+      "round" : 41,
+      "needCount" : 120,
+      "goodTid" : 220001,
+      "goodNum" : 3000000
+    },
+    {
+      "round" : 42,
+      "needCount" : 160,
+      "goodTid" : 220004,
+      "goodNum" : 130
+    },
+    {
+      "round" : 43,
+      "needCount" : 200,
+      "goodTid" : 15070102,
+      "goodNum" : 30
+    },
+    {
+      "round" : 44,
+      "needCount" : 240,
+      "goodTid" : 220001,
+      "goodNum" : 6000000
+    },
+    {
+      "round" : 45,
+      "needCount" : 280,
+      "goodTid" : 220004,
+      "goodNum" : 450
+    },
+    {
+      "round" : 46,
+      "needCount" : 150,
+      "goodTid" : 220001,
+      "goodNum" : 3600000
+    },
+    {
+      "round" : 47,
+      "needCount" : 200,
+      "goodTid" : 220004,
+      "goodNum" : 160
+    },
+    {
+      "round" : 48,
+      "needCount" : 250,
+      "goodTid" : 15070102,
+      "goodNum" : 40
+    },
+    {
+      "round" : 49,
+      "needCount" : 300,
+      "goodTid" : 220001,
+      "goodNum" : 7200000
+    },
+    {
+      "round" : 50,
+      "needCount" : 350,
+      "goodTid" : 220004,
+      "goodNum" : 550
+    },
+    {
+      "round" : 51,
+      "needCount" : 220,
+      "goodTid" : 220001,
+      "goodNum" : 5250000
+    },
+    {
+      "round" : 52,
+      "needCount" : 280,
+      "goodTid" : 220004,
+      "goodNum" : 225
+    },
+    {
+      "round" : 53,
+      "needCount" : 340,
+      "goodTid" : 15070102,
+      "goodNum" : 50
+    },
+    {
+      "round" : 54,
+      "needCount" : 400,
+      "goodTid" : 220001,
+      "goodNum" : 9600000
+    },
+    {
+      "round" : 55,
+      "needCount" : 460,
+      "goodTid" : 220004,
+      "goodNum" : 650
+    },
+    {
+      "round" : 56,
+      "needCount" : 200,
+      "goodTid" : 220001,
+      "goodNum" : 4800000
+    },
+    {
+      "round" : 57,
+      "needCount" : 270,
+      "goodTid" : 220004,
+      "goodNum" : 220
+    },
+    {
+      "round" : 58,
+      "needCount" : 340,
+      "goodTid" : 15070102,
+      "goodNum" : 60
+    },
+    {
+      "round" : 59,
+      "needCount" : 400,
+      "goodTid" : 220001,
+      "goodNum" : 9600000
+    },
+    {
+      "round" : 60,
+      "needCount" : 470,
+      "goodTid" : 220004,
+      "goodNum" : 720
+    },
+    {
+      "round" : 61,
+      "needCount" : 250,
+      "goodTid" : 220001,
+      "goodNum" : 6000000
+    },
+    {
+      "round" : 62,
+      "needCount" : 330,
+      "goodTid" : 220004,
+      "goodNum" : 260
+    },
+    {
+      "round" : 63,
+      "needCount" : 400,
+      "goodTid" : 15070102,
+      "goodNum" : 65
+    },
+    {
+      "round" : 64,
+      "needCount" : 480,
+      "goodTid" : 220001,
+      "goodNum" : 11400000
+    },
+    {
+      "round" : 65,
+      "needCount" : 560,
+      "goodTid" : 220004,
+      "goodNum" : 800
+    },
+    {
+      "round" : 66,
+      "needCount" : 280,
+      "goodTid" : 220001,
+      "goodNum" : 6750000
+    },
+    {
+      "round" : 67,
+      "needCount" : 370,
+      "goodTid" : 220004,
+      "goodNum" : 300
+    },
+    {
+      "round" : 68,
+      "needCount" : 460,
+      "goodTid" : 15070102,
+      "goodNum" : 75
+    },
+    {
+      "round" : 69,
+      "needCount" : 550,
+      "goodTid" : 220001,
+      "goodNum" : 13200000
+    },
+    {
+      "round" : 70,
+      "needCount" : 640,
+      "goodTid" : 220004,
+      "goodNum" : 1000
+    },
+    {
+      "round" : 71,
+      "needCount" : 350,
+      "goodTid" : 220001,
+      "goodNum" : 8400000
+    },
+    {
+      "round" : 72,
+      "needCount" : 450,
+      "goodTid" : 220004,
+      "goodNum" : 360
+    },
+    {
+      "round" : 73,
+      "needCount" : 550,
+      "goodTid" : 15070102,
+      "goodNum" : 100
+    },
+    {
+      "round" : 74,
+      "needCount" : 650,
+      "goodTid" : 220001,
+      "goodNum" : 15600000
+    },
+    {
+      "round" : 75,
+      "needCount" : 750,
+      "goodTid" : 220004,
+      "goodNum" : 1200
+    },
+    {
+      "round" : 76,
+      "needCount" : 400,
+      "goodTid" : 220001,
+      "goodNum" : 9600000
+    },
+    {
+      "round" : 77,
+      "needCount" : 500,
+      "goodTid" : 220004,
+      "goodNum" : 400
+    },
+    {
+      "round" : 78,
+      "needCount" : 600,
+      "goodTid" : 15070102,
+      "goodNum" : 100
+    },
+    {
+      "round" : 79,
+      "needCount" : 700,
+      "goodTid" : 220001,
+      "goodNum" : 16800000
+    },
+    {
+      "round" : 80,
+      "needCount" : 800,
+      "goodTid" : 220004,
+      "goodNum" : 1500
+    },
+    {
+      "round" : 81,
+      "needCount" : 500,
+      "goodTid" : 220001,
+      "goodNum" : 12000000
+    },
+    {
+      "round" : 82,
+      "needCount" : 650,
+      "goodTid" : 220004,
+      "goodNum" : 520
+    },
+    {
+      "round" : 83,
+      "needCount" : 850,
+      "goodTid" : 15070102,
+      "goodNum" : 130
+    },
+    {
+      "round" : 84,
+      "needCount" : 1000,
+      "goodTid" : 220001,
+      "goodNum" : 24000000
+    },
+    {
+      "round" : 85,
+      "needCount" : 1150,
+      "goodTid" : 220004,
+      "goodNum" : 1800
+    },
+    {
+      "round" : 86,
+      "needCount" : 800,
+      "goodTid" : 220001,
+      "goodNum" : 19200000
+    },
+    {
+      "round" : 87,
+      "needCount" : 1000,
+      "goodTid" : 220004,
+      "goodNum" : 800
+    },
+    {
+      "round" : 88,
+      "needCount" : 1200,
+      "goodTid" : 15070102,
+      "goodNum" : 200
+    },
+    {
+      "round" : 89,
+      "needCount" : 1400,
+      "goodTid" : 220001,
+      "goodNum" : 26880000
+    },
+    {
+      "round" : 90,
+      "needCount" : 1600,
+      "goodTid" : 220004,
+      "goodNum" : 2000
+    },
+    {
+      "round" : 91,
+      "needCount" : 900,
+      "goodTid" : 220001,
+      "goodNum" : 17280000
+    },
+    {
+      "round" : 92,
+      "needCount" : 1200,
+      "goodTid" : 220004,
+      "goodNum" : 1000
+    },
+    {
+      "round" : 93,
+      "needCount" : 1500,
+      "goodTid" : 15070102,
+      "goodNum" : 240
+    },
+    {
+      "round" : 94,
+      "needCount" : 1800,
+      "goodTid" : 220001,
+      "goodNum" : 36000000
+    },
+    {
+      "round" : 95,
+      "needCount" : 2000,
+      "goodTid" : 220004,
+      "goodNum" : 2500
+    },
+    {
+      "round" : 96,
+      "needCount" : 1200,
+      "goodTid" : 220001,
+      "goodNum" : 21600000
+    },
+    {
+      "round" : 97,
+      "needCount" : 1600,
+      "goodTid" : 220004,
+      "goodNum" : 1300
+    },
+    {
+      "round" : 98,
+      "needCount" : 2000,
+      "goodTid" : 15070102,
+      "goodNum" : 320
+    },
+    {
+      "round" : 99,
+      "needCount" : 2400,
+      "goodTid" : 220001,
+      "goodNum" : 48000000
+    },
+    {
+      "round" : 100,
+      "needCount" : 2800,
+      "goodTid" : 220004,
+      "goodNum" : 3500
+    },
+    {
+      "round" : 101,
+      "needCount" : 1500,
+      "goodTid" : 220001,
+      "goodNum" : 28800000
+    },
+    {
+      "round" : 102,
+      "needCount" : 2000,
+      "goodTid" : 220004,
+      "goodNum" : 1600
+    },
+    {
+      "round" : 103,
+      "needCount" : 2500,
+      "goodTid" : 15070102,
+      "goodNum" : 400
+    },
+    {
+      "round" : 104,
+      "needCount" : 3000,
+      "goodTid" : 220001,
+      "goodNum" : 57600000
+    },
+    {
+      "round" : 105,
+      "needCount" : 3500,
+      "goodTid" : 220004,
+      "goodNum" : 4500
+    },
+    {
+      "round" : 106,
+      "needCount" : 1800,
+      "goodTid" : 220001,
+      "goodNum" : 36000000
+    },
+    {
+      "round" : 107,
+      "needCount" : 2400,
+      "goodTid" : 15070102,
+      "goodNum" : 400
+    },
+    {
+      "round" : 108,
+      "needCount" : 3000,
+      "goodTid" : 220001,
+      "goodNum" : 57600000
+    },
+    {
+      "round" : 109,
+      "needCount" : 3600,
+      "goodTid" : 220004,
+      "goodNum" : 3000
+    },
+    {
+      "round" : 110,
+      "needCount" : 4200,
+      "goodTid" : 220001,
+      "goodNum" : 81600000
+    },
+    {
+      "round" : 111,
+      "needCount" : 5000,
+      "goodTid" : 15070102,
+      "goodNum" : 1000
+    }
+  ]  
+}

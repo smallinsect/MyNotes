@@ -1,0 +1,8 @@
+{
+  "SlotActActionEnum":{
+      "trebleSp" : 1,
+      "stole" : 2,
+      "sucAtt" : 3,
+      "failAtt" : 4
+  }  
+}
